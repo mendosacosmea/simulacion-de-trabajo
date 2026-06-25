@@ -1,0 +1,3101 @@
+Producto,Cantidad,Precio_Unitario,Fecha_Venta,Vendedor
+Mouse, 2,681 USD,01-01-2026,Jorge Romero
+Mouse, 2,425 USD,01-01-2026,Carlos López
+Mouse,1,685 USD,2026-01-01,Juan Pérez
+Laptop, 2,21 USD,01-01-2026,Sara Ruiz
+Mouse, 2,245 USD,2026-01-01,Lucía Sánchez
+Monitor, 2,486 USD,2026.01.01,Sofía Giménez
+Monitor,1,322 USD,01-01-2026,Ana Martínez
+Monitor, 2,351 USD,2026-01-01,Elena Torres
+Laptop,5,305 USD,01-01-2026,Diego Díaz
+Mouse, 2,285 USD,01-01-2026,Valeria Sosa
+Monitor, 2,411 USD,2026.01.01,Luis Fernández
+Teclado,cuatro,207 USD,01-01-2026,María García
+Monitor,3 ,953 USD,2026-01-01,Luis Fernández
+Laptop, 2,461 USD,01-01-2026,Elena Torres
+Laptop,5,838 USD,01-01-2026,Pedro Gómez
+Teclado,cuatro,469 USD,2026.01.01,Luis Fernández
+Laptop,3 ,341 USD,01-01-2026,Luis Fernández
+Laptop,1,39 USD,2026-01-01,Elena Torres
+Mouse,1,317 USD,2026-01-01,Valeria Sosa
+Monitor,3 ,622 USD,01-01-2026,Andrés Benítez
+Monitor,5,37 USD,01-01-2026,Andrés Benítez
+Mouse,3 ,263 USD,2026.01.01,Lucía Sánchez
+Mouse, 2,77 USD,01-01-2026,María García
+Monitor,1,549 USD,2026.01.01,Diego Díaz
+Monitor,1,775 USD,01-01-2026,Facundo Acosta
+Mouse,3 ,689 USD,2026.01.01,Sofía Giménez
+Mouse, 2,768 USD,2026-01-01,Pedro Gómez
+Monitor,1,838 USD,2026-01-01,Luis Fernández
+Monitor,1,919 USD,01-01-2026,Facundo Acosta
+Mouse,1,681 USD,01-01-2026,Lucía Sánchez
+Teclado,3 ,766 USD,2026-01-01,Pedro Gómez
+Mouse,5,414 USD,01-01-2026,Sofía Giménez
+Teclado, 2,555 USD,01-01-2026,Sara Ruiz
+Teclado, 2,560 USD,2026.01.01,Diego Díaz
+Mouse,1,415 USD,01-01-2026,Sofía Giménez
+Laptop,3 ,309 USD,01-01-2026,Diego Díaz
+Laptop,cuatro,359 USD,2026.01.01,Sara Ruiz
+Mouse, 2,879 USD,2026-01-01,Luis Fernández
+Mouse,cuatro,700 USD,2026-01-01,Facundo Acosta
+Teclado,cuatro,152 USD,2026.01.01,Sara Ruiz
+Monitor, 2,692 USD,01-01-2026,Facundo Acosta
+Laptop, 2,611 USD,2026.01.01,Sofía Giménez
+Monitor,1,364 USD,01-01-2026,Valeria Sosa
+Laptop,1,719 USD,2026-01-01,Sara Ruiz
+Laptop, 2,842 USD,2026.01.01,Pedro Gómez
+Monitor,cuatro,600 USD,2026-01-01,Diego Díaz
+Laptop,cuatro,147 USD,01-01-2026,María García
+Monitor, 2,411 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,596 USD,01-01-2026,Ana Martínez
+Laptop,3 ,635 USD,2026-01-01,Ana Martínez
+Teclado,3 ,854 USD,2026-01-01,Elena Torres
+Monitor,1,216 USD,2026.01.01,Elena Torres
+Mouse,1,955 USD,01-01-2026,Pedro Gómez
+Laptop,3 ,859 USD,2026.01.01,Elena Torres
+Monitor,5,519 USD,2026-01-01,Valeria Sosa
+Monitor,cuatro,114 USD,2026-01-01,Diego Díaz
+Teclado,1,44 USD,2026.01.01,Luis Fernández
+Monitor, 2,159 USD,01-01-2026,Pedro Gómez
+Laptop,3 ,339 USD,2026-01-01,Juan Pérez
+Teclado, 2,658 USD,2026.01.01,Juan Pérez
+Laptop,5,203 USD,2026-01-01,Carlos López
+Monitor,cuatro,868 USD,2026-01-01,Juan Pérez
+Monitor,3 ,520 USD,2026-01-01,Facundo Acosta
+Mouse, 2,894 USD,2026-01-01,Andrés Benítez
+Mouse,1,288 USD,01-01-2026,Valeria Sosa
+Teclado, 2,287 USD,2026.01.01,Lucía Sánchez
+Monitor,cuatro,998 USD,2026-01-01,Diego Díaz
+Monitor, 2,429 USD,2026.01.01,Pedro Gómez
+Teclado,1,500 USD,2026-01-01,Pedro Gómez
+Mouse,5,861 USD,01-01-2026,Juan Pérez
+Monitor,cuatro,218 USD,2026.01.01,Pedro Gómez
+Mouse,5,892 USD,2026.01.01,Lucía Sánchez
+Teclado,1,646 USD,2026.01.01,Valeria Sosa
+Teclado, 2,152 USD,2026-01-01,Ana Martínez
+Laptop,5,356 USD,01-01-2026,Facundo Acosta
+Mouse,cuatro,555 USD,2026.01.01,Andrés Benítez
+Teclado,5,703 USD,2026.01.01,Elena Torres
+Monitor,3 ,334 USD,2026.01.01,Diego Díaz
+Mouse,3 ,677 USD,2026-01-01,Jorge Romero
+Monitor,3 ,284 USD,2026-01-01,Pedro Gómez
+Monitor,3 ,636 USD,2026.01.01,Elena Torres
+Monitor,3 ,475 USD,2026.01.01,Facundo Acosta
+Mouse,3 ,244 USD,01-01-2026,Facundo Acosta
+Teclado,cuatro,417 USD,2026.01.01,Jorge Romero
+Laptop, 2,876 USD,2026-01-01,Facundo Acosta
+Mouse,3 ,429 USD,2026-01-01,Jorge Romero
+Laptop,3 ,612 USD,2026.01.01,Pedro Gómez
+Laptop, 2,616 USD,2026-01-01,María García
+Monitor,1,719 USD,01-01-2026,Valeria Sosa
+Monitor,3 ,603 USD,2026.01.01,Juan Pérez
+Laptop,3 ,862 USD,01-01-2026,Jorge Romero
+Monitor,cuatro,904 USD,2026-01-01,María García
+Monitor,cuatro,779 USD,01-01-2026,Sara Ruiz
+Laptop,1,68 USD,2026-01-01,Juan Pérez
+Mouse,1,444 USD,01-01-2026,Lucía Sánchez
+Teclado,1,193 USD,2026-01-01,Diego Díaz
+Monitor,1,334 USD,01-01-2026,Jorge Romero
+Mouse,cuatro,114 USD,2026-01-01,Diego Díaz
+Mouse,3 ,992 USD,01-01-2026,Lucía Sánchez
+Mouse,3 ,100 USD,2026.01.01,Luis Fernández
+Laptop,5,518 USD,2026-01-01,Ana Martínez
+Laptop,cuatro,570 USD,01-01-2026,Sara Ruiz
+Monitor,3 ,834 USD,2026-01-01,Pedro Gómez
+Laptop,3 ,959 USD,2026-01-01,Carlos López
+Teclado,cuatro,906 USD,01-01-2026,Carlos López
+Teclado,1,288 USD,2026.01.01,María García
+Monitor,cuatro,455 USD,01-01-2026,Sofía Giménez
+Teclado, 2,634 USD,2026-01-01,María García
+Teclado, 2,630 USD,01-01-2026,Diego Díaz
+Mouse,cuatro,42 USD,01-01-2026,María García
+Laptop,1,653 USD,2026.01.01,Pedro Gómez
+Teclado,3 ,897 USD,2026-01-01,Jorge Romero
+Laptop, 2,936 USD,01-01-2026,Elena Torres
+Teclado, 2,720 USD,2026.01.01,María García
+Monitor,1,621 USD,2026-01-01,Diego Díaz
+Laptop,1,575 USD,2026-01-01,Carlos López
+Teclado,1,561 USD,2026.01.01,Facundo Acosta
+Mouse,5,463 USD,2026.01.01,Carlos López
+Laptop,5,58 USD,2026-01-01,Juan Pérez
+Teclado, 2,445 USD,2026-01-01,María García
+Teclado,3 ,909 USD,2026.01.01,Luis Fernández
+Monitor,cuatro,40 USD,2026.01.01,Carlos López
+Teclado,5,14 USD,2026.01.01,Elena Torres
+Mouse,5,396 USD,01-01-2026,Luis Fernández
+Teclado,cuatro,510 USD,01-01-2026,Sara Ruiz
+Mouse,3 ,11 USD,01-01-2026,Diego Díaz
+Laptop, 2,120 USD,01-01-2026,Andrés Benítez
+Laptop,3 ,748 USD,2026.01.01,Lucía Sánchez
+Teclado,3 ,150 USD,01-01-2026,Sara Ruiz
+Laptop,1,416 USD,2026.01.01,Luis Fernández
+Teclado,5,407 USD,2026.01.01,Sara Ruiz
+Mouse,1,847 USD,01-01-2026,Diego Díaz
+Laptop,5,876 USD,2026-01-01,Valeria Sosa
+Monitor,cuatro,291 USD,01-01-2026,Elena Torres
+Laptop,3 ,715 USD,2026-01-01,Juan Pérez
+Mouse, 2,430 USD,2026-01-01,Ana Martínez
+Monitor,1,456 USD,2026-01-01,Sofía Giménez
+Mouse,cuatro,254 USD,2026.01.01,Diego Díaz
+Mouse,3 ,259 USD,01-01-2026,Lucía Sánchez
+Mouse,3 ,552 USD,2026-01-01,Carlos López
+Laptop,5,153 USD,2026.01.01,Facundo Acosta
+Teclado,5,466 USD,2026.01.01,Sofía Giménez
+Teclado,cuatro,327 USD,2026-01-01,Sofía Giménez
+Teclado,cuatro,797 USD,2026-01-01,Ana Martínez
+Monitor,5,783 USD,2026.01.01,Facundo Acosta
+Laptop,5,993 USD,01-01-2026,Sofía Giménez
+Mouse,5,32 USD,2026-01-01,Facundo Acosta
+Teclado,1,331 USD,01-01-2026,Juan Pérez
+Mouse,cuatro,342 USD,2026-01-01,Diego Díaz
+Mouse,cuatro,377 USD,2026.01.01,Pedro Gómez
+Laptop,3 ,316 USD,2026.01.01,Lucía Sánchez
+Monitor,5,554 USD,2026.01.01,Carlos López
+Mouse, 2,986 USD,2026.01.01,Sofía Giménez
+Teclado,5,789 USD,2026-01-01,Juan Pérez
+Mouse,3 ,262 USD,01-01-2026,Sara Ruiz
+Monitor,cuatro,564 USD,2026-01-01,Diego Díaz
+Mouse, 2,685 USD,2026.01.01,Ana Martínez
+Teclado,1,745 USD,01-01-2026,Facundo Acosta
+Laptop,3 ,883 USD,2026-01-01,Andrés Benítez
+Laptop,1,199 USD,01-01-2026,Luis Fernández
+Monitor,1,537 USD,2026.01.01,Pedro Gómez
+Laptop,5,855 USD,01-01-2026,Lucía Sánchez
+Teclado,5,352 USD,2026.01.01,Sara Ruiz
+Laptop,1,672 USD,2026.01.01,Valeria Sosa
+Teclado,cuatro,516 USD,01-01-2026,Sara Ruiz
+Laptop,1,763 USD,2026.01.01,Juan Pérez
+Monitor,cuatro,693 USD,01-01-2026,Diego Díaz
+Monitor,1,633 USD,2026.01.01,María García
+Monitor,3 ,463 USD,2026.01.01,Pedro Gómez
+Mouse,3 ,692 USD,2026.01.01,Lucía Sánchez
+Teclado,3 ,303 USD,01-01-2026,Andrés Benítez
+Laptop,1,778 USD,01-01-2026,Luis Fernández
+Monitor, 2,959 USD,01-01-2026,Elena Torres
+Teclado,1,723 USD,01-01-2026,Luis Fernández
+Monitor,1,727 USD,01-01-2026,Jorge Romero
+Monitor, 2,442 USD,2026-01-01,Pedro Gómez
+Monitor, 2,299 USD,2026-01-01,Luis Fernández
+Monitor, 2,843 USD,2026.01.01,Carlos López
+Laptop,5,689 USD,2026.01.01,Diego Díaz
+Teclado,cuatro,453 USD,2026.01.01,Carlos López
+Monitor,1,654 USD,2026-01-01,Pedro Gómez
+Mouse,5,305 USD,2026-01-01,Diego Díaz
+Laptop,cuatro,390 USD,2026.01.01,Diego Díaz
+Teclado,cuatro,50 USD,01-01-2026,Diego Díaz
+Monitor,1,903 USD,01-01-2026,Ana Martínez
+Monitor,1,56 USD,01-01-2026,Juan Pérez
+Mouse,cuatro,314 USD,2026-01-01,Valeria Sosa
+Teclado, 2,798 USD,2026.01.01,Andrés Benítez
+Teclado,1,987 USD,2026-01-01,Sofía Giménez
+Mouse,3 ,166 USD,2026.01.01,Andrés Benítez
+Monitor,cuatro,380 USD,2026-01-01,Ana Martínez
+Mouse,1,924 USD,2026-01-01,Jorge Romero
+Teclado,1,572 USD,01-01-2026,Luis Fernández
+Teclado,5,259 USD,01-01-2026,Pedro Gómez
+Laptop,1,472 USD,2026-01-01,Ana Martínez
+Laptop,1,298 USD,01-01-2026,Sara Ruiz
+Teclado,1,119 USD,01-01-2026,Facundo Acosta
+Monitor,5,71 USD,2026.01.01,Sofía Giménez
+Mouse,1,381 USD,01-01-2026,Jorge Romero
+Laptop,5,570 USD,2026-01-01,Facundo Acosta
+Laptop,5,761 USD,01-01-2026,Pedro Gómez
+Mouse,cuatro,525 USD,2026.01.01,Elena Torres
+Monitor,cuatro,374 USD,2026-01-01,Pedro Gómez
+Teclado,1,470 USD,01-01-2026,Valeria Sosa
+Mouse,3 ,611 USD,01-01-2026,Facundo Acosta
+Monitor, 2,699 USD,01-01-2026,Elena Torres
+Mouse,cuatro,578 USD,2026.01.01,Carlos López
+Laptop,1,874 USD,2026-01-01,Facundo Acosta
+Mouse,3 ,459 USD,2026.01.01,Carlos López
+Teclado,1,15 USD,2026.01.01,Facundo Acosta
+Teclado,cuatro,914 USD,2026-01-01,Lucía Sánchez
+Monitor,1,926 USD,01-01-2026,Sofía Giménez
+Laptop,5,182 USD,2026.01.01,Ana Martínez
+Teclado,cuatro,443 USD,2026.01.01,Sofía Giménez
+Laptop,5,525 USD,01-01-2026,Luis Fernández
+Teclado, 2,154 USD,2026.01.01,Valeria Sosa
+Monitor, 2,313 USD,2026-01-01,Pedro Gómez
+Mouse,3 ,358 USD,01-01-2026,Carlos López
+Monitor,3 ,288 USD,01-01-2026,Valeria Sosa
+Monitor,5,930 USD,01-01-2026,Juan Pérez
+Teclado, 2,330 USD,01-01-2026,Andrés Benítez
+Teclado,1,205 USD,2026.01.01,Facundo Acosta
+Mouse,cuatro,210 USD,2026.01.01,Sofía Giménez
+Mouse,cuatro,691 USD,01-01-2026,Pedro Gómez
+Mouse,3 ,840 USD,2026-01-01,Andrés Benítez
+Monitor,cuatro,721 USD,2026-01-01,Lucía Sánchez
+Laptop,5,253 USD,2026-01-01,Facundo Acosta
+Mouse,cuatro,476 USD,2026-01-01,Sara Ruiz
+Teclado,5,803 USD,01-01-2026,María García
+Teclado,1,161 USD,2026-01-01,Andrés Benítez
+Monitor, 2,309 USD,2026.01.01,Facundo Acosta
+Mouse,cuatro,678 USD,2026.01.01,Luis Fernández
+Monitor,1,776 USD,01-01-2026,Elena Torres
+Teclado,cuatro,83 USD,2026-01-01,Ana Martínez
+Laptop,3 ,247 USD,2026-01-01,Pedro Gómez
+Teclado,cuatro,570 USD,01-01-2026,Pedro Gómez
+Laptop, 2,184 USD,2026.01.01,Juan Pérez
+Teclado,cuatro,278 USD,2026.01.01,Juan Pérez
+Monitor,3 ,129 USD,2026-01-01,Diego Díaz
+Monitor,1,198 USD,2026.01.01,Valeria Sosa
+Mouse,cuatro,886 USD,2026.01.01,Elena Torres
+Teclado,cuatro,970 USD,2026-01-01,Ana Martínez
+Monitor,5,232 USD,01-01-2026,Pedro Gómez
+Teclado, 2,17 USD,01-01-2026,Valeria Sosa
+Laptop,3 ,951 USD,2026-01-01,Andrés Benítez
+Monitor,1,40 USD,2026-01-01,María García
+Teclado,3 ,243 USD,01-01-2026,Luis Fernández
+Teclado,5,709 USD,01-01-2026,Facundo Acosta
+Laptop, 2,895 USD,2026.01.01,Lucía Sánchez
+Monitor,cuatro,503 USD,2026.01.01,Juan Pérez
+Monitor,cuatro,213 USD,01-01-2026,Luis Fernández
+Mouse,1,940 USD,01-01-2026,Sofía Giménez
+Monitor,1,42 USD,2026-01-01,Valeria Sosa
+Teclado, 2,390 USD,2026-01-01,Jorge Romero
+Laptop,5,173 USD,2026.01.01,Pedro Gómez
+Monitor, 2,934 USD,01-01-2026,María García
+Mouse,5,463 USD,2026.01.01,Valeria Sosa
+Monitor,3 ,667 USD,01-01-2026,María García
+Monitor,3 ,510 USD,2026-01-01,Ana Martínez
+Laptop,5,684 USD,01-01-2026,Jorge Romero
+Laptop,cuatro,933 USD,2026-01-01,Valeria Sosa
+Mouse,5,228 USD,01-01-2026,Facundo Acosta
+Monitor,5,248 USD,2026-01-01,Luis Fernández
+Monitor,cuatro,93 USD,2026-01-01,Elena Torres
+Teclado, 2,587 USD,2026.01.01,Valeria Sosa
+Mouse, 2,675 USD,2026.01.01,Facundo Acosta
+Monitor,3 ,400 USD,2026.01.01,Juan Pérez
+Teclado,1,635 USD,2026.01.01,Ana Martínez
+Monitor,cuatro,328 USD,01-01-2026,Juan Pérez
+Monitor,3 ,494 USD,01-01-2026,Pedro Gómez
+Laptop,3 ,214 USD,2026.01.01,Jorge Romero
+Monitor,1,649 USD,2026-01-01,Valeria Sosa
+Mouse,cuatro,589 USD,2026-01-01,Sara Ruiz
+Monitor,5,939 USD,2026-01-01,Pedro Gómez
+Mouse,5,709 USD,01-01-2026,Andrés Benítez
+Monitor,cuatro,512 USD,2026-01-01,Jorge Romero
+Laptop,cuatro,39 USD,01-01-2026,Lucía Sánchez
+Teclado,3 ,96 USD,2026-01-01,Juan Pérez
+Laptop,3 ,139 USD,01-01-2026,Lucía Sánchez
+Teclado,3 ,550 USD,2026.01.01,Andrés Benítez
+Monitor,cuatro,881 USD,2026-01-01,Ana Martínez
+Monitor,1,265 USD,2026-01-01,Juan Pérez
+Mouse, 2,535 USD,2026.01.01,Sofía Giménez
+Monitor, 2,646 USD,01-01-2026,Elena Torres
+Monitor,5,555 USD,01-01-2026,Jorge Romero
+Teclado,5,710 USD,2026.01.01,Facundo Acosta
+Teclado,1,188 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,110 USD,2026-01-01,Valeria Sosa
+Mouse,3 ,539 USD,2026.01.01,María García
+Mouse,cuatro,596 USD,01-01-2026,Luis Fernández
+Teclado, 2,757 USD,2026.01.01,Carlos López
+Mouse, 2,366 USD,2026.01.01,Facundo Acosta
+Laptop,1,666 USD,2026-01-01,Lucía Sánchez
+Mouse,5,416 USD,2026-01-01,María García
+Monitor,3 ,606 USD,2026-01-01,Diego Díaz
+Laptop,5,136 USD,01-01-2026,Luis Fernández
+Laptop,5,743 USD,2026-01-01,Juan Pérez
+Mouse,3 ,242 USD,2026.01.01,Juan Pérez
+Mouse,5,741 USD,01-01-2026,Carlos López
+Mouse,3 ,10 USD,2026.01.01,Lucía Sánchez
+Monitor, 2,488 USD,2026.01.01,Ana Martínez
+Laptop, 2,479 USD,01-01-2026,Diego Díaz
+Monitor,3 ,316 USD,2026-01-01,María García
+Laptop,5,974 USD,2026.01.01,Lucía Sánchez
+Teclado,3 ,906 USD,2026-01-01,Andrés Benítez
+Mouse,1,878 USD,2026.01.01,Sofía Giménez
+Mouse,1,530 USD,2026.01.01,Diego Díaz
+Monitor, 2,421 USD,2026.01.01,Sara Ruiz
+Mouse,3 ,518 USD,2026.01.01,Sofía Giménez
+Laptop, 2,906 USD,2026.01.01,Jorge Romero
+Laptop,1,233 USD,2026.01.01,Carlos López
+Monitor,3 ,296 USD,2026.01.01,Sofía Giménez
+Teclado,cuatro,451 USD,2026-01-01,Jorge Romero
+Monitor, 2,983 USD,2026-01-01,Andrés Benítez
+Mouse,cuatro,708 USD,2026.01.01,Facundo Acosta
+Laptop,5,59 USD,2026.01.01,María García
+Teclado,1,452 USD,2026.01.01,Andrés Benítez
+Monitor,1,134 USD,01-01-2026,Jorge Romero
+Monitor,3 ,32 USD,2026-01-01,María García
+Mouse,cuatro,17 USD,01-01-2026,Facundo Acosta
+Mouse,cuatro,410 USD,01-01-2026,Diego Díaz
+Teclado,3 ,605 USD,01-01-2026,Sara Ruiz
+Mouse,1,746 USD,2026-01-01,Elena Torres
+Monitor,3 ,420 USD,01-01-2026,Valeria Sosa
+Teclado,1,62 USD,2026.01.01,Diego Díaz
+Monitor,3 ,159 USD,01-01-2026,Valeria Sosa
+Mouse,3 ,473 USD,2026-01-01,Pedro Gómez
+Monitor,cuatro,625 USD,01-01-2026,Diego Díaz
+Monitor,5,445 USD,01-01-2026,Carlos López
+Laptop,cuatro,23 USD,2026.01.01,Facundo Acosta
+Mouse,1,148 USD,01-01-2026,Elena Torres
+Monitor, 2,312 USD,2026-01-01,Pedro Gómez
+Laptop,3 ,50 USD,2026.01.01,Sara Ruiz
+Mouse,5,502 USD,01-01-2026,Juan Pérez
+Monitor,1,194 USD,2026-01-01,Elena Torres
+Laptop,5,195 USD,2026-01-01,Juan Pérez
+Teclado,cuatro,333 USD,2026-01-01,Lucía Sánchez
+Mouse,5,878 USD,01-01-2026,María García
+Laptop,5,55 USD,01-01-2026,Pedro Gómez
+Teclado,1,37 USD,2026.01.01,Facundo Acosta
+Monitor, 2,910 USD,2026.01.01,Valeria Sosa
+Mouse,1,375 USD,01-01-2026,Pedro Gómez
+Laptop,1,878 USD,2026-01-01,Elena Torres
+Mouse,5,100 USD,2026-01-01,Juan Pérez
+Teclado,5,965 USD,2026.01.01,Andrés Benítez
+Laptop,cuatro,522 USD,2026-01-01,Elena Torres
+Monitor,3 ,96 USD,2026.01.01,Luis Fernández
+Mouse, 2,418 USD,2026-01-01,Sofía Giménez
+Monitor,3 ,156 USD,2026.01.01,Facundo Acosta
+Monitor,3 ,80 USD,01-01-2026,Valeria Sosa
+Laptop,3 ,145 USD,2026.01.01,Sofía Giménez
+Laptop, 2,730 USD,01-01-2026,Carlos López
+Laptop,cuatro,531 USD,2026-01-01,Elena Torres
+Teclado,1,432 USD,01-01-2026,Lucía Sánchez
+Monitor,3 ,878 USD,2026.01.01,Valeria Sosa
+Laptop, 2,893 USD,2026.01.01,Diego Díaz
+Monitor, 2,452 USD,2026.01.01,Sara Ruiz
+Teclado,cuatro,198 USD,01-01-2026,María García
+Laptop,5,578 USD,2026-01-01,Sara Ruiz
+Monitor,cuatro,14 USD,01-01-2026,Diego Díaz
+Monitor,cuatro,555 USD,01-01-2026,Jorge Romero
+Teclado,5,30 USD,2026.01.01,Lucía Sánchez
+Mouse,5,313 USD,01-01-2026,Jorge Romero
+Mouse, 2,198 USD,2026-01-01,Diego Díaz
+Laptop,1,531 USD,2026-01-01,Jorge Romero
+Laptop,cuatro,157 USD,2026-01-01,Luis Fernández
+Mouse, 2,765 USD,2026.01.01,Facundo Acosta
+Laptop,1,155 USD,2026.01.01,Elena Torres
+Monitor,3 ,729 USD,2026.01.01,Elena Torres
+Teclado, 2,73 USD,2026.01.01,Jorge Romero
+Mouse,1,768 USD,2026.01.01,Facundo Acosta
+Mouse,1,284 USD,01-01-2026,Luis Fernández
+Teclado, 2,228 USD,2026.01.01,Valeria Sosa
+Mouse,3 ,814 USD,01-01-2026,Carlos López
+Teclado, 2,804 USD,2026-01-01,Sara Ruiz
+Laptop,1,419 USD,2026.01.01,Jorge Romero
+Mouse,3 ,582 USD,01-01-2026,Valeria Sosa
+Monitor,cuatro,745 USD,01-01-2026,Carlos López
+Teclado,3 ,824 USD,01-01-2026,Valeria Sosa
+Teclado,3 ,678 USD,01-01-2026,María García
+Monitor,cuatro,136 USD,2026.01.01,Elena Torres
+Monitor, 2,735 USD,2026-01-01,María García
+Laptop,cuatro,679 USD,2026.01.01,Sara Ruiz
+Mouse,3 ,272 USD,01-01-2026,Andrés Benítez
+Monitor,cuatro,293 USD,2026-01-01,Valeria Sosa
+Laptop,1,560 USD,2026-01-01,Sofía Giménez
+Monitor,3 ,88 USD,01-01-2026,Jorge Romero
+Teclado,5,613 USD,2026-01-01,Sara Ruiz
+Teclado,5,286 USD,2026-01-01,Diego Díaz
+Teclado,5,501 USD,2026-01-01,María García
+Monitor,1,644 USD,2026-01-01,Elena Torres
+Mouse,3 ,656 USD,2026.01.01,Luis Fernández
+Laptop,5,411 USD,2026.01.01,Diego Díaz
+Monitor, 2,703 USD,2026-01-01,Lucía Sánchez
+Mouse,3 ,412 USD,2026-01-01,Carlos López
+Monitor,3 ,497 USD,2026-01-01,Sofía Giménez
+Teclado, 2,70 USD,2026-01-01,María García
+Laptop,3 ,584 USD,2026.01.01,Ana Martínez
+Mouse,1,972 USD,2026-01-01,Diego Díaz
+Laptop,3 ,199 USD,2026-01-01,Ana Martínez
+Monitor,1,859 USD,01-01-2026,Carlos López
+Laptop,5,102 USD,2026.01.01,Elena Torres
+Laptop, 2,858 USD,01-01-2026,Lucía Sánchez
+Monitor, 2,874 USD,2026.01.01,Ana Martínez
+Teclado,1,169 USD,01-01-2026,Andrés Benítez
+Teclado,3 ,514 USD,2026.01.01,Valeria Sosa
+Monitor,1,177 USD,01-01-2026,Sofía Giménez
+Laptop,3 ,982 USD,2026.01.01,Lucía Sánchez
+Laptop,5,892 USD,01-01-2026,Sara Ruiz
+Laptop,3 ,568 USD,2026-01-01,Ana Martínez
+Laptop,cuatro,557 USD,2026-01-01,Valeria Sosa
+Monitor, 2,30 USD,2026-01-01,Luis Fernández
+Mouse,3 ,477 USD,2026.01.01,Jorge Romero
+Teclado, 2,364 USD,2026.01.01,Andrés Benítez
+Teclado,5,732 USD,01-01-2026,Ana Martínez
+Teclado, 2,549 USD,01-01-2026,Carlos López
+Monitor,1,958 USD,2026-01-01,Sara Ruiz
+Teclado,5,677 USD,2026.01.01,Juan Pérez
+Teclado,3 ,647 USD,2026-01-01,Andrés Benítez
+Teclado,3 ,490 USD,2026.01.01,Ana Martínez
+Laptop, 2,528 USD,2026-01-01,Ana Martínez
+Mouse,cuatro,258 USD,2026-01-01,Carlos López
+Monitor,3 ,44 USD,2026-01-01,Sara Ruiz
+Teclado,1,493 USD,2026-01-01,Valeria Sosa
+Monitor,3 ,418 USD,01-01-2026,Andrés Benítez
+Teclado,5,878 USD,2026-01-01,María García
+Mouse,5,489 USD,01-01-2026,María García
+Teclado,cuatro,685 USD,2026.01.01,Elena Torres
+Teclado,3 ,496 USD,01-01-2026,Elena Torres
+Mouse,5,298 USD,01-01-2026,Sara Ruiz
+Teclado,1,529 USD,2026-01-01,Facundo Acosta
+Mouse,5,556 USD,2026-01-01,Carlos López
+Laptop,3 ,135 USD,01-01-2026,Diego Díaz
+Monitor,3 ,38 USD,2026-01-01,Juan Pérez
+Monitor, 2,771 USD,2026-01-01,Jorge Romero
+Monitor,1,373 USD,01-01-2026,Elena Torres
+Mouse,3 ,640 USD,2026-01-01,Diego Díaz
+Mouse,3 ,74 USD,01-01-2026,Diego Díaz
+Teclado, 2,72 USD,2026-01-01,Facundo Acosta
+Teclado,5,727 USD,01-01-2026,Sara Ruiz
+Monitor, 2,678 USD,2026-01-01,Ana Martínez
+Laptop,3 ,17 USD,2026.01.01,Luis Fernández
+Mouse, 2,375 USD,2026-01-01,Ana Martínez
+Teclado,1,841 USD,2026-01-01,Carlos López
+Laptop,1,605 USD,01-01-2026,Jorge Romero
+Laptop,3 ,968 USD,2026.01.01,Juan Pérez
+Laptop, 2,971 USD,2026-01-01,Diego Díaz
+Mouse,5,414 USD,01-01-2026,Valeria Sosa
+Laptop,3 ,464 USD,2026.01.01,Andrés Benítez
+Laptop, 2,761 USD,01-01-2026,Lucía Sánchez
+Teclado,5,835 USD,2026.01.01,Sofía Giménez
+Mouse,cuatro,185 USD,01-01-2026,Juan Pérez
+Laptop,1,809 USD,2026.01.01,Elena Torres
+Monitor, 2,140 USD,2026.01.01,Sara Ruiz
+Laptop,3 ,796 USD,01-01-2026,Jorge Romero
+Teclado, 2,536 USD,2026.01.01,Ana Martínez
+Teclado,5,753 USD,2026.01.01,María García
+Teclado,1,557 USD,01-01-2026,Andrés Benítez
+Monitor,5,399 USD,01-01-2026,Sara Ruiz
+Mouse,cuatro,756 USD,2026-01-01,Carlos López
+Mouse,5,820 USD,2026.01.01,Facundo Acosta
+Laptop,cuatro,218 USD,2026.01.01,Sofía Giménez
+Laptop,1,150 USD,2026-01-01,Carlos López
+Mouse,1,77 USD,01-01-2026,Facundo Acosta
+Mouse,1,764 USD,01-01-2026,Facundo Acosta
+Teclado,5,138 USD,01-01-2026,Elena Torres
+Laptop,3 ,979 USD,01-01-2026,Elena Torres
+Mouse,cuatro,119 USD,2026.01.01,Luis Fernández
+Monitor,3 ,220 USD,2026.01.01,Sara Ruiz
+Mouse, 2,161 USD,01-01-2026,Jorge Romero
+Laptop,cuatro,117 USD,2026-01-01,Lucía Sánchez
+Monitor,cuatro,687 USD,2026-01-01,Ana Martínez
+Teclado,5,320 USD,01-01-2026,Luis Fernández
+Laptop,5,415 USD,01-01-2026,Pedro Gómez
+Monitor,cuatro,709 USD,01-01-2026,Lucía Sánchez
+Monitor,cuatro,650 USD,2026-01-01,Valeria Sosa
+Teclado, 2,524 USD,2026.01.01,Jorge Romero
+Monitor, 2,904 USD,01-01-2026,Valeria Sosa
+Teclado,3 ,988 USD,2026-01-01,Jorge Romero
+Mouse, 2,847 USD,01-01-2026,Sofía Giménez
+Teclado,1,732 USD,2026-01-01,Pedro Gómez
+Laptop, 2,90 USD,2026-01-01,Valeria Sosa
+Laptop,cuatro,300 USD,2026-01-01,Juan Pérez
+Laptop,cuatro,459 USD,2026-01-01,Pedro Gómez
+Teclado,5,24 USD,2026.01.01,Ana Martínez
+Teclado, 2,531 USD,2026.01.01,Valeria Sosa
+Laptop,3 ,465 USD,2026-01-01,Facundo Acosta
+Teclado,1,543 USD,2026-01-01,Juan Pérez
+Laptop, 2,959 USD,2026-01-01,Carlos López
+Teclado,1,422 USD,01-01-2026,Jorge Romero
+Teclado,5,201 USD,2026-01-01,Diego Díaz
+Monitor, 2,923 USD,2026-01-01,Ana Martínez
+Mouse,3 ,540 USD,01-01-2026,Elena Torres
+Mouse,1,759 USD,01-01-2026,Pedro Gómez
+Laptop,cuatro,818 USD,2026-01-01,Diego Díaz
+Monitor,3 ,593 USD,2026.01.01,Sofía Giménez
+Laptop,cuatro,931 USD,2026.01.01,Valeria Sosa
+Monitor,cuatro,34 USD,2026.01.01,Facundo Acosta
+Monitor,cuatro,746 USD,2026.01.01,Pedro Gómez
+Mouse,cuatro,513 USD,2026.01.01,Andrés Benítez
+Monitor,3 ,935 USD,2026.01.01,Lucía Sánchez
+Monitor,3 ,484 USD,2026-01-01,Pedro Gómez
+Mouse,cuatro,676 USD,2026-01-01,Ana Martínez
+Mouse, 2,293 USD,2026.01.01,Elena Torres
+Laptop,3 ,926 USD,2026-01-01,Elena Torres
+Mouse,5,190 USD,01-01-2026,Elena Torres
+Teclado,5,104 USD,2026-01-01,Jorge Romero
+Mouse,3 ,11 USD,01-01-2026,Elena Torres
+Laptop,cuatro,788 USD,2026-01-01,Lucía Sánchez
+Mouse,3 ,872 USD,01-01-2026,Carlos López
+Mouse,cuatro,508 USD,2026.01.01,Lucía Sánchez
+Mouse,cuatro,173 USD,2026-01-01,Facundo Acosta
+Laptop,3 ,722 USD,2026-01-01,Andrés Benítez
+Teclado,1,717 USD,01-01-2026,María García
+Mouse, 2,183 USD,2026.01.01,Carlos López
+Monitor,3 ,548 USD,2026.01.01,Valeria Sosa
+Teclado,cuatro,975 USD,2026.01.01,Pedro Gómez
+Laptop, 2,971 USD,2026.01.01,Elena Torres
+Laptop,1,584 USD,01-01-2026,Pedro Gómez
+Laptop,1,726 USD,2026-01-01,Juan Pérez
+Teclado,5,292 USD,2026-01-01,Juan Pérez
+Laptop, 2,701 USD,2026.01.01,Ana Martínez
+Mouse,5,81 USD,2026.01.01,Elena Torres
+Monitor, 2,645 USD,2026-01-01,Jorge Romero
+Laptop, 2,681 USD,01-01-2026,Diego Díaz
+Mouse, 2,100 USD,2026.01.01,Ana Martínez
+Mouse,cuatro,489 USD,01-01-2026,María García
+Teclado,3 ,692 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,829 USD,2026.01.01,Elena Torres
+Teclado,cuatro,811 USD,2026-01-01,Facundo Acosta
+Teclado,1,319 USD,01-01-2026,Elena Torres
+Teclado,1,241 USD,2026-01-01,Sofía Giménez
+Laptop, 2,953 USD,2026-01-01,Jorge Romero
+Monitor,cuatro,411 USD,2026-01-01,Ana Martínez
+Teclado,3 ,860 USD,2026.01.01,Pedro Gómez
+Mouse,3 ,773 USD,01-01-2026,Pedro Gómez
+Monitor,cuatro,571 USD,2026-01-01,Ana Martínez
+Monitor,1,326 USD,2026-01-01,Sara Ruiz
+Laptop,5,403 USD,2026-01-01,Facundo Acosta
+Monitor,3 ,632 USD,2026-01-01,Sara Ruiz
+Monitor,1,197 USD,2026-01-01,Luis Fernández
+Laptop,1,472 USD,2026.01.01,Elena Torres
+Mouse,5,910 USD,2026-01-01,Juan Pérez
+Mouse,cuatro,149 USD,01-01-2026,Carlos López
+Teclado,5,388 USD,2026-01-01,Sofía Giménez
+Teclado, 2,979 USD,2026.01.01,Pedro Gómez
+Teclado,cuatro,678 USD,2026-01-01,Andrés Benítez
+Laptop,cuatro,92 USD,01-01-2026,Pedro Gómez
+Monitor,3 ,488 USD,2026.01.01,Carlos López
+Monitor,5,738 USD,2026.01.01,María García
+Teclado,5,823 USD,01-01-2026,Ana Martínez
+Teclado,3 ,220 USD,01-01-2026,Jorge Romero
+Mouse,1,861 USD,2026-01-01,Pedro Gómez
+Teclado,3 ,536 USD,01-01-2026,Juan Pérez
+Mouse,cuatro,554 USD,01-01-2026,Luis Fernández
+Monitor,5,899 USD,2026-01-01,Ana Martínez
+Mouse, 2,413 USD,2026.01.01,Diego Díaz
+Laptop,1,974 USD,01-01-2026,Andrés Benítez
+Monitor, 2,821 USD,2026-01-01,Luis Fernández
+Laptop,3 ,284 USD,01-01-2026,Ana Martínez
+Mouse,1,629 USD,01-01-2026,Elena Torres
+Laptop,5,360 USD,01-01-2026,Lucía Sánchez
+Monitor,5,433 USD,2026.01.01,María García
+Monitor,cuatro,845 USD,2026-01-01,María García
+Laptop,5,385 USD,2026.01.01,Sofía Giménez
+Laptop,1,434 USD,01-01-2026,Luis Fernández
+Teclado,cuatro,129 USD,2026.01.01,Diego Díaz
+Teclado, 2,918 USD,2026.01.01,Andrés Benítez
+Monitor,1,990 USD,2026-01-01,Juan Pérez
+Laptop, 2,259 USD,2026-01-01,Lucía Sánchez
+Teclado,cuatro,535 USD,01-01-2026,Carlos López
+Monitor,5,499 USD,2026-01-01,Juan Pérez
+Teclado,1,452 USD,2026.01.01,Andrés Benítez
+Teclado,3 ,744 USD,01-01-2026,Diego Díaz
+Laptop,1,235 USD,2026-01-01,Lucía Sánchez
+Teclado,cuatro,763 USD,01-01-2026,Ana Martínez
+Laptop,3 ,456 USD,01-01-2026,Elena Torres
+Teclado,5,15 USD,2026-01-01,Sofía Giménez
+Mouse,5,150 USD,2026-01-01,Juan Pérez
+Teclado,1,612 USD,2026-01-01,Sara Ruiz
+Teclado,1,669 USD,2026-01-01,Elena Torres
+Mouse, 2,661 USD,2026-01-01,Valeria Sosa
+Laptop,3 ,213 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,769 USD,2026.01.01,Andrés Benítez
+Monitor,5,506 USD,01-01-2026,Luis Fernández
+Mouse,1,728 USD,2026-01-01,Ana Martínez
+Mouse,3 ,549 USD,2026.01.01,Luis Fernández
+Teclado,1,543 USD,2026.01.01,Ana Martínez
+Mouse, 2,521 USD,2026.01.01,Juan Pérez
+Laptop,3 ,828 USD,2026-01-01,María García
+Monitor,cuatro,898 USD,01-01-2026,Juan Pérez
+Mouse,5,902 USD,2026.01.01,María García
+Teclado,5,118 USD,2026.01.01,Lucía Sánchez
+Monitor,1,651 USD,2026-01-01,Valeria Sosa
+Mouse,5,694 USD,2026-01-01,Lucía Sánchez
+Laptop,3 ,87 USD,2026.01.01,Elena Torres
+Teclado, 2,38 USD,2026-01-01,Andrés Benítez
+Teclado,3 ,276 USD,2026.01.01,Juan Pérez
+Monitor,cuatro,465 USD,2026-01-01,Lucía Sánchez
+Laptop,3 ,854 USD,01-01-2026,Elena Torres
+Laptop,cuatro,204 USD,2026-01-01,María García
+Laptop,1,822 USD,01-01-2026,Jorge Romero
+Mouse, 2,242 USD,2026-01-01,Lucía Sánchez
+Mouse,cuatro,520 USD,01-01-2026,Pedro Gómez
+Monitor,5,192 USD,2026-01-01,Pedro Gómez
+Teclado, 2,597 USD,01-01-2026,Jorge Romero
+Laptop, 2,757 USD,01-01-2026,Valeria Sosa
+Teclado,3 ,434 USD,01-01-2026,Jorge Romero
+Mouse,cuatro,350 USD,2026.01.01,Lucía Sánchez
+Mouse,3 ,162 USD,2026.01.01,Lucía Sánchez
+Monitor,1,406 USD,01-01-2026,Diego Díaz
+Teclado,1,838 USD,2026.01.01,Juan Pérez
+Laptop,1,471 USD,2026.01.01,Lucía Sánchez
+Mouse,1,623 USD,01-01-2026,Andrés Benítez
+Mouse,3 ,551 USD,2026-01-01,Andrés Benítez
+Laptop,5,321 USD,2026-01-01,Sofía Giménez
+Laptop, 2,376 USD,01-01-2026,Diego Díaz
+Teclado,cuatro,691 USD,2026-01-01,Carlos López
+Mouse, 2,713 USD,01-01-2026,María García
+Teclado,cuatro,638 USD,2026-01-01,Elena Torres
+Mouse, 2,398 USD,01-01-2026,Jorge Romero
+Monitor,5,153 USD,01-01-2026,Sara Ruiz
+Mouse,3 ,228 USD,01-01-2026,Diego Díaz
+Laptop,cuatro,839 USD,2026-01-01,Facundo Acosta
+Laptop,1,35 USD,2026-01-01,Andrés Benítez
+Teclado,5,315 USD,01-01-2026,Andrés Benítez
+Monitor,5,550 USD,2026-01-01,Valeria Sosa
+Mouse,3 ,451 USD,2026.01.01,Jorge Romero
+Teclado,1,933 USD,2026-01-01,Sofía Giménez
+Mouse,cuatro,228 USD,01-01-2026,Facundo Acosta
+Teclado,3 ,183 USD,2026-01-01,Jorge Romero
+Mouse,1,947 USD,01-01-2026,Valeria Sosa
+Laptop,1,43 USD,01-01-2026,Carlos López
+Teclado,5,869 USD,2026-01-01,Lucía Sánchez
+Mouse,1,445 USD,2026.01.01,Valeria Sosa
+Mouse,1,381 USD,2026-01-01,Ana Martínez
+Teclado, 2,810 USD,01-01-2026,Lucía Sánchez
+Monitor,3 ,54 USD,2026.01.01,Ana Martínez
+Laptop,1,562 USD,01-01-2026,Sofía Giménez
+Monitor,5,923 USD,01-01-2026,Sara Ruiz
+Laptop,1,134 USD,2026.01.01,Andrés Benítez
+Mouse,5,35 USD,2026-01-01,Pedro Gómez
+Mouse,5,644 USD,2026.01.01,Luis Fernández
+Teclado, 2,182 USD,01-01-2026,Luis Fernández
+Monitor,1,92 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,719 USD,01-01-2026,Carlos López
+Teclado,3 ,174 USD,2026.01.01,Jorge Romero
+Teclado,3 ,843 USD,2026.01.01,María García
+Mouse, 2,885 USD,2026.01.01,Valeria Sosa
+Mouse, 2,347 USD,2026.01.01,Valeria Sosa
+Mouse, 2,897 USD,2026.01.01,Andrés Benítez
+Monitor,3 ,308 USD,2026-01-01,Andrés Benítez
+Teclado, 2,138 USD,2026.01.01,Carlos López
+Monitor,1,763 USD,01-01-2026,Ana Martínez
+Monitor, 2,463 USD,01-01-2026,Sofía Giménez
+Teclado,cuatro,184 USD,01-01-2026,Juan Pérez
+Mouse,3 ,969 USD,01-01-2026,María García
+Laptop,1,229 USD,01-01-2026,Carlos López
+Teclado,5,417 USD,01-01-2026,Sofía Giménez
+Mouse,1,680 USD,2026.01.01,Andrés Benítez
+Laptop,3 ,51 USD,2026.01.01,Elena Torres
+Mouse,3 ,378 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,657 USD,2026.01.01,Lucía Sánchez
+Laptop,1,648 USD,2026.01.01,Carlos López
+Laptop, 2,837 USD,01-01-2026,Sofía Giménez
+Monitor, 2,419 USD,2026-01-01,Sofía Giménez
+Mouse,cuatro,838 USD,01-01-2026,Andrés Benítez
+Teclado,3 ,965 USD,01-01-2026,Sara Ruiz
+Teclado,5,760 USD,01-01-2026,Juan Pérez
+Teclado,1,426 USD,2026.01.01,Carlos López
+Mouse, 2,179 USD,01-01-2026,Ana Martínez
+Teclado,5,940 USD,01-01-2026,Sofía Giménez
+Teclado,3 ,502 USD,01-01-2026,Carlos López
+Teclado,3 ,211 USD,2026-01-01,Elena Torres
+Laptop, 2,573 USD,2026.01.01,Sara Ruiz
+Teclado,1,500 USD,01-01-2026,Lucía Sánchez
+Mouse, 2,506 USD,2026.01.01,Sofía Giménez
+Laptop,3 ,517 USD,2026-01-01,Elena Torres
+Teclado, 2,845 USD,2026.01.01,Pedro Gómez
+Laptop,5,973 USD,2026.01.01,Lucía Sánchez
+Monitor,cuatro,473 USD,2026-01-01,Diego Díaz
+Monitor,cuatro,690 USD,2026.01.01,Facundo Acosta
+Mouse,1,109 USD,2026.01.01,Andrés Benítez
+Monitor,3 ,335 USD,2026.01.01,Andrés Benítez
+Laptop, 2,719 USD,01-01-2026,María García
+Laptop,1,331 USD,2026-01-01,Carlos López
+Laptop,5,464 USD,01-01-2026,Andrés Benítez
+Laptop, 2,634 USD,2026.01.01,Diego Díaz
+Mouse,5,83 USD,2026.01.01,Andrés Benítez
+Monitor,cuatro,111 USD,01-01-2026,María García
+Monitor,1,627 USD,01-01-2026,Sara Ruiz
+Monitor,cuatro,417 USD,2026-01-01,Luis Fernández
+Mouse,cuatro,285 USD,2026.01.01,Jorge Romero
+Teclado,5,778 USD,2026.01.01,Luis Fernández
+Teclado,5,578 USD,2026.01.01,Diego Díaz
+Monitor,5,985 USD,2026.01.01,Ana Martínez
+Laptop,cuatro,228 USD,01-01-2026,Diego Díaz
+Teclado,3 ,746 USD,01-01-2026,Luis Fernández
+Teclado,5,629 USD,01-01-2026,María García
+Teclado,5,250 USD,01-01-2026,Pedro Gómez
+Laptop,1,307 USD,01-01-2026,Sofía Giménez
+Teclado, 2,235 USD,2026-01-01,Lucía Sánchez
+Mouse, 2,741 USD,2026-01-01,Pedro Gómez
+Teclado, 2,744 USD,01-01-2026,Valeria Sosa
+Monitor, 2,818 USD,01-01-2026,Jorge Romero
+Monitor,cuatro,973 USD,2026-01-01,Valeria Sosa
+Mouse,5,243 USD,2026.01.01,Jorge Romero
+Teclado,3 ,212 USD,2026.01.01,Pedro Gómez
+Mouse,3 ,209 USD,2026-01-01,Facundo Acosta
+Monitor, 2,840 USD,2026.01.01,Lucía Sánchez
+Mouse, 2,439 USD,2026.01.01,Sara Ruiz
+Teclado,cuatro,275 USD,2026-01-01,Juan Pérez
+Monitor,1,703 USD,2026-01-01,Andrés Benítez
+Teclado,cuatro,733 USD,01-01-2026,Pedro Gómez
+Laptop, 2,405 USD,2026.01.01,Sara Ruiz
+Laptop,cuatro,955 USD,01-01-2026,Valeria Sosa
+Mouse,1,14 USD,2026-01-01,Facundo Acosta
+Laptop, 2,48 USD,2026.01.01,Carlos López
+Monitor,1,231 USD,2026-01-01,Sofía Giménez
+Laptop,3 ,644 USD,01-01-2026,Valeria Sosa
+Mouse,5,439 USD,01-01-2026,Pedro Gómez
+Monitor,cuatro,285 USD,2026-01-01,Pedro Gómez
+Teclado, 2,399 USD,01-01-2026,María García
+Laptop,3 ,745 USD,01-01-2026,Sofía Giménez
+Teclado,3 ,264 USD,01-01-2026,Elena Torres
+Mouse,3 ,874 USD,2026.01.01,Carlos López
+Mouse,1,127 USD,2026.01.01,Carlos López
+Monitor,1,171 USD,01-01-2026,Sara Ruiz
+Monitor,3 ,235 USD,01-01-2026,Sofía Giménez
+Laptop,5,337 USD,01-01-2026,Jorge Romero
+Teclado,cuatro,656 USD,2026.01.01,Diego Díaz
+Mouse,3 ,184 USD,01-01-2026,Facundo Acosta
+Monitor, 2,765 USD,01-01-2026,Sofía Giménez
+Monitor,5,766 USD,01-01-2026,Ana Martínez
+Laptop,5,917 USD,2026.01.01,María García
+Monitor,5,505 USD,01-01-2026,Carlos López
+Monitor,3 ,514 USD,2026.01.01,Luis Fernández
+Teclado,5,661 USD,2026.01.01,Sara Ruiz
+Monitor,5,924 USD,01-01-2026,María García
+Laptop,cuatro,540 USD,2026.01.01,Sofía Giménez
+Teclado,3 ,133 USD,2026.01.01,Elena Torres
+Teclado,5,701 USD,2026.01.01,Lucía Sánchez
+Teclado,1,156 USD,01-01-2026,Andrés Benítez
+Teclado,1,333 USD,2026.01.01,Facundo Acosta
+Monitor, 2,331 USD,01-01-2026,Andrés Benítez
+Teclado, 2,663 USD,01-01-2026,Sofía Giménez
+Mouse,cuatro,980 USD,2026-01-01,Jorge Romero
+Mouse,3 ,572 USD,2026.01.01,Elena Torres
+Teclado,1,40 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,873 USD,2026.01.01,Facundo Acosta
+Laptop,1,832 USD,2026-01-01,Luis Fernández
+Monitor,cuatro,24 USD,2026.01.01,Juan Pérez
+Laptop,1,980 USD,2026.01.01,Pedro Gómez
+Laptop,1,870 USD,2026-01-01,Diego Díaz
+Teclado,3 ,508 USD,01-01-2026,Sofía Giménez
+Mouse,cuatro,679 USD,01-01-2026,Luis Fernández
+Laptop,1,357 USD,2026-01-01,Elena Torres
+Monitor,3 ,369 USD,2026-01-01,Ana Martínez
+Teclado, 2,382 USD,01-01-2026,Jorge Romero
+Mouse,cuatro,315 USD,2026.01.01,Diego Díaz
+Monitor, 2,890 USD,01-01-2026,Jorge Romero
+Laptop,3 ,618 USD,2026.01.01,Elena Torres
+Monitor,cuatro,616 USD,2026.01.01,Sara Ruiz
+Mouse,5,100 USD,2026.01.01,Ana Martínez
+Mouse,5,889 USD,2026.01.01,Luis Fernández
+Laptop,1,411 USD,2026-01-01,María García
+Mouse,1,54 USD,2026-01-01,Pedro Gómez
+Monitor,cuatro,453 USD,01-01-2026,Jorge Romero
+Monitor,5,383 USD,01-01-2026,Andrés Benítez
+Teclado,5,260 USD,2026.01.01,Facundo Acosta
+Monitor,3 ,454 USD,2026.01.01,Elena Torres
+Teclado,5,547 USD,2026-01-01,María García
+Teclado, 2,427 USD,2026-01-01,Valeria Sosa
+Teclado,1,16 USD,01-01-2026,Lucía Sánchez
+Teclado,cuatro,272 USD,01-01-2026,Pedro Gómez
+Laptop,1,333 USD,01-01-2026,Sofía Giménez
+Teclado,3 ,453 USD,2026-01-01,Lucía Sánchez
+Laptop, 2,994 USD,01-01-2026,Luis Fernández
+Laptop, 2,243 USD,2026-01-01,Ana Martínez
+Monitor,1,153 USD,01-01-2026,Juan Pérez
+Mouse,cuatro,746 USD,2026.01.01,Valeria Sosa
+Monitor,3 ,738 USD,01-01-2026,Jorge Romero
+Monitor,5,744 USD,2026-01-01,Carlos López
+Monitor, 2,377 USD,2026-01-01,Jorge Romero
+Teclado,3 ,670 USD,2026-01-01,Valeria Sosa
+Teclado,3 ,464 USD,2026-01-01,Juan Pérez
+Monitor, 2,94 USD,2026.01.01,Pedro Gómez
+Mouse, 2,616 USD,2026.01.01,Jorge Romero
+Monitor, 2,534 USD,2026-01-01,Pedro Gómez
+Teclado,1,633 USD,2026-01-01,Diego Díaz
+Laptop,cuatro,807 USD,01-01-2026,Jorge Romero
+Mouse,cuatro,341 USD,01-01-2026,Lucía Sánchez
+Laptop,3 ,142 USD,01-01-2026,Valeria Sosa
+Mouse,1,328 USD,01-01-2026,Juan Pérez
+Teclado,1,687 USD,2026-01-01,Ana Martínez
+Laptop,cuatro,555 USD,01-01-2026,Sara Ruiz
+Teclado, 2,930 USD,01-01-2026,Ana Martínez
+Mouse,1,774 USD,2026-01-01,Andrés Benítez
+Teclado,cuatro,136 USD,01-01-2026,Elena Torres
+Teclado, 2,85 USD,01-01-2026,Facundo Acosta
+Teclado,1,380 USD,01-01-2026,Jorge Romero
+Mouse,3 ,257 USD,01-01-2026,Valeria Sosa
+Monitor,3 ,768 USD,2026-01-01,Jorge Romero
+Mouse,5,772 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,949 USD,01-01-2026,Valeria Sosa
+Monitor, 2,708 USD,01-01-2026,Valeria Sosa
+Mouse, 2,211 USD,01-01-2026,Andrés Benítez
+Mouse, 2,137 USD,01-01-2026,Elena Torres
+Teclado,cuatro,246 USD,2026-01-01,Andrés Benítez
+Laptop,3 ,692 USD,2026-01-01,Facundo Acosta
+Monitor,cuatro,560 USD,01-01-2026,María García
+Mouse, 2,549 USD,01-01-2026,Elena Torres
+Teclado,1,200 USD,01-01-2026,Sara Ruiz
+Mouse,1,654 USD,01-01-2026,Elena Torres
+Teclado,1,24 USD,01-01-2026,Diego Díaz
+Mouse,3 ,407 USD,01-01-2026,Facundo Acosta
+Laptop,3 ,863 USD,2026.01.01,Sofía Giménez
+Monitor,5,619 USD,2026-01-01,Lucía Sánchez
+Mouse, 2,471 USD,01-01-2026,Pedro Gómez
+Mouse,3 ,60 USD,2026.01.01,Andrés Benítez
+Teclado, 2,766 USD,01-01-2026,Facundo Acosta
+Teclado,5,188 USD,01-01-2026,Elena Torres
+Teclado,1,877 USD,2026.01.01,Andrés Benítez
+Teclado,cuatro,808 USD,2026.01.01,Juan Pérez
+Mouse,cuatro,850 USD,2026-01-01,Sofía Giménez
+Laptop, 2,110 USD,2026.01.01,Valeria Sosa
+Laptop,cuatro,192 USD,2026-01-01,Sara Ruiz
+Laptop, 2,146 USD,2026-01-01,Elena Torres
+Laptop,1,725 USD,01-01-2026,Diego Díaz
+Teclado,5,899 USD,2026.01.01,María García
+Laptop,5,232 USD,2026.01.01,Sofía Giménez
+Teclado,5,179 USD,2026-01-01,Lucía Sánchez
+Teclado,1,752 USD,2026-01-01,Ana Martínez
+Monitor,5,322 USD,01-01-2026,Pedro Gómez
+Mouse,cuatro,181 USD,01-01-2026,Sara Ruiz
+Laptop, 2,114 USD,01-01-2026,Diego Díaz
+Monitor,5,730 USD,2026.01.01,Valeria Sosa
+Teclado,5,898 USD,2026.01.01,María García
+Mouse,1,11 USD,2026.01.01,Sofía Giménez
+Laptop,5,907 USD,2026.01.01,Andrés Benítez
+Teclado, 2,30 USD,2026-01-01,Elena Torres
+Monitor,1,748 USD,2026-01-01,Jorge Romero
+Teclado, 2,534 USD,2026.01.01,Lucía Sánchez
+Monitor,3 ,623 USD,2026.01.01,Elena Torres
+Laptop,3 ,353 USD,2026.01.01,Andrés Benítez
+Teclado, 2,205 USD,2026-01-01,Andrés Benítez
+Monitor,3 ,244 USD,2026.01.01,Luis Fernández
+Mouse,cuatro,955 USD,2026-01-01,Facundo Acosta
+Laptop,5,183 USD,01-01-2026,Luis Fernández
+Monitor,3 ,24 USD,2026.01.01,Facundo Acosta
+Mouse,3 ,384 USD,2026-01-01,Ana Martínez
+Laptop,1,54 USD,01-01-2026,Ana Martínez
+Mouse,cuatro,195 USD,2026-01-01,Ana Martínez
+Teclado, 2,894 USD,01-01-2026,Juan Pérez
+Monitor,cuatro,121 USD,2026.01.01,Andrés Benítez
+Mouse,3 ,283 USD,2026.01.01,Elena Torres
+Monitor, 2,603 USD,2026.01.01,Diego Díaz
+Monitor,3 ,261 USD,2026.01.01,Ana Martínez
+Mouse,5,346 USD,2026-01-01,Andrés Benítez
+Mouse,5,802 USD,01-01-2026,Luis Fernández
+Mouse,1,294 USD,2026.01.01,Ana Martínez
+Teclado,5,286 USD,2026.01.01,Sofía Giménez
+Monitor,1,911 USD,2026-01-01,Elena Torres
+Mouse,cuatro,301 USD,01-01-2026,Diego Díaz
+Mouse,cuatro,563 USD,01-01-2026,Sofía Giménez
+Laptop,3 ,645 USD,01-01-2026,María García
+Monitor,cuatro,995 USD,2026-01-01,Facundo Acosta
+Teclado,cuatro,502 USD,2026.01.01,Valeria Sosa
+Teclado,5,731 USD,01-01-2026,Facundo Acosta
+Teclado,3 ,242 USD,01-01-2026,Valeria Sosa
+Laptop, 2,820 USD,01-01-2026,Ana Martínez
+Mouse,1,163 USD,01-01-2026,Pedro Gómez
+Teclado, 2,207 USD,01-01-2026,Juan Pérez
+Monitor,3 ,38 USD,01-01-2026,Sofía Giménez
+Mouse,cuatro,363 USD,2026-01-01,Carlos López
+Monitor,3 ,872 USD,2026.01.01,Pedro Gómez
+Teclado,5,139 USD,2026-01-01,Ana Martínez
+Laptop,cuatro,683 USD,2026-01-01,Facundo Acosta
+Monitor,1,644 USD,2026.01.01,Valeria Sosa
+Laptop,cuatro,20 USD,2026.01.01,Juan Pérez
+Laptop,cuatro,994 USD,2026.01.01,Valeria Sosa
+Laptop,1,263 USD,2026.01.01,Diego Díaz
+Mouse,1,941 USD,01-01-2026,Diego Díaz
+Laptop,1,753 USD,2026.01.01,Sara Ruiz
+Mouse,1,986 USD,2026-01-01,Andrés Benítez
+Teclado,1,661 USD,2026.01.01,Pedro Gómez
+Teclado,3 ,516 USD,01-01-2026,Valeria Sosa
+Teclado,cuatro,404 USD,01-01-2026,Valeria Sosa
+Laptop,5,256 USD,2026-01-01,Sara Ruiz
+Laptop, 2,851 USD,2026.01.01,Sofía Giménez
+Mouse,5,980 USD,2026-01-01,María García
+Teclado,3 ,446 USD,01-01-2026,Juan Pérez
+Mouse,5,269 USD,2026-01-01,Facundo Acosta
+Monitor,1,587 USD,01-01-2026,Jorge Romero
+Monitor,5,901 USD,01-01-2026,Jorge Romero
+Mouse,3 ,254 USD,01-01-2026,Pedro Gómez
+Laptop,5,867 USD,01-01-2026,Facundo Acosta
+Monitor,3 ,254 USD,2026.01.01,Luis Fernández
+Monitor,cuatro,601 USD,01-01-2026,Sara Ruiz
+Mouse,cuatro,365 USD,2026-01-01,Luis Fernández
+Mouse,3 ,288 USD,2026.01.01,Valeria Sosa
+Monitor, 2,679 USD,2026.01.01,Facundo Acosta
+Laptop,3 ,410 USD,2026.01.01,Sofía Giménez
+Mouse, 2,757 USD,01-01-2026,Valeria Sosa
+Mouse,1,538 USD,2026.01.01,Facundo Acosta
+Teclado,1,673 USD,2026-01-01,Carlos López
+Laptop,cuatro,826 USD,2026-01-01,Jorge Romero
+Teclado, 2,412 USD,2026-01-01,Lucía Sánchez
+Laptop,5,518 USD,2026-01-01,Facundo Acosta
+Monitor,3 ,667 USD,2026-01-01,María García
+Teclado, 2,618 USD,01-01-2026,Valeria Sosa
+Laptop,cuatro,704 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,745 USD,2026.01.01,Jorge Romero
+Monitor,1,299 USD,2026.01.01,Lucía Sánchez
+Teclado,cuatro,990 USD,2026.01.01,Andrés Benítez
+Mouse, 2,847 USD,01-01-2026,Facundo Acosta
+Laptop,cuatro,205 USD,01-01-2026,Juan Pérez
+Monitor,5,643 USD,01-01-2026,Lucía Sánchez
+Laptop,1,853 USD,01-01-2026,Ana Martínez
+Monitor, 2,674 USD,01-01-2026,Facundo Acosta
+Monitor, 2,23 USD,2026.01.01,Sara Ruiz
+Monitor,5,666 USD,2026.01.01,Carlos López
+Teclado, 2,488 USD,2026.01.01,Sofía Giménez
+Teclado,3 ,63 USD,01-01-2026,Jorge Romero
+Teclado,1,130 USD,2026.01.01,Luis Fernández
+Teclado,5,987 USD,2026-01-01,Pedro Gómez
+Mouse,cuatro,38 USD,2026-01-01,Valeria Sosa
+Laptop,5,530 USD,2026-01-01,Pedro Gómez
+Mouse,3 ,787 USD,01-01-2026,Elena Torres
+Monitor,1,248 USD,2026.01.01,Luis Fernández
+Laptop, 2,586 USD,2026-01-01,Carlos López
+Teclado, 2,755 USD,01-01-2026,Andrés Benítez
+Laptop,3 ,298 USD,2026-01-01,Carlos López
+Mouse, 2,335 USD,2026-01-01,Sofía Giménez
+Monitor, 2,676 USD,2026.01.01,Diego Díaz
+Mouse,5,443 USD,2026.01.01,Andrés Benítez
+Teclado,1,351 USD,01-01-2026,Valeria Sosa
+Mouse, 2,387 USD,01-01-2026,Sofía Giménez
+Monitor,3 ,790 USD,2026.01.01,Andrés Benítez
+Mouse,cuatro,122 USD,2026-01-01,Sofía Giménez
+Laptop,cuatro,869 USD,2026-01-01,Valeria Sosa
+Monitor,5,411 USD,2026.01.01,Andrés Benítez
+Mouse,3 ,928 USD,01-01-2026,Lucía Sánchez
+Laptop,1,978 USD,2026-01-01,Carlos López
+Laptop,1,464 USD,2026.01.01,Pedro Gómez
+Laptop,cuatro,256 USD,2026-01-01,Elena Torres
+Monitor,cuatro,335 USD,01-01-2026,Lucía Sánchez
+Laptop, 2,290 USD,2026.01.01,Valeria Sosa
+Monitor,1,874 USD,2026-01-01,Elena Torres
+Mouse,5,812 USD,01-01-2026,Carlos López
+Laptop,5,494 USD,01-01-2026,Juan Pérez
+Laptop,3 ,871 USD,2026-01-01,Carlos López
+Teclado,3 ,523 USD,01-01-2026,Ana Martínez
+Mouse,5,619 USD,2026-01-01,Juan Pérez
+Laptop, 2,513 USD,2026-01-01,Facundo Acosta
+Monitor,5,256 USD,01-01-2026,Valeria Sosa
+Monitor,5,892 USD,2026-01-01,Sara Ruiz
+Laptop,3 ,67 USD,01-01-2026,Jorge Romero
+Monitor,5,48 USD,2026.01.01,María García
+Monitor,cuatro,858 USD,2026.01.01,Jorge Romero
+Laptop,5,430 USD,01-01-2026,Ana Martínez
+Laptop,3 ,339 USD,2026.01.01,Juan Pérez
+Laptop,3 ,457 USD,2026.01.01,María García
+Monitor,5,619 USD,2026-01-01,Pedro Gómez
+Monitor,5,137 USD,2026.01.01,Ana Martínez
+Teclado,1,831 USD,2026-01-01,Juan Pérez
+Monitor,cuatro,872 USD,01-01-2026,Andrés Benítez
+Teclado, 2,719 USD,2026-01-01,Andrés Benítez
+Monitor,5,490 USD,2026-01-01,Jorge Romero
+Mouse,cuatro,764 USD,2026-01-01,Juan Pérez
+Teclado, 2,170 USD,2026.01.01,Valeria Sosa
+Monitor,3 ,859 USD,01-01-2026,Carlos López
+Monitor,5,40 USD,2026-01-01,Valeria Sosa
+Teclado, 2,615 USD,2026-01-01,Ana Martínez
+Teclado, 2,898 USD,2026.01.01,Lucía Sánchez
+Teclado,5,785 USD,2026-01-01,Carlos López
+Mouse, 2,276 USD,2026-01-01,Luis Fernández
+Teclado,5,732 USD,01-01-2026,Sofía Giménez
+Laptop, 2,576 USD,2026.01.01,Sofía Giménez
+Teclado,cuatro,744 USD,2026-01-01,María García
+Teclado,cuatro,367 USD,2026-01-01,Valeria Sosa
+Teclado,1,708 USD,2026.01.01,Juan Pérez
+Mouse, 2,448 USD,01-01-2026,María García
+Laptop,1,361 USD,01-01-2026,Ana Martínez
+Monitor,3 ,215 USD,2026-01-01,Andrés Benítez
+Teclado,1,538 USD,01-01-2026,Elena Torres
+Teclado,1,791 USD,01-01-2026,Sofía Giménez
+Mouse,5,148 USD,2026.01.01,Juan Pérez
+Laptop, 2,955 USD,2026.01.01,Sofía Giménez
+Teclado, 2,261 USD,01-01-2026,Lucía Sánchez
+Monitor, 2,512 USD,2026.01.01,Valeria Sosa
+Mouse,1,866 USD,2026.01.01,Sofía Giménez
+Mouse,3 ,919 USD,2026-01-01,Jorge Romero
+Laptop, 2,763 USD,2026.01.01,Carlos López
+Monitor, 2,774 USD,2026-01-01,Jorge Romero
+Laptop,3 ,927 USD,01-01-2026,Jorge Romero
+Monitor,1,510 USD,01-01-2026,Elena Torres
+Monitor, 2,328 USD,01-01-2026,Valeria Sosa
+Teclado,3 ,268 USD,2026-01-01,Lucía Sánchez
+Monitor, 2,408 USD,2026-01-01,Juan Pérez
+Laptop,3 ,862 USD,2026-01-01,María García
+Monitor, 2,259 USD,2026-01-01,Diego Díaz
+Teclado,3 ,418 USD,01-01-2026,Carlos López
+Laptop,1,344 USD,2026-01-01,María García
+Teclado, 2,457 USD,2026.01.01,Elena Torres
+Teclado, 2,269 USD,2026.01.01,Ana Martínez
+Laptop,5,797 USD,01-01-2026,Lucía Sánchez
+Mouse,1,877 USD,2026.01.01,Valeria Sosa
+Monitor,cuatro,113 USD,2026.01.01,Valeria Sosa
+Teclado,1,579 USD,2026.01.01,Carlos López
+Laptop, 2,862 USD,2026.01.01,Ana Martínez
+Teclado, 2,42 USD,2026-01-01,Andrés Benítez
+Mouse,3 ,405 USD,2026-01-01,Elena Torres
+Laptop,3 ,562 USD,01-01-2026,Facundo Acosta
+Laptop,cuatro,702 USD,01-01-2026,Ana Martínez
+Mouse,1,625 USD,2026-01-01,Diego Díaz
+Laptop,3 ,607 USD,2026-01-01,Facundo Acosta
+Mouse,1,430 USD,01-01-2026,Luis Fernández
+Laptop,5,583 USD,2026-01-01,Juan Pérez
+Monitor,3 ,804 USD,01-01-2026,Sara Ruiz
+Monitor,cuatro,124 USD,01-01-2026,Andrés Benítez
+Mouse, 2,45 USD,2026.01.01,Luis Fernández
+Monitor,cuatro,216 USD,2026-01-01,Pedro Gómez
+Laptop,cuatro,482 USD,2026.01.01,Carlos López
+Monitor,3 ,417 USD,01-01-2026,Jorge Romero
+Teclado,3 ,765 USD,2026.01.01,Jorge Romero
+Mouse, 2,347 USD,2026-01-01,Lucía Sánchez
+Mouse,1,269 USD,01-01-2026,Valeria Sosa
+Laptop,3 ,645 USD,2026-01-01,Valeria Sosa
+Teclado,5,573 USD,01-01-2026,Ana Martínez
+Laptop,1,750 USD,01-01-2026,Jorge Romero
+Monitor, 2,774 USD,01-01-2026,Pedro Gómez
+Monitor, 2,846 USD,2026-01-01,Luis Fernández
+Mouse,5,312 USD,2026.01.01,Ana Martínez
+Monitor,5,839 USD,2026-01-01,Elena Torres
+Laptop, 2,947 USD,2026-01-01,Lucía Sánchez
+Monitor, 2,111 USD,2026.01.01,Pedro Gómez
+Teclado,5,117 USD,2026-01-01,Jorge Romero
+Monitor,5,800 USD,2026-01-01,Sofía Giménez
+Monitor,5,593 USD,01-01-2026,Sofía Giménez
+Teclado,1,738 USD,2026-01-01,Ana Martínez
+Mouse,cuatro,101 USD,01-01-2026,Sara Ruiz
+Mouse,1,796 USD,2026-01-01,Carlos López
+Teclado,3 ,913 USD,01-01-2026,Ana Martínez
+Laptop, 2,810 USD,01-01-2026,Lucía Sánchez
+Mouse,1,309 USD,2026-01-01,Sara Ruiz
+Laptop,3 ,974 USD,2026.01.01,Andrés Benítez
+Monitor,1,416 USD,2026.01.01,María García
+Monitor, 2,902 USD,2026-01-01,Valeria Sosa
+Monitor,cuatro,643 USD,01-01-2026,Sara Ruiz
+Teclado,3 ,155 USD,01-01-2026,Juan Pérez
+Teclado,cuatro,228 USD,01-01-2026,Juan Pérez
+Teclado,3 ,194 USD,2026-01-01,Jorge Romero
+Laptop,5,964 USD,2026-01-01,Sofía Giménez
+Mouse,1,390 USD,01-01-2026,Ana Martínez
+Teclado,cuatro,602 USD,01-01-2026,Facundo Acosta
+Laptop, 2,734 USD,01-01-2026,Ana Martínez
+Laptop, 2,952 USD,2026.01.01,Lucía Sánchez
+Mouse,5,199 USD,01-01-2026,Juan Pérez
+Mouse,1,304 USD,2026.01.01,Elena Torres
+Laptop,1,942 USD,2026.01.01,Pedro Gómez
+Laptop,5,215 USD,01-01-2026,Andrés Benítez
+Mouse,cuatro,109 USD,01-01-2026,Lucía Sánchez
+Laptop,1,880 USD,2026-01-01,Andrés Benítez
+Monitor,5,272 USD,01-01-2026,Andrés Benítez
+Teclado,3 ,962 USD,2026.01.01,Lucía Sánchez
+Monitor,3 ,385 USD,01-01-2026,Elena Torres
+Teclado,cuatro,664 USD,2026-01-01,Ana Martínez
+Mouse,5,848 USD,2026.01.01,Andrés Benítez
+Teclado,5,313 USD,2026-01-01,Facundo Acosta
+Laptop, 2,797 USD,01-01-2026,Diego Díaz
+Teclado,3 ,788 USD,2026.01.01,Elena Torres
+Mouse,3 ,930 USD,01-01-2026,Elena Torres
+Monitor,1,207 USD,2026-01-01,Jorge Romero
+Teclado,3 ,148 USD,01-01-2026,Elena Torres
+Mouse, 2,362 USD,2026-01-01,María García
+Monitor,cuatro,271 USD,2026-01-01,Sofía Giménez
+Teclado, 2,546 USD,2026-01-01,María García
+Mouse, 2,883 USD,01-01-2026,Elena Torres
+Laptop,cuatro,570 USD,2026-01-01,Carlos López
+Laptop,cuatro,972 USD,01-01-2026,Luis Fernández
+Mouse,5,685 USD,2026-01-01,Luis Fernández
+Mouse, 2,170 USD,2026-01-01,Carlos López
+Monitor, 2,934 USD,01-01-2026,Elena Torres
+Teclado, 2,576 USD,01-01-2026,Elena Torres
+Teclado,5,33 USD,01-01-2026,Lucía Sánchez
+Monitor,cuatro,169 USD,2026.01.01,Juan Pérez
+Laptop,5,965 USD,2026-01-01,Elena Torres
+Laptop,5,276 USD,01-01-2026,Facundo Acosta
+Mouse,5,858 USD,2026-01-01,Sara Ruiz
+Laptop,cuatro,780 USD,2026.01.01,Sofía Giménez
+Teclado,3 ,169 USD,2026-01-01,Carlos López
+Monitor,1,948 USD,01-01-2026,Diego Díaz
+Monitor,1,910 USD,2026-01-01,Facundo Acosta
+Laptop,cuatro,641 USD,2026.01.01,Elena Torres
+Mouse,3 ,787 USD,01-01-2026,Sofía Giménez
+Laptop,5,807 USD,2026.01.01,Carlos López
+Laptop, 2,962 USD,01-01-2026,Luis Fernández
+Monitor,5,857 USD,2026.01.01,Valeria Sosa
+Mouse,1,912 USD,2026-01-01,Lucía Sánchez
+Monitor,3 ,123 USD,2026.01.01,Pedro Gómez
+Mouse,cuatro,35 USD,2026-01-01,María García
+Monitor,cuatro,174 USD,2026.01.01,Jorge Romero
+Mouse, 2,613 USD,2026-01-01,Valeria Sosa
+Mouse,1,419 USD,2026-01-01,Diego Díaz
+Monitor,5,912 USD,2026-01-01,Sofía Giménez
+Mouse,cuatro,180 USD,01-01-2026,Luis Fernández
+Teclado,1,245 USD,2026.01.01,Valeria Sosa
+Teclado,1,185 USD,2026.01.01,Elena Torres
+Mouse,3 ,463 USD,01-01-2026,Elena Torres
+Teclado,1,804 USD,2026-01-01,Jorge Romero
+Monitor,1,887 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,653 USD,2026.01.01,Andrés Benítez
+Monitor,1,961 USD,01-01-2026,María García
+Teclado,5,332 USD,01-01-2026,Luis Fernández
+Mouse,5,822 USD,01-01-2026,María García
+Teclado,5,882 USD,2026-01-01,Facundo Acosta
+Monitor, 2,682 USD,01-01-2026,Andrés Benítez
+Mouse,5,436 USD,2026-01-01,Andrés Benítez
+Laptop,1,425 USD,01-01-2026,Valeria Sosa
+Mouse, 2,224 USD,01-01-2026,Juan Pérez
+Teclado,cuatro,210 USD,01-01-2026,Facundo Acosta
+Mouse,1,695 USD,2026.01.01,Luis Fernández
+Mouse,cuatro,333 USD,01-01-2026,María García
+Laptop,3 ,926 USD,2026-01-01,Elena Torres
+Monitor, 2,649 USD,2026-01-01,Luis Fernández
+Mouse, 2,975 USD,01-01-2026,Luis Fernández
+Teclado, 2,825 USD,01-01-2026,Pedro Gómez
+Mouse,cuatro,507 USD,2026-01-01,Facundo Acosta
+Mouse, 2,684 USD,2026.01.01,Sara Ruiz
+Monitor, 2,832 USD,01-01-2026,María García
+Mouse,3 ,369 USD,2026.01.01,Ana Martínez
+Mouse,3 ,176 USD,01-01-2026,Ana Martínez
+Laptop,1,411 USD,2026.01.01,Diego Díaz
+Laptop, 2,183 USD,2026.01.01,Diego Díaz
+Laptop,1,140 USD,2026-01-01,Pedro Gómez
+Monitor,1,238 USD,2026-01-01,Lucía Sánchez
+Monitor,5,103 USD,01-01-2026,Carlos López
+Monitor,3 ,640 USD,2026.01.01,Sara Ruiz
+Monitor,cuatro,558 USD,01-01-2026,Sara Ruiz
+Mouse,3 ,314 USD,2026-01-01,Pedro Gómez
+Mouse, 2,981 USD,2026.01.01,Sofía Giménez
+Teclado,5,234 USD,2026-01-01,Facundo Acosta
+Laptop, 2,983 USD,01-01-2026,Sofía Giménez
+Teclado,5,369 USD,2026.01.01,Diego Díaz
+Laptop, 2,552 USD,01-01-2026,Sara Ruiz
+Mouse,1,926 USD,2026-01-01,Valeria Sosa
+Monitor,3 ,553 USD,2026.01.01,Andrés Benítez
+Teclado,1,408 USD,01-01-2026,Valeria Sosa
+Laptop,cuatro,982 USD,01-01-2026,Facundo Acosta
+Monitor,1,148 USD,01-01-2026,Facundo Acosta
+Teclado,3 ,973 USD,2026.01.01,Ana Martínez
+Monitor,5,412 USD,2026.01.01,Jorge Romero
+Laptop,3 ,942 USD,2026-01-01,Valeria Sosa
+Monitor, 2,395 USD,2026.01.01,Ana Martínez
+Teclado,cuatro,287 USD,01-01-2026,Sofía Giménez
+Monitor,cuatro,524 USD,2026-01-01,Jorge Romero
+Mouse, 2,294 USD,01-01-2026,Luis Fernández
+Laptop,5,763 USD,2026-01-01,Sofía Giménez
+Teclado,1,578 USD,01-01-2026,Luis Fernández
+Teclado,1,869 USD,2026-01-01,Elena Torres
+Laptop, 2,144 USD,2026-01-01,Carlos López
+Teclado, 2,226 USD,2026.01.01,Juan Pérez
+Mouse,1,781 USD,2026-01-01,Diego Díaz
+Laptop,5,681 USD,01-01-2026,Sofía Giménez
+Laptop,5,599 USD,01-01-2026,Ana Martínez
+Monitor,5,137 USD,01-01-2026,Andrés Benítez
+Monitor,1,957 USD,2026.01.01,Elena Torres
+Laptop,5,849 USD,2026.01.01,Valeria Sosa
+Teclado,1,410 USD,2026-01-01,Carlos López
+Laptop,1,145 USD,2026-01-01,Sofía Giménez
+Teclado, 2,346 USD,2026.01.01,Valeria Sosa
+Laptop,1,73 USD,2026-01-01,Luis Fernández
+Teclado,3 ,109 USD,2026-01-01,Luis Fernández
+Teclado,5,51 USD,2026.01.01,Juan Pérez
+Laptop,cuatro,367 USD,01-01-2026,Andrés Benítez
+Laptop, 2,932 USD,2026.01.01,María García
+Mouse,3 ,238 USD,2026-01-01,Carlos López
+Teclado,1,465 USD,01-01-2026,Diego Díaz
+Mouse,5,171 USD,2026-01-01,Lucía Sánchez
+Teclado,3 ,725 USD,2026.01.01,Juan Pérez
+Teclado,1,461 USD,01-01-2026,Valeria Sosa
+Laptop,1,658 USD,2026-01-01,Juan Pérez
+Mouse,cuatro,297 USD,2026.01.01,Elena Torres
+Laptop,5,190 USD,2026.01.01,Valeria Sosa
+Mouse, 2,31 USD,01-01-2026,Facundo Acosta
+Laptop,3 ,76 USD,2026-01-01,María García
+Mouse, 2,619 USD,2026-01-01,Sara Ruiz
+Monitor, 2,710 USD,2026.01.01,Ana Martínez
+Teclado,3 ,460 USD,2026-01-01,Sofía Giménez
+Laptop,3 ,459 USD,01-01-2026,Luis Fernández
+Teclado,3 ,202 USD,2026.01.01,Luis Fernández
+Monitor,1,255 USD,2026-01-01,Valeria Sosa
+Teclado,cuatro,675 USD,01-01-2026,Luis Fernández
+Teclado,5,620 USD,01-01-2026,Diego Díaz
+Laptop,1,309 USD,2026-01-01,Andrés Benítez
+Mouse,3 ,185 USD,01-01-2026,Elena Torres
+Monitor, 2,905 USD,2026.01.01,Andrés Benítez
+Laptop,5,615 USD,2026.01.01,María García
+Mouse,3 ,491 USD,01-01-2026,Luis Fernández
+Monitor,cuatro,912 USD,01-01-2026,Jorge Romero
+Teclado,cuatro,587 USD,2026.01.01,Elena Torres
+Monitor, 2,483 USD,2026.01.01,María García
+Mouse,1,998 USD,2026-01-01,Valeria Sosa
+Mouse,3 ,130 USD,2026-01-01,Sofía Giménez
+Monitor,3 ,844 USD,2026-01-01,Lucía Sánchez
+Teclado,5,501 USD,01-01-2026,Diego Díaz
+Monitor,cuatro,486 USD,2026-01-01,Elena Torres
+Monitor, 2,245 USD,2026.01.01,Sara Ruiz
+Mouse,5,301 USD,01-01-2026,Luis Fernández
+Laptop,3 ,869 USD,2026-01-01,Andrés Benítez
+Mouse,3 ,763 USD,01-01-2026,Sofía Giménez
+Laptop,1,571 USD,01-01-2026,María García
+Laptop,5,106 USD,01-01-2026,Lucía Sánchez
+Teclado,3 ,660 USD,01-01-2026,Elena Torres
+Mouse,1,739 USD,01-01-2026,Diego Díaz
+Mouse, 2,108 USD,01-01-2026,Juan Pérez
+Mouse, 2,110 USD,2026.01.01,Valeria Sosa
+Monitor,3 ,261 USD,2026.01.01,Lucía Sánchez
+Teclado,5,109 USD,01-01-2026,María García
+Mouse,3 ,242 USD,2026.01.01,Ana Martínez
+Mouse,cuatro,360 USD,2026-01-01,Luis Fernández
+Mouse,3 ,566 USD,2026.01.01,Andrés Benítez
+Teclado,5,981 USD,2026.01.01,Sara Ruiz
+Monitor,5,666 USD,01-01-2026,María García
+Monitor, 2,161 USD,2026.01.01,Elena Torres
+Laptop,cuatro,973 USD,2026-01-01,Juan Pérez
+Laptop, 2,306 USD,2026.01.01,Jorge Romero
+Laptop,cuatro,933 USD,2026.01.01,Facundo Acosta
+Laptop,5,782 USD,01-01-2026,Jorge Romero
+Mouse,5,811 USD,2026.01.01,Diego Díaz
+Laptop,3 ,850 USD,2026.01.01,Facundo Acosta
+Laptop, 2,474 USD,01-01-2026,Jorge Romero
+Mouse,3 ,564 USD,01-01-2026,Jorge Romero
+Mouse,5,987 USD,2026-01-01,Lucía Sánchez
+Laptop, 2,766 USD,01-01-2026,Elena Torres
+Monitor, 2,822 USD,2026.01.01,Luis Fernández
+Monitor,cuatro,592 USD,01-01-2026,Sara Ruiz
+Monitor,5,994 USD,2026-01-01,Carlos López
+Laptop,1,683 USD,2026.01.01,Elena Torres
+Monitor,3 ,702 USD,01-01-2026,Luis Fernández
+Mouse,3 ,710 USD,2026-01-01,Facundo Acosta
+Monitor,5,212 USD,2026-01-01,Lucía Sánchez
+Mouse,5,772 USD,2026.01.01,Valeria Sosa
+Monitor, 2,800 USD,01-01-2026,Sofía Giménez
+Teclado,3 ,40 USD,01-01-2026,Sofía Giménez
+Teclado, 2,658 USD,01-01-2026,Jorge Romero
+Teclado,1,650 USD,2026.01.01,Facundo Acosta
+Mouse,cuatro,137 USD,2026.01.01,Valeria Sosa
+Teclado,5,544 USD,01-01-2026,Jorge Romero
+Teclado,3 ,236 USD,2026-01-01,Jorge Romero
+Laptop, 2,575 USD,2026.01.01,Elena Torres
+Teclado,1,70 USD,2026.01.01,Diego Díaz
+Monitor,3 ,305 USD,2026-01-01,Facundo Acosta
+Teclado,5,403 USD,2026.01.01,Carlos López
+Mouse,1,717 USD,2026.01.01,Diego Díaz
+Mouse,3 ,280 USD,2026-01-01,Elena Torres
+Laptop, 2,654 USD,2026-01-01,Ana Martínez
+Mouse,1,598 USD,01-01-2026,Pedro Gómez
+Laptop, 2,567 USD,2026.01.01,Diego Díaz
+Laptop,1,252 USD,2026-01-01,Lucía Sánchez
+Monitor,cuatro,810 USD,2026.01.01,Carlos López
+Monitor,1,146 USD,01-01-2026,Jorge Romero
+Mouse, 2,934 USD,2026.01.01,Sofía Giménez
+Laptop,3 ,655 USD,01-01-2026,Sara Ruiz
+Teclado,1,591 USD,2026.01.01,Valeria Sosa
+Teclado, 2,836 USD,2026-01-01,María García
+Monitor,1,132 USD,2026.01.01,Carlos López
+Laptop, 2,43 USD,01-01-2026,Jorge Romero
+Teclado,1,143 USD,2026.01.01,Pedro Gómez
+Mouse,5,944 USD,2026.01.01,Valeria Sosa
+Mouse,5,546 USD,2026-01-01,Ana Martínez
+Laptop,cuatro,622 USD,01-01-2026,Diego Díaz
+Teclado,3 ,262 USD,2026-01-01,Luis Fernández
+Monitor,5,515 USD,2026-01-01,Luis Fernández
+Teclado,3 ,192 USD,2026-01-01,María García
+Teclado, 2,362 USD,2026-01-01,Ana Martínez
+Mouse,1,178 USD,2026.01.01,Valeria Sosa
+Mouse,cuatro,60 USD,01-01-2026,Facundo Acosta
+Monitor,3 ,401 USD,2026-01-01,Diego Díaz
+Monitor,cuatro,347 USD,2026.01.01,Andrés Benítez
+Teclado,1,108 USD,01-01-2026,Pedro Gómez
+Teclado,5,337 USD,2026-01-01,Jorge Romero
+Mouse,3 ,725 USD,01-01-2026,Sara Ruiz
+Teclado,5,840 USD,2026-01-01,Carlos López
+Laptop,5,852 USD,01-01-2026,Facundo Acosta
+Laptop,cuatro,62 USD,2026-01-01,Elena Torres
+Laptop,cuatro,668 USD,2026-01-01,Ana Martínez
+Mouse, 2,635 USD,2026.01.01,Lucía Sánchez
+Mouse, 2,912 USD,2026-01-01,Lucía Sánchez
+Monitor,3 ,631 USD,2026-01-01,Diego Díaz
+Laptop,5,712 USD,2026-01-01,Pedro Gómez
+Mouse,3 ,57 USD,01-01-2026,Valeria Sosa
+Monitor,3 ,758 USD,01-01-2026,Sofía Giménez
+Mouse, 2,913 USD,2026-01-01,Jorge Romero
+Teclado,5,600 USD,2026-01-01,Jorge Romero
+Laptop,3 ,439 USD,01-01-2026,Juan Pérez
+Laptop,cuatro,791 USD,2026-01-01,María García
+Mouse,3 ,890 USD,2026-01-01,Elena Torres
+Mouse,1,673 USD,01-01-2026,Diego Díaz
+Mouse,cuatro,679 USD,2026.01.01,Lucía Sánchez
+Laptop,cuatro,117 USD,2026-01-01,Facundo Acosta
+Laptop,3 ,304 USD,2026.01.01,Ana Martínez
+Teclado,cuatro,35 USD,01-01-2026,Juan Pérez
+Teclado,3 ,671 USD,2026.01.01,Ana Martínez
+Laptop,1,711 USD,01-01-2026,Sara Ruiz
+Teclado,5,773 USD,01-01-2026,Valeria Sosa
+Mouse,3 ,469 USD,2026.01.01,Lucía Sánchez
+Teclado,5,410 USD,2026-01-01,Lucía Sánchez
+Laptop,5,660 USD,2026.01.01,Valeria Sosa
+Monitor,5,753 USD,01-01-2026,Lucía Sánchez
+Laptop,3 ,173 USD,01-01-2026,Carlos López
+Monitor,cuatro,941 USD,2026-01-01,Ana Martínez
+Teclado,1,31 USD,2026-01-01,María García
+Laptop,1,805 USD,01-01-2026,Elena Torres
+Laptop,5,560 USD,2026.01.01,Juan Pérez
+Teclado,1,722 USD,2026.01.01,Sofía Giménez
+Monitor,1,747 USD,2026-01-01,Carlos López
+Teclado,5,740 USD,2026.01.01,Diego Díaz
+Monitor,5,37 USD,01-01-2026,Andrés Benítez
+Teclado,5,956 USD,2026.01.01,Juan Pérez
+Teclado,3 ,256 USD,2026-01-01,Juan Pérez
+Teclado,5,885 USD,2026-01-01,Elena Torres
+Monitor,1,216 USD,2026-01-01,Elena Torres
+Mouse,5,975 USD,2026-01-01,Jorge Romero
+Laptop,3 ,469 USD,2026-01-01,Diego Díaz
+Teclado,cuatro,861 USD,2026.01.01,Luis Fernández
+Teclado,cuatro,61 USD,2026-01-01,Sofía Giménez
+Mouse,3 ,413 USD,01-01-2026,Diego Díaz
+Mouse,5,213 USD,2026-01-01,Elena Torres
+Laptop,3 ,219 USD,2026.01.01,Sofía Giménez
+Monitor, 2,648 USD,2026-01-01,Valeria Sosa
+Teclado, 2,900 USD,2026-01-01,Lucía Sánchez
+Laptop,cuatro,78 USD,01-01-2026,Valeria Sosa
+Mouse,5,900 USD,2026.01.01,Valeria Sosa
+Mouse,5,968 USD,2026-01-01,Sofía Giménez
+Monitor, 2,848 USD,2026.01.01,Sara Ruiz
+Monitor,3 ,523 USD,01-01-2026,Sofía Giménez
+Teclado,cuatro,274 USD,01-01-2026,Diego Díaz
+Monitor,3 ,210 USD,2026.01.01,Luis Fernández
+Mouse,cuatro,857 USD,01-01-2026,Pedro Gómez
+Laptop,1,30 USD,2026.01.01,Pedro Gómez
+Teclado,3 ,985 USD,2026.01.01,Andrés Benítez
+Monitor,3 ,961 USD,2026.01.01,Valeria Sosa
+Mouse,3 ,709 USD,2026-01-01,Valeria Sosa
+Teclado,3 ,949 USD,01-01-2026,Sara Ruiz
+Mouse,5,573 USD,2026.01.01,Facundo Acosta
+Mouse,5,941 USD,2026-01-01,Ana Martínez
+Teclado, 2,196 USD,2026.01.01,Sara Ruiz
+Laptop, 2,532 USD,2026.01.01,Sara Ruiz
+Mouse,3 ,944 USD,01-01-2026,Valeria Sosa
+Monitor,5,531 USD,2026.01.01,Carlos López
+Monitor,cuatro,835 USD,01-01-2026,Andrés Benítez
+Teclado, 2,938 USD,01-01-2026,Ana Martínez
+Monitor,1,985 USD,2026-01-01,Elena Torres
+Mouse,3 ,114 USD,01-01-2026,Sara Ruiz
+Laptop,cuatro,340 USD,2026.01.01,Sara Ruiz
+Laptop,cuatro,741 USD,01-01-2026,Juan Pérez
+Mouse,cuatro,985 USD,2026.01.01,Jorge Romero
+Mouse, 2,728 USD,01-01-2026,Diego Díaz
+Mouse,5,418 USD,2026-01-01,Pedro Gómez
+Laptop,3 ,272 USD,2026.01.01,Valeria Sosa
+Teclado,1,42 USD,2026.01.01,Elena Torres
+Monitor,3 ,905 USD,2026-01-01,Juan Pérez
+Mouse,cuatro,169 USD,2026.01.01,Ana Martínez
+Mouse,5,930 USD,2026-01-01,Lucía Sánchez
+Mouse,5,803 USD,2026.01.01,Elena Torres
+Laptop, 2,688 USD,2026-01-01,Andrés Benítez
+Teclado,cuatro,877 USD,01-01-2026,Jorge Romero
+Laptop, 2,441 USD,2026-01-01,Diego Díaz
+Monitor,5,82 USD,01-01-2026,Elena Torres
+Teclado,5,358 USD,2026-01-01,Luis Fernández
+Monitor,5,215 USD,01-01-2026,María García
+Teclado,3 ,126 USD,2026-01-01,Juan Pérez
+Monitor, 2,437 USD,2026-01-01,Andrés Benítez
+Monitor,3 ,231 USD,2026-01-01,Diego Díaz
+Laptop,1,124 USD,01-01-2026,Diego Díaz
+Teclado, 2,306 USD,2026-01-01,Lucía Sánchez
+Laptop,1,877 USD,2026.01.01,Juan Pérez
+Teclado,cuatro,687 USD,2026.01.01,María García
+Laptop,5,129 USD,01-01-2026,Facundo Acosta
+Mouse,5,393 USD,2026.01.01,Lucía Sánchez
+Monitor, 2,128 USD,2026.01.01,Sara Ruiz
+Teclado,1,365 USD,2026.01.01,Sara Ruiz
+Mouse,3 ,191 USD,2026-01-01,Valeria Sosa
+Teclado,cuatro,717 USD,2026.01.01,Juan Pérez
+Laptop,1,881 USD,2026-01-01,María García
+Monitor,1,341 USD,2026-01-01,Ana Martínez
+Mouse,3 ,727 USD,01-01-2026,Sara Ruiz
+Laptop,cuatro,730 USD,01-01-2026,Sofía Giménez
+Laptop,5,240 USD,2026-01-01,Diego Díaz
+Laptop,3 ,397 USD,2026.01.01,Valeria Sosa
+Mouse,1,916 USD,01-01-2026,Juan Pérez
+Teclado,5,822 USD,2026-01-01,Valeria Sosa
+Teclado,3 ,829 USD,2026.01.01,Lucía Sánchez
+Monitor,5,314 USD,01-01-2026,Pedro Gómez
+Monitor,cuatro,295 USD,2026.01.01,Juan Pérez
+Laptop,cuatro,504 USD,2026.01.01,Elena Torres
+Mouse,1,405 USD,01-01-2026,Ana Martínez
+Monitor,1,467 USD,01-01-2026,Andrés Benítez
+Teclado,5,658 USD,2026.01.01,Elena Torres
+Monitor, 2,33 USD,2026.01.01,Elena Torres
+Laptop,3 ,992 USD,2026.01.01,Pedro Gómez
+Mouse,cuatro,103 USD,2026-01-01,Pedro Gómez
+Monitor,1,638 USD,2026-01-01,Luis Fernández
+Mouse,5,529 USD,2026.01.01,Andrés Benítez
+Laptop,1,938 USD,2026-01-01,Carlos López
+Laptop,3 ,185 USD,2026-01-01,Ana Martínez
+Teclado, 2,383 USD,01-01-2026,Sofía Giménez
+Monitor,3 ,379 USD,2026.01.01,Pedro Gómez
+Monitor, 2,882 USD,2026-01-01,Sofía Giménez
+Mouse,1,330 USD,2026.01.01,Facundo Acosta
+Mouse,5,259 USD,01-01-2026,Diego Díaz
+Monitor,5,920 USD,01-01-2026,Jorge Romero
+Laptop,1,899 USD,2026-01-01,Facundo Acosta
+Laptop, 2,976 USD,2026-01-01,Sara Ruiz
+Mouse,5,914 USD,2026-01-01,Juan Pérez
+Teclado,5,597 USD,2026.01.01,Pedro Gómez
+Teclado,cuatro,84 USD,2026.01.01,Ana Martínez
+Mouse,5,325 USD,01-01-2026,Valeria Sosa
+Monitor,1,730 USD,01-01-2026,Juan Pérez
+Mouse,5,285 USD,2026-01-01,Pedro Gómez
+Mouse,cuatro,891 USD,2026-01-01,María García
+Mouse,1,309 USD,2026.01.01,Andrés Benítez
+Teclado,3 ,29 USD,01-01-2026,Facundo Acosta
+Monitor,3 ,308 USD,2026-01-01,Valeria Sosa
+Monitor,5,947 USD,2026.01.01,Juan Pérez
+Monitor,5,345 USD,2026.01.01,Andrés Benítez
+Laptop, 2,359 USD,2026.01.01,Sara Ruiz
+Monitor, 2,679 USD,2026-01-01,Carlos López
+Teclado,1,923 USD,2026.01.01,Lucía Sánchez
+Teclado,3 ,206 USD,01-01-2026,Lucía Sánchez
+Mouse,5,274 USD,2026.01.01,María García
+Laptop,5,91 USD,01-01-2026,María García
+Mouse,5,56 USD,01-01-2026,Andrés Benítez
+Laptop,3 ,975 USD,2026-01-01,Sara Ruiz
+Mouse,1,787 USD,01-01-2026,Ana Martínez
+Mouse,3 ,469 USD,01-01-2026,Sofía Giménez
+Monitor,1,140 USD,01-01-2026,Jorge Romero
+Teclado,3 ,989 USD,01-01-2026,Juan Pérez
+Laptop,5,453 USD,2026.01.01,Andrés Benítez
+Laptop,1,700 USD,2026.01.01,Juan Pérez
+Mouse,3 ,788 USD,2026.01.01,Ana Martínez
+Teclado,1,213 USD,2026.01.01,Lucía Sánchez
+Monitor,cuatro,851 USD,2026-01-01,Pedro Gómez
+Teclado,cuatro,716 USD,01-01-2026,Juan Pérez
+Mouse,1,917 USD,2026-01-01,Diego Díaz
+Teclado,3 ,910 USD,2026-01-01,Sara Ruiz
+Monitor,1,986 USD,2026.01.01,Pedro Gómez
+Laptop,cuatro,609 USD,01-01-2026,Jorge Romero
+Monitor, 2,75 USD,2026.01.01,Sara Ruiz
+Mouse, 2,712 USD,2026-01-01,María García
+Laptop,3 ,512 USD,01-01-2026,Sofía Giménez
+Teclado,3 ,663 USD,2026.01.01,Elena Torres
+Laptop,cuatro,650 USD,01-01-2026,Elena Torres
+Teclado,1,593 USD,2026.01.01,Luis Fernández
+Teclado,1,533 USD,2026.01.01,Ana Martínez
+Laptop,5,794 USD,2026.01.01,Carlos López
+Teclado, 2,881 USD,2026.01.01,Elena Torres
+Teclado,3 ,12 USD,2026-01-01,Lucía Sánchez
+Monitor,3 ,119 USD,2026-01-01,Sara Ruiz
+Laptop,1,513 USD,2026.01.01,Ana Martínez
+Monitor,3 ,171 USD,2026.01.01,Jorge Romero
+Teclado,3 ,588 USD,01-01-2026,Sofía Giménez
+Laptop,5,863 USD,01-01-2026,Juan Pérez
+Laptop, 2,700 USD,01-01-2026,Diego Díaz
+Teclado,3 ,123 USD,01-01-2026,Jorge Romero
+Monitor, 2,575 USD,2026-01-01,Andrés Benítez
+Teclado,cuatro,484 USD,2026-01-01,Juan Pérez
+Mouse,cuatro,385 USD,01-01-2026,Elena Torres
+Monitor,5,156 USD,2026.01.01,Facundo Acosta
+Teclado,3 ,554 USD,2026.01.01,Carlos López
+Monitor,1,538 USD,01-01-2026,Pedro Gómez
+Laptop, 2,567 USD,01-01-2026,Ana Martínez
+Monitor,3 ,797 USD,01-01-2026,Sara Ruiz
+Teclado,5,431 USD,2026.01.01,Ana Martínez
+Teclado,1,182 USD,2026.01.01,Sara Ruiz
+Laptop,1,332 USD,2026.01.01,Diego Díaz
+Teclado, 2,565 USD,01-01-2026,María García
+Mouse,3 ,282 USD,2026-01-01,Elena Torres
+Monitor,3 ,796 USD,2026-01-01,Jorge Romero
+Monitor,5,780 USD,01-01-2026,Carlos López
+Mouse, 2,195 USD,2026.01.01,Carlos López
+Teclado,cuatro,498 USD,2026.01.01,Jorge Romero
+Laptop,3 ,645 USD,2026-01-01,Luis Fernández
+Mouse, 2,368 USD,2026-01-01,Elena Torres
+Teclado,5,873 USD,01-01-2026,Andrés Benítez
+Monitor, 2,379 USD,01-01-2026,Diego Díaz
+Laptop,5,579 USD,2026-01-01,Jorge Romero
+Laptop,1,505 USD,01-01-2026,Facundo Acosta
+Mouse,3 ,258 USD,2026.01.01,Ana Martínez
+Teclado,5,898 USD,01-01-2026,Jorge Romero
+Mouse,5,297 USD,01-01-2026,Sofía Giménez
+Laptop,cuatro,773 USD,2026.01.01,Diego Díaz
+Laptop,1,548 USD,2026.01.01,Pedro Gómez
+Monitor, 2,875 USD,2026.01.01,Carlos López
+Teclado,cuatro,97 USD,2026-01-01,María García
+Teclado,1,336 USD,01-01-2026,Sara Ruiz
+Teclado,5,772 USD,2026.01.01,Elena Torres
+Mouse,5,337 USD,2026-01-01,Diego Díaz
+Laptop, 2,584 USD,2026-01-01,Sara Ruiz
+Teclado, 2,868 USD,2026-01-01,Sofía Giménez
+Teclado,cuatro,764 USD,01-01-2026,Sofía Giménez
+Mouse,1,617 USD,2026.01.01,Diego Díaz
+Monitor,1,261 USD,2026-01-01,Luis Fernández
+Mouse,5,918 USD,2026.01.01,Facundo Acosta
+Laptop,3 ,379 USD,2026.01.01,Jorge Romero
+Monitor, 2,310 USD,2026.01.01,Diego Díaz
+Monitor,1,639 USD,2026.01.01,María García
+Teclado,3 ,594 USD,01-01-2026,María García
+Monitor,cuatro,302 USD,01-01-2026,Facundo Acosta
+Monitor,5,390 USD,2026-01-01,Diego Díaz
+Laptop,5,912 USD,2026-01-01,Ana Martínez
+Teclado,3 ,307 USD,2026.01.01,Andrés Benítez
+Teclado,3 ,996 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,479 USD,2026.01.01,Sofía Giménez
+Teclado, 2,85 USD,2026.01.01,Pedro Gómez
+Laptop,5,400 USD,01-01-2026,Luis Fernández
+Monitor,5,609 USD,2026.01.01,Jorge Romero
+Monitor, 2,385 USD,01-01-2026,Facundo Acosta
+Laptop, 2,50 USD,2026-01-01,Facundo Acosta
+Mouse,5,703 USD,2026-01-01,Elena Torres
+Monitor,5,221 USD,01-01-2026,Valeria Sosa
+Monitor,cuatro,345 USD,2026-01-01,Juan Pérez
+Laptop, 2,411 USD,2026-01-01,Elena Torres
+Mouse,1,698 USD,01-01-2026,Lucía Sánchez
+Monitor, 2,41 USD,01-01-2026,Luis Fernández
+Mouse,5,194 USD,2026-01-01,Carlos López
+Laptop,1,111 USD,01-01-2026,Lucía Sánchez
+Monitor, 2,148 USD,01-01-2026,Elena Torres
+Mouse, 2,325 USD,2026-01-01,María García
+Teclado,3 ,573 USD,2026-01-01,Lucía Sánchez
+Mouse, 2,229 USD,2026.01.01,Andrés Benítez
+Monitor,3 ,434 USD,2026-01-01,Juan Pérez
+Mouse,5,565 USD,2026.01.01,Lucía Sánchez
+Laptop,3 ,212 USD,01-01-2026,Pedro Gómez
+Mouse,1,926 USD,2026-01-01,Juan Pérez
+Teclado,cuatro,485 USD,01-01-2026,Luis Fernández
+Laptop,5,348 USD,2026.01.01,Valeria Sosa
+Monitor,cuatro,934 USD,2026-01-01,Diego Díaz
+Monitor,3 ,740 USD,2026-01-01,María García
+Mouse,5,180 USD,2026.01.01,Facundo Acosta
+Monitor,3 ,477 USD,2026.01.01,Sara Ruiz
+Laptop,1,210 USD,2026.01.01,Jorge Romero
+Laptop,1,257 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,196 USD,2026-01-01,Ana Martínez
+Monitor,1,53 USD,2026.01.01,Sofía Giménez
+Mouse,1,174 USD,2026.01.01,Juan Pérez
+Mouse,3 ,530 USD,01-01-2026,Juan Pérez
+Teclado,3 ,216 USD,2026-01-01,Pedro Gómez
+Mouse,5,700 USD,01-01-2026,María García
+Laptop,3 ,175 USD,01-01-2026,Jorge Romero
+Teclado,cuatro,400 USD,2026.01.01,Lucía Sánchez
+Mouse,5,592 USD,01-01-2026,Pedro Gómez
+Teclado,1,342 USD,01-01-2026,Pedro Gómez
+Mouse,1,792 USD,2026-01-01,María García
+Laptop,cuatro,975 USD,2026.01.01,Sara Ruiz
+Teclado,5,705 USD,01-01-2026,Pedro Gómez
+Monitor, 2,921 USD,2026-01-01,Pedro Gómez
+Mouse, 2,565 USD,2026.01.01,Ana Martínez
+Teclado,3 ,515 USD,01-01-2026,Andrés Benítez
+Laptop,cuatro,563 USD,01-01-2026,María García
+Monitor,cuatro,973 USD,2026.01.01,Jorge Romero
+Teclado,cuatro,612 USD,2026-01-01,Elena Torres
+Laptop,1,225 USD,2026.01.01,Luis Fernández
+Monitor,3 ,889 USD,2026.01.01,Andrés Benítez
+Teclado,5,449 USD,2026-01-01,Pedro Gómez
+Laptop,5,296 USD,01-01-2026,Luis Fernández
+Laptop, 2,532 USD,2026.01.01,Sofía Giménez
+Teclado,3 ,325 USD,2026.01.01,Lucía Sánchez
+Laptop,cuatro,65 USD,2026.01.01,Luis Fernández
+Mouse,1,261 USD,2026-01-01,Valeria Sosa
+Laptop,1,67 USD,2026.01.01,Ana Martínez
+Laptop,5,99 USD,2026.01.01,Andrés Benítez
+Monitor,1,457 USD,2026.01.01,Valeria Sosa
+Mouse,1,81 USD,2026-01-01,Juan Pérez
+Mouse,3 ,266 USD,2026.01.01,Sofía Giménez
+Teclado,1,26 USD,01-01-2026,Ana Martínez
+Teclado,3 ,163 USD,01-01-2026,Valeria Sosa
+Monitor,1,374 USD,2026-01-01,Jorge Romero
+Mouse,cuatro,942 USD,2026.01.01,María García
+Mouse,5,779 USD,01-01-2026,Facundo Acosta
+Teclado,3 ,853 USD,01-01-2026,Sofía Giménez
+Laptop,3 ,810 USD,01-01-2026,Jorge Romero
+Laptop,3 ,530 USD,2026-01-01,Elena Torres
+Mouse, 2,884 USD,01-01-2026,Facundo Acosta
+Teclado,cuatro,770 USD,2026.01.01,Luis Fernández
+Mouse,cuatro,66 USD,2026-01-01,Sara Ruiz
+Mouse,3 ,571 USD,01-01-2026,Pedro Gómez
+Teclado, 2,580 USD,2026.01.01,Valeria Sosa
+Mouse,cuatro,663 USD,2026-01-01,Sara Ruiz
+Mouse, 2,127 USD,2026.01.01,Andrés Benítez
+Teclado,1,486 USD,2026-01-01,Diego Díaz
+Laptop,1,220 USD,01-01-2026,Diego Díaz
+Monitor,5,134 USD,2026-01-01,María García
+Laptop, 2,447 USD,01-01-2026,Lucía Sánchez
+Mouse,1,666 USD,01-01-2026,Sofía Giménez
+Teclado,3 ,826 USD,2026-01-01,Sofía Giménez
+Teclado,1,406 USD,2026-01-01,Andrés Benítez
+Mouse,5,376 USD,2026.01.01,Ana Martínez
+Mouse,1,777 USD,01-01-2026,Elena Torres
+Teclado, 2,423 USD,2026.01.01,Sofía Giménez
+Mouse,1,335 USD,01-01-2026,Juan Pérez
+Monitor,5,64 USD,2026.01.01,Carlos López
+Monitor,1,366 USD,2026-01-01,Pedro Gómez
+Monitor,5,458 USD,2026-01-01,Carlos López
+Laptop,5,972 USD,01-01-2026,María García
+Laptop,1,115 USD,2026-01-01,Elena Torres
+Laptop,1,798 USD,2026.01.01,Pedro Gómez
+Mouse,5,271 USD,2026.01.01,Ana Martínez
+Mouse,1,73 USD,01-01-2026,Valeria Sosa
+Laptop,5,285 USD,2026.01.01,Pedro Gómez
+Teclado,1,452 USD,2026-01-01,Facundo Acosta
+Monitor,5,649 USD,2026.01.01,Valeria Sosa
+Monitor,5,912 USD,2026.01.01,Elena Torres
+Mouse, 2,143 USD,2026-01-01,Diego Díaz
+Mouse,5,85 USD,2026.01.01,Diego Díaz
+Monitor,5,144 USD,2026.01.01,Juan Pérez
+Mouse, 2,342 USD,01-01-2026,Valeria Sosa
+Mouse, 2,389 USD,2026-01-01,Ana Martínez
+Monitor,3 ,838 USD,2026-01-01,Pedro Gómez
+Mouse,5,605 USD,01-01-2026,Ana Martínez
+Laptop,3 ,611 USD,2026.01.01,Luis Fernández
+Laptop,1,245 USD,2026.01.01,Facundo Acosta
+Laptop,5,141 USD,2026.01.01,Lucía Sánchez
+Mouse,cuatro,157 USD,2026-01-01,Sofía Giménez
+Monitor,cuatro,393 USD,2026-01-01,Diego Díaz
+Teclado, 2,458 USD,2026-01-01,Diego Díaz
+Mouse,3 ,794 USD,2026-01-01,Carlos López
+Teclado,1,378 USD,2026-01-01,Diego Díaz
+Teclado,cuatro,729 USD,01-01-2026,Elena Torres
+Monitor,3 ,770 USD,2026.01.01,Sofía Giménez
+Laptop,3 ,907 USD,2026-01-01,Andrés Benítez
+Laptop,3 ,379 USD,2026-01-01,Juan Pérez
+Monitor,1,106 USD,2026.01.01,Carlos López
+Laptop,cuatro,274 USD,2026-01-01,Luis Fernández
+Laptop, 2,107 USD,01-01-2026,Facundo Acosta
+Monitor, 2,689 USD,01-01-2026,Luis Fernández
+Teclado, 2,271 USD,2026-01-01,Elena Torres
+Mouse,1,139 USD,2026.01.01,Andrés Benítez
+Laptop,5,905 USD,01-01-2026,Facundo Acosta
+Mouse,3 ,536 USD,01-01-2026,Diego Díaz
+Mouse,5,761 USD,2026.01.01,Ana Martínez
+Monitor,5,774 USD,2026-01-01,Carlos López
+Monitor,1,500 USD,2026-01-01,Elena Torres
+Laptop,1,743 USD,2026.01.01,Elena Torres
+Teclado,cuatro,426 USD,01-01-2026,Juan Pérez
+Laptop,cuatro,586 USD,2026-01-01,Sara Ruiz
+Mouse, 2,475 USD,01-01-2026,Andrés Benítez
+Teclado,cuatro,55 USD,2026.01.01,Juan Pérez
+Monitor, 2,1000 USD,01-01-2026,Sofía Giménez
+Laptop,cuatro,527 USD,2026.01.01,Sara Ruiz
+Teclado,5,948 USD,2026.01.01,Lucía Sánchez
+Mouse,cuatro,118 USD,2026.01.01,Juan Pérez
+Monitor,5,483 USD,2026.01.01,Jorge Romero
+Teclado, 2,528 USD,2026-01-01,Ana Martínez
+Teclado,1,541 USD,2026-01-01,Ana Martínez
+Teclado,cuatro,871 USD,01-01-2026,Pedro Gómez
+Mouse,5,264 USD,01-01-2026,Diego Díaz
+Mouse,5,451 USD,2026.01.01,Sara Ruiz
+Mouse,5,33 USD,01-01-2026,Diego Díaz
+Mouse,3 ,356 USD,2026-01-01,Jorge Romero
+Monitor,1,913 USD,2026-01-01,Valeria Sosa
+Teclado,5,595 USD,01-01-2026,Pedro Gómez
+Laptop, 2,454 USD,01-01-2026,Ana Martínez
+Mouse,5,43 USD,2026-01-01,Carlos López
+Mouse,1,757 USD,2026-01-01,Sara Ruiz
+Laptop,1,860 USD,2026.01.01,Jorge Romero
+Mouse,5,149 USD,2026-01-01,Facundo Acosta
+Mouse,3 ,86 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,738 USD,2026.01.01,María García
+Laptop,5,389 USD,2026.01.01,Juan Pérez
+Mouse,1,84 USD,2026-01-01,Pedro Gómez
+Teclado,3 ,317 USD,2026.01.01,Pedro Gómez
+Laptop, 2,626 USD,2026-01-01,Luis Fernández
+Laptop,5,406 USD,2026-01-01,Elena Torres
+Mouse,cuatro,896 USD,2026.01.01,Juan Pérez
+Laptop,cuatro,640 USD,01-01-2026,Sara Ruiz
+Teclado,5,746 USD,01-01-2026,Luis Fernández
+Mouse,cuatro,776 USD,2026.01.01,Jorge Romero
+Mouse,1,269 USD,2026-01-01,Elena Torres
+Teclado, 2,559 USD,2026-01-01,Lucía Sánchez
+Mouse,3 ,845 USD,01-01-2026,Elena Torres
+Monitor,5,429 USD,2026.01.01,Luis Fernández
+Teclado,5,588 USD,2026-01-01,Andrés Benítez
+Mouse,3 ,244 USD,2026-01-01,Carlos López
+Mouse,1,638 USD,01-01-2026,Carlos López
+Monitor,cuatro,134 USD,2026.01.01,Pedro Gómez
+Mouse,5,815 USD,01-01-2026,Andrés Benítez
+Laptop,1,530 USD,2026.01.01,Juan Pérez
+Laptop,1,194 USD,2026.01.01,Pedro Gómez
+Mouse,3 ,220 USD,2026-01-01,Valeria Sosa
+Laptop,cuatro,86 USD,2026.01.01,Valeria Sosa
+Monitor, 2,881 USD,2026-01-01,Luis Fernández
+Mouse, 2,598 USD,01-01-2026,Juan Pérez
+Monitor,cuatro,205 USD,01-01-2026,Pedro Gómez
+Teclado, 2,611 USD,2026.01.01,Facundo Acosta
+Monitor, 2,19 USD,2026.01.01,Facundo Acosta
+Laptop,5,61 USD,2026.01.01,Facundo Acosta
+Laptop,3 ,991 USD,2026.01.01,Andrés Benítez
+Teclado,1,810 USD,2026.01.01,Juan Pérez
+Monitor, 2,722 USD,01-01-2026,Carlos López
+Laptop,cuatro,895 USD,2026-01-01,Diego Díaz
+Laptop,1,649 USD,01-01-2026,Valeria Sosa
+Laptop,3 ,674 USD,01-01-2026,Valeria Sosa
+Laptop,cuatro,586 USD,2026-01-01,Jorge Romero
+Laptop,3 ,867 USD,01-01-2026,Ana Martínez
+Mouse,3 ,691 USD,2026-01-01,Lucía Sánchez
+Mouse,3 ,863 USD,01-01-2026,Carlos López
+Monitor, 2,675 USD,2026.01.01,Pedro Gómez
+Laptop,cuatro,177 USD,01-01-2026,Juan Pérez
+Mouse, 2,175 USD,01-01-2026,Luis Fernández
+Mouse,3 ,114 USD,2026.01.01,Elena Torres
+Mouse,cuatro,399 USD,2026-01-01,Juan Pérez
+Teclado,1,648 USD,2026-01-01,Diego Díaz
+Teclado,3 ,859 USD,01-01-2026,Sofía Giménez
+Laptop,3 ,320 USD,01-01-2026,María García
+Monitor,cuatro,897 USD,2026-01-01,Juan Pérez
+Teclado,5,940 USD,2026.01.01,Diego Díaz
+Laptop,cuatro,796 USD,01-01-2026,Pedro Gómez
+Teclado,cuatro,403 USD,2026-01-01,Facundo Acosta
+Monitor, 2,630 USD,2026.01.01,Diego Díaz
+Laptop,5,144 USD,2026.01.01,Luis Fernández
+Laptop,1,875 USD,01-01-2026,Jorge Romero
+Teclado,1,846 USD,2026.01.01,Luis Fernández
+Mouse,5,346 USD,2026.01.01,Juan Pérez
+Teclado,1,950 USD,2026.01.01,Jorge Romero
+Teclado, 2,143 USD,2026-01-01,Carlos López
+Mouse,3 ,217 USD,2026-01-01,Luis Fernández
+Mouse,cuatro,829 USD,01-01-2026,Sofía Giménez
+Teclado, 2,554 USD,2026.01.01,Diego Díaz
+Mouse, 2,332 USD,01-01-2026,Juan Pérez
+Mouse, 2,106 USD,2026.01.01,Pedro Gómez
+Teclado, 2,630 USD,01-01-2026,María García
+Monitor,5,381 USD,01-01-2026,Pedro Gómez
+Monitor,5,226 USD,2026.01.01,Jorge Romero
+Teclado,1,304 USD,2026.01.01,Juan Pérez
+Monitor,3 ,445 USD,2026.01.01,María García
+Mouse,1,996 USD,2026.01.01,María García
+Monitor,cuatro,758 USD,2026-01-01,Diego Díaz
+Teclado,1,462 USD,01-01-2026,Andrés Benítez
+Teclado,cuatro,454 USD,2026.01.01,Juan Pérez
+Teclado,1,544 USD,2026.01.01,Sara Ruiz
+Teclado,3 ,174 USD,01-01-2026,Sofía Giménez
+Mouse, 2,277 USD,2026-01-01,Carlos López
+Mouse,cuatro,494 USD,2026-01-01,Elena Torres
+Laptop,5,294 USD,01-01-2026,Diego Díaz
+Monitor, 2,937 USD,2026.01.01,Sara Ruiz
+Teclado,cuatro,951 USD,2026-01-01,Luis Fernández
+Laptop,3 ,940 USD,01-01-2026,Elena Torres
+Laptop,cuatro,299 USD,01-01-2026,María García
+Teclado, 2,526 USD,2026-01-01,Jorge Romero
+Teclado,3 ,176 USD,2026-01-01,Luis Fernández
+Monitor, 2,532 USD,2026.01.01,Andrés Benítez
+Teclado, 2,482 USD,2026-01-01,Jorge Romero
+Laptop,1,877 USD,2026-01-01,Lucía Sánchez
+Monitor, 2,575 USD,2026.01.01,Jorge Romero
+Mouse,5,394 USD,2026-01-01,Pedro Gómez
+Mouse,3 ,898 USD,01-01-2026,Facundo Acosta
+Laptop,5,355 USD,2026.01.01,Lucía Sánchez
+Laptop,cuatro,255 USD,01-01-2026,Sara Ruiz
+Monitor,5,683 USD,2026-01-01,Sara Ruiz
+Teclado,cuatro,753 USD,01-01-2026,Lucía Sánchez
+Teclado,5,926 USD,2026-01-01,Ana Martínez
+Laptop, 2,626 USD,2026.01.01,Ana Martínez
+Laptop,3 ,480 USD,01-01-2026,Carlos López
+Laptop,1,674 USD,2026.01.01,Diego Díaz
+Teclado,3 ,706 USD,01-01-2026,Pedro Gómez
+Monitor,cuatro,395 USD,2026.01.01,Andrés Benítez
+Laptop, 2,146 USD,2026-01-01,Facundo Acosta
+Laptop,5,296 USD,2026.01.01,Elena Torres
+Teclado,5,413 USD,2026-01-01,Diego Díaz
+Laptop,cuatro,820 USD,01-01-2026,Jorge Romero
+Teclado,cuatro,684 USD,01-01-2026,Carlos López
+Teclado, 2,561 USD,2026-01-01,Ana Martínez
+Monitor, 2,677 USD,2026.01.01,Juan Pérez
+Laptop,cuatro,66 USD,2026.01.01,Juan Pérez
+Mouse,3 ,489 USD,01-01-2026,Luis Fernández
+Mouse,3 ,440 USD,2026-01-01,María García
+Mouse,5,237 USD,2026.01.01,Pedro Gómez
+Mouse,cuatro,668 USD,2026.01.01,Juan Pérez
+Teclado,5,187 USD,01-01-2026,Diego Díaz
+Laptop,5,351 USD,2026-01-01,Sara Ruiz
+Mouse,3 ,170 USD,01-01-2026,Ana Martínez
+Laptop,cuatro,831 USD,2026-01-01,Andrés Benítez
+Monitor,5,657 USD,2026.01.01,Pedro Gómez
+Monitor,cuatro,794 USD,2026-01-01,Elena Torres
+Laptop, 2,32 USD,2026.01.01,Ana Martínez
+Laptop, 2,94 USD,2026.01.01,Ana Martínez
+Mouse,5,296 USD,2026.01.01,Lucía Sánchez
+Monitor, 2,808 USD,2026.01.01,Facundo Acosta
+Mouse,3 ,250 USD,2026.01.01,Pedro Gómez
+Laptop,cuatro,823 USD,01-01-2026,Andrés Benítez
+Teclado, 2,176 USD,2026.01.01,Elena Torres
+Teclado,5,196 USD,2026.01.01,Sara Ruiz
+Teclado,1,438 USD,2026-01-01,Sofía Giménez
+Teclado,cuatro,949 USD,2026.01.01,Valeria Sosa
+Mouse,3 ,615 USD,2026.01.01,Juan Pérez
+Monitor,1,419 USD,01-01-2026,Ana Martínez
+Monitor, 2,532 USD,2026-01-01,Jorge Romero
+Mouse, 2,718 USD,2026-01-01,Valeria Sosa
+Teclado, 2,197 USD,2026.01.01,Luis Fernández
+Teclado,5,490 USD,2026-01-01,Sara Ruiz
+Mouse,cuatro,613 USD,2026.01.01,Pedro Gómez
+Teclado,3 ,442 USD,2026-01-01,Lucía Sánchez
+Mouse,5,261 USD,01-01-2026,Sofía Giménez
+Monitor,3 ,815 USD,2026-01-01,Pedro Gómez
+Mouse,cuatro,568 USD,01-01-2026,Ana Martínez
+Mouse,5,188 USD,2026-01-01,Luis Fernández
+Monitor,1,659 USD,2026.01.01,Pedro Gómez
+Monitor,1,266 USD,01-01-2026,Ana Martínez
+Mouse,3 ,765 USD,2026-01-01,Elena Torres
+Laptop,1,793 USD,2026.01.01,Sara Ruiz
+Mouse,cuatro,449 USD,2026-01-01,Elena Torres
+Teclado,cuatro,924 USD,2026-01-01,Carlos López
+Laptop,3 ,311 USD,2026-01-01,Luis Fernández
+Laptop,3 ,676 USD,2026.01.01,Diego Díaz
+Teclado,3 ,974 USD,2026.01.01,Diego Díaz
+Monitor,3 ,962 USD,2026-01-01,Andrés Benítez
+Mouse,1,817 USD,2026.01.01,Luis Fernández
+Teclado, 2,376 USD,01-01-2026,Pedro Gómez
+Monitor, 2,512 USD,2026-01-01,Elena Torres
+Teclado,5,615 USD,2026-01-01,Carlos López
+Laptop, 2,520 USD,2026-01-01,Lucía Sánchez
+Teclado,1,517 USD,01-01-2026,Elena Torres
+Mouse, 2,133 USD,2026.01.01,María García
+Teclado,cuatro,293 USD,2026-01-01,Pedro Gómez
+Teclado,cuatro,616 USD,2026.01.01,Ana Martínez
+Monitor,5,791 USD,2026.01.01,Sara Ruiz
+Mouse,cuatro,229 USD,01-01-2026,Jorge Romero
+Mouse,1,714 USD,2026.01.01,Elena Torres
+Laptop,3 ,806 USD,2026.01.01,Elena Torres
+Laptop,3 ,302 USD,01-01-2026,Ana Martínez
+Teclado,1,295 USD,2026-01-01,Elena Torres
+Monitor,cuatro,986 USD,01-01-2026,Valeria Sosa
+Laptop, 2,233 USD,01-01-2026,Andrés Benítez
+Mouse,5,123 USD,01-01-2026,Elena Torres
+Teclado,cuatro,45 USD,2026.01.01,Carlos López
+Laptop,cuatro,398 USD,2026-01-01,Juan Pérez
+Laptop,1,574 USD,2026-01-01,Juan Pérez
+Mouse, 2,322 USD,01-01-2026,Luis Fernández
+Mouse, 2,521 USD,2026.01.01,Elena Torres
+Teclado,5,35 USD,2026.01.01,María García
+Mouse,1,149 USD,01-01-2026,Ana Martínez
+Laptop,5,85 USD,2026.01.01,Ana Martínez
+Mouse,1,510 USD,2026-01-01,Ana Martínez
+Mouse,5,724 USD,01-01-2026,Sofía Giménez
+Mouse,5,210 USD,2026.01.01,Juan Pérez
+Teclado,cuatro,348 USD,2026.01.01,Jorge Romero
+Teclado,1,808 USD,2026.01.01,María García
+Laptop,5,311 USD,01-01-2026,Diego Díaz
+Mouse,5,137 USD,2026.01.01,Andrés Benítez
+Monitor,cuatro,997 USD,01-01-2026,Carlos López
+Laptop,cuatro,73 USD,2026-01-01,Ana Martínez
+Teclado,3 ,432 USD,2026.01.01,Sofía Giménez
+Laptop,1,410 USD,2026.01.01,Lucía Sánchez
+Monitor,cuatro,745 USD,2026.01.01,Sara Ruiz
+Mouse,cuatro,694 USD,2026-01-01,Lucía Sánchez
+Teclado,cuatro,586 USD,2026-01-01,Jorge Romero
+Mouse,cuatro,382 USD,2026.01.01,Lucía Sánchez
+Teclado, 2,328 USD,2026.01.01,Andrés Benítez
+Laptop,3 ,867 USD,2026.01.01,Andrés Benítez
+Monitor,1,530 USD,2026-01-01,Lucía Sánchez
+Monitor, 2,147 USD,2026-01-01,Sofía Giménez
+Laptop,1,533 USD,01-01-2026,Lucía Sánchez
+Monitor, 2,510 USD,2026-01-01,Sara Ruiz
+Monitor, 2,524 USD,2026-01-01,Pedro Gómez
+Teclado,5,232 USD,2026.01.01,Luis Fernández
+Laptop, 2,770 USD,2026-01-01,Pedro Gómez
+Monitor,5,782 USD,2026-01-01,Ana Martínez
+Teclado,1,943 USD,01-01-2026,Juan Pérez
+Teclado,cuatro,980 USD,2026.01.01,Sofía Giménez
+Monitor, 2,430 USD,01-01-2026,Ana Martínez
+Teclado,5,844 USD,01-01-2026,Elena Torres
+Laptop,1,914 USD,2026-01-01,Ana Martínez
+Teclado,1,454 USD,01-01-2026,María García
+Monitor,5,353 USD,01-01-2026,Luis Fernández
+Mouse, 2,150 USD,2026.01.01,Sofía Giménez
+Teclado, 2,539 USD,2026-01-01,Sara Ruiz
+Teclado,1,230 USD,2026-01-01,Jorge Romero
+Monitor,5,946 USD,2026.01.01,María García
+Monitor, 2,986 USD,01-01-2026,Pedro Gómez
+Teclado,5,660 USD,2026.01.01,Diego Díaz
+Laptop,cuatro,796 USD,01-01-2026,Sara Ruiz
+Mouse, 2,294 USD,2026-01-01,Facundo Acosta
+Laptop,1,33 USD,2026.01.01,Pedro Gómez
+Teclado,cuatro,851 USD,2026-01-01,Elena Torres
+Laptop,5,598 USD,2026.01.01,Diego Díaz
+Mouse,5,44 USD,2026.01.01,María García
+Teclado,cuatro,110 USD,2026-01-01,Jorge Romero
+Mouse,3 ,469 USD,01-01-2026,Sofía Giménez
+Teclado,3 ,473 USD,2026-01-01,Diego Díaz
+Mouse,3 ,613 USD,2026-01-01,Juan Pérez
+Mouse,3 ,900 USD,01-01-2026,Valeria Sosa
+Mouse,1,803 USD,01-01-2026,Lucía Sánchez
+Teclado, 2,740 USD,2026-01-01,Jorge Romero
+Monitor,3 ,348 USD,01-01-2026,María García
+Teclado,5,458 USD,2026.01.01,Lucía Sánchez
+Teclado,1,702 USD,01-01-2026,Juan Pérez
+Mouse,5,277 USD,2026.01.01,Juan Pérez
+Mouse,3 ,437 USD,01-01-2026,Sofía Giménez
+Laptop,1,339 USD,2026.01.01,Lucía Sánchez
+Monitor,5,860 USD,2026.01.01,Sofía Giménez
+Laptop,1,830 USD,2026.01.01,Lucía Sánchez
+Monitor,3 ,617 USD,2026.01.01,Elena Torres
+Mouse,3 ,136 USD,2026.01.01,Sara Ruiz
+Monitor,5,307 USD,01-01-2026,Diego Díaz
+Monitor,cuatro,140 USD,2026-01-01,Jorge Romero
+Laptop,5,784 USD,01-01-2026,Sara Ruiz
+Laptop,5,382 USD,2026-01-01,Valeria Sosa
+Monitor, 2,473 USD,01-01-2026,Carlos López
+Monitor,5,315 USD,2026-01-01,Elena Torres
+Laptop,5,480 USD,2026.01.01,Lucía Sánchez
+Mouse, 2,114 USD,01-01-2026,Elena Torres
+Monitor,cuatro,808 USD,01-01-2026,Valeria Sosa
+Teclado,3 ,321 USD,2026.01.01,Elena Torres
+Laptop,3 ,603 USD,01-01-2026,Lucía Sánchez
+Monitor,3 ,854 USD,01-01-2026,Lucía Sánchez
+Mouse, 2,21 USD,2026-01-01,Carlos López
+Mouse,5,630 USD,2026-01-01,Jorge Romero
+Mouse,cuatro,581 USD,2026-01-01,Andrés Benítez
+Laptop,3 ,936 USD,2026-01-01,Pedro Gómez
+Teclado,3 ,926 USD,2026-01-01,Carlos López
+Mouse, 2,680 USD,01-01-2026,Valeria Sosa
+Teclado, 2,974 USD,2026.01.01,Sara Ruiz
+Laptop, 2,592 USD,2026-01-01,Elena Torres
+Mouse,5,533 USD,2026-01-01,Carlos López
+Laptop,3 ,809 USD,2026-01-01,Sara Ruiz
+Monitor,5,547 USD,2026-01-01,María García
+Teclado,3 ,971 USD,01-01-2026,María García
+Mouse,5,785 USD,01-01-2026,Elena Torres
+Mouse, 2,619 USD,2026.01.01,Luis Fernández
+Mouse, 2,464 USD,2026-01-01,Sofía Giménez
+Teclado,cuatro,258 USD,2026.01.01,Jorge Romero
+Monitor, 2,658 USD,2026.01.01,Pedro Gómez
+Laptop,5,372 USD,01-01-2026,Luis Fernández
+Mouse,cuatro,709 USD,01-01-2026,Andrés Benítez
+Mouse, 2,650 USD,01-01-2026,Facundo Acosta
+Teclado,cuatro,114 USD,2026.01.01,Andrés Benítez
+Monitor,1,609 USD,01-01-2026,Jorge Romero
+Mouse,cuatro,699 USD,2026-01-01,Sofía Giménez
+Laptop,cuatro,939 USD,01-01-2026,Juan Pérez
+Laptop, 2,676 USD,2026.01.01,Jorge Romero
+Monitor,3 ,788 USD,2026.01.01,Carlos López
+Monitor, 2,976 USD,2026-01-01,Diego Díaz
+Monitor, 2,609 USD,01-01-2026,Sara Ruiz
+Laptop,5,453 USD,01-01-2026,María García
+Monitor,5,939 USD,01-01-2026,Jorge Romero
+Teclado,5,573 USD,2026.01.01,Luis Fernández
+Mouse,3 ,122 USD,2026.01.01,María García
+Laptop,cuatro,432 USD,2026.01.01,Carlos López
+Mouse,cuatro,685 USD,2026.01.01,Pedro Gómez
+Laptop,cuatro,204 USD,01-01-2026,María García
+Monitor,5,336 USD,2026.01.01,Luis Fernández
+Mouse,cuatro,802 USD,2026-01-01,Luis Fernández
+Mouse, 2,740 USD,2026-01-01,Jorge Romero
+Teclado,1,378 USD,2026.01.01,Sofía Giménez
+Monitor,5,816 USD,2026.01.01,Andrés Benítez
+Monitor,5,70 USD,2026-01-01,Diego Díaz
+Mouse,1,875 USD,2026.01.01,Jorge Romero
+Mouse, 2,751 USD,2026-01-01,Ana Martínez
+Monitor,1,820 USD,2026.01.01,Sofía Giménez
+Mouse,1,65 USD,2026-01-01,Diego Díaz
+Laptop,3 ,693 USD,2026.01.01,Jorge Romero
+Laptop,cuatro,613 USD,2026-01-01,María García
+Mouse,3 ,29 USD,2026-01-01,Elena Torres
+Teclado, 2,622 USD,01-01-2026,Carlos López
+Laptop,cuatro,127 USD,01-01-2026,Andrés Benítez
+Teclado,3 ,959 USD,2026-01-01,Andrés Benítez
+Mouse,5,829 USD,01-01-2026,Ana Martínez
+Mouse,1,705 USD,2026-01-01,Pedro Gómez
+Laptop,cuatro,482 USD,01-01-2026,Sara Ruiz
+Teclado,cuatro,876 USD,2026.01.01,Lucía Sánchez
+Laptop, 2,47 USD,2026.01.01,Valeria Sosa
+Laptop,cuatro,69 USD,01-01-2026,Facundo Acosta
+Teclado,1,636 USD,2026.01.01,Andrés Benítez
+Teclado,5,753 USD,01-01-2026,Luis Fernández
+Mouse,1,87 USD,2026-01-01,Pedro Gómez
+Monitor, 2,391 USD,2026.01.01,Sara Ruiz
+Teclado,1,76 USD,01-01-2026,Valeria Sosa
+Mouse,3 ,269 USD,2026.01.01,Diego Díaz
+Monitor,cuatro,431 USD,2026-01-01,Facundo Acosta
+Teclado,cuatro,684 USD,01-01-2026,Juan Pérez
+Mouse,1,683 USD,2026-01-01,Juan Pérez
+Monitor,1,938 USD,2026-01-01,Juan Pérez
+Teclado,3 ,326 USD,2026-01-01,Sara Ruiz
+Monitor,5,755 USD,2026-01-01,Facundo Acosta
+Mouse,cuatro,596 USD,2026.01.01,Lucía Sánchez
+Monitor, 2,63 USD,01-01-2026,Facundo Acosta
+Laptop, 2,487 USD,01-01-2026,Sara Ruiz
+Teclado,cuatro,934 USD,2026-01-01,Ana Martínez
+Monitor,3 ,466 USD,2026.01.01,María García
+Mouse,1,328 USD,2026.01.01,Andrés Benítez
+Mouse, 2,633 USD,01-01-2026,María García
+Mouse,5,998 USD,2026-01-01,Facundo Acosta
+Mouse,cuatro,231 USD,2026-01-01,Sara Ruiz
+Monitor,1,537 USD,2026-01-01,Sara Ruiz
+Monitor,5,320 USD,2026-01-01,Andrés Benítez
+Monitor,5,715 USD,2026.01.01,Andrés Benítez
+Mouse, 2,661 USD,01-01-2026,Valeria Sosa
+Mouse,cuatro,111 USD,01-01-2026,Juan Pérez
+Teclado,5,152 USD,2026.01.01,Facundo Acosta
+Monitor,cuatro,942 USD,2026.01.01,Facundo Acosta
+Mouse, 2,621 USD,2026.01.01,Ana Martínez
+Monitor,1,260 USD,2026.01.01,Lucía Sánchez
+Laptop,cuatro,438 USD,2026.01.01,Pedro Gómez
+Teclado,1,45 USD,01-01-2026,Diego Díaz
+Laptop,1,565 USD,2026.01.01,María García
+Laptop,1,598 USD,2026-01-01,Carlos López
+Mouse,1,284 USD,2026-01-01,Pedro Gómez
+Teclado,1,511 USD,2026-01-01,Diego Díaz
+Monitor,3 ,413 USD,2026.01.01,Andrés Benítez
+Laptop,1,848 USD,01-01-2026,Sara Ruiz
+Laptop,3 ,136 USD,2026-01-01,Valeria Sosa
+Monitor, 2,782 USD,2026.01.01,Sofía Giménez
+Mouse,1,353 USD,2026-01-01,Pedro Gómez
+Monitor,cuatro,664 USD,2026-01-01,Valeria Sosa
+Laptop,5,730 USD,2026-01-01,Jorge Romero
+Monitor,cuatro,268 USD,2026.01.01,Diego Díaz
+Laptop,cuatro,295 USD,01-01-2026,Andrés Benítez
+Laptop,cuatro,248 USD,2026-01-01,Lucía Sánchez
+Teclado,1,632 USD,2026.01.01,Elena Torres
+Mouse,cuatro,966 USD,01-01-2026,Sofía Giménez
+Mouse,cuatro,318 USD,2026-01-01,Andrés Benítez
+Mouse,3 ,146 USD,01-01-2026,Elena Torres
+Monitor,1,229 USD,2026-01-01,María García
+Laptop,1,672 USD,2026.01.01,Diego Díaz
+Teclado,1,991 USD,2026-01-01,Carlos López
+Laptop,5,546 USD,2026.01.01,Juan Pérez
+Monitor,5,492 USD,2026-01-01,Andrés Benítez
+Laptop,cuatro,399 USD,2026.01.01,Sara Ruiz
+Mouse,5,828 USD,2026-01-01,Lucía Sánchez
+Mouse,3 ,156 USD,2026.01.01,Carlos López
+Teclado,1,275 USD,2026-01-01,María García
+Monitor,1,885 USD,2026.01.01,Pedro Gómez
+Laptop,3 ,82 USD,2026.01.01,Elena Torres
+Teclado,cuatro,845 USD,2026.01.01,Sara Ruiz
+Monitor,3 ,570 USD,2026.01.01,Jorge Romero
+Laptop, 2,836 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,189 USD,01-01-2026,Ana Martínez
+Monitor, 2,466 USD,2026-01-01,Carlos López
+Mouse,1,224 USD,01-01-2026,Jorge Romero
+Monitor,1,322 USD,2026-01-01,María García
+Monitor,3 ,439 USD,01-01-2026,Valeria Sosa
+Monitor,5,547 USD,01-01-2026,Elena Torres
+Mouse,1,776 USD,2026.01.01,Luis Fernández
+Mouse,1,769 USD,2026-01-01,Ana Martínez
+Mouse,cuatro,723 USD,2026-01-01,Jorge Romero
+Mouse, 2,550 USD,2026.01.01,Sara Ruiz
+Teclado,1,465 USD,2026.01.01,Pedro Gómez
+Mouse,3 ,698 USD,2026-01-01,Sofía Giménez
+Laptop,cuatro,252 USD,2026-01-01,Pedro Gómez
+Teclado,5,178 USD,01-01-2026,Pedro Gómez
+Mouse,1,475 USD,01-01-2026,Sofía Giménez
+Monitor,5,28 USD,01-01-2026,Sara Ruiz
+Monitor,3 ,823 USD,2026-01-01,Facundo Acosta
+Mouse,cuatro,814 USD,2026.01.01,Facundo Acosta
+Laptop,5,35 USD,01-01-2026,Luis Fernández
+Laptop, 2,637 USD,2026-01-01,Sara Ruiz
+Teclado, 2,666 USD,01-01-2026,María García
+Monitor,5,921 USD,2026.01.01,Diego Díaz
+Monitor,5,38 USD,2026-01-01,Carlos López
+Mouse,1,150 USD,01-01-2026,Facundo Acosta
+Mouse,1,857 USD,01-01-2026,Juan Pérez
+Mouse,5,746 USD,01-01-2026,Pedro Gómez
+Mouse,cuatro,558 USD,2026.01.01,Ana Martínez
+Laptop,3 ,227 USD,2026.01.01,Jorge Romero
+Laptop,cuatro,959 USD,2026.01.01,María García
+Monitor,3 ,651 USD,2026-01-01,Carlos López
+Laptop,1,307 USD,01-01-2026,Diego Díaz
+Monitor,1,178 USD,01-01-2026,Andrés Benítez
+Teclado,cuatro,971 USD,2026-01-01,Carlos López
+Laptop, 2,478 USD,2026.01.01,Jorge Romero
+Mouse,1,494 USD,01-01-2026,Pedro Gómez
+Teclado,5,874 USD,2026.01.01,Carlos López
+Teclado,cuatro,21 USD,01-01-2026,Juan Pérez
+Monitor,1,551 USD,2026-01-01,Diego Díaz
+Laptop,3 ,415 USD,01-01-2026,Diego Díaz
+Laptop,3 ,882 USD,01-01-2026,María García
+Teclado,1,821 USD,2026.01.01,Carlos López
+Laptop, 2,681 USD,2026.01.01,Jorge Romero
+Mouse,5,755 USD,2026.01.01,Carlos López
+Laptop,5,572 USD,2026.01.01,Valeria Sosa
+Mouse,5,836 USD,2026-01-01,Andrés Benítez
+Monitor,5,516 USD,2026.01.01,Diego Díaz
+Monitor, 2,20 USD,01-01-2026,Lucía Sánchez
+Teclado, 2,195 USD,2026-01-01,Elena Torres
+Mouse,1,20 USD,2026.01.01,Carlos López
+Mouse,3 ,563 USD,2026-01-01,Juan Pérez
+Teclado,cuatro,942 USD,01-01-2026,Lucía Sánchez
+Laptop,3 ,131 USD,2026-01-01,Sara Ruiz
+Laptop,1,342 USD,2026-01-01,Elena Torres
+Monitor, 2,246 USD,01-01-2026,María García
+Mouse, 2,594 USD,2026-01-01,Jorge Romero
+Laptop,5,923 USD,2026.01.01,María García
+Teclado,5,854 USD,2026-01-01,Diego Díaz
+Mouse, 2,831 USD,2026.01.01,Sofía Giménez
+Laptop,3 ,808 USD,2026.01.01,Carlos López
+Monitor,1,830 USD,2026.01.01,Carlos López
+Monitor, 2,465 USD,2026.01.01,Juan Pérez
+Laptop,5,646 USD,2026-01-01,Andrés Benítez
+Laptop,5,315 USD,2026-01-01,María García
+Laptop,1,885 USD,01-01-2026,Lucía Sánchez
+Mouse, 2,162 USD,2026.01.01,Andrés Benítez
+Monitor,3 ,244 USD,01-01-2026,Luis Fernández
+Mouse,1,671 USD,2026-01-01,Sofía Giménez
+Teclado,1,814 USD,2026-01-01,Pedro Gómez
+Teclado, 2,292 USD,2026-01-01,Elena Torres
+Laptop,3 ,146 USD,2026.01.01,Diego Díaz
+Teclado,1,831 USD,2026-01-01,Jorge Romero
+Mouse,1,372 USD,2026.01.01,Juan Pérez
+Monitor,5,357 USD,2026.01.01,Facundo Acosta
+Teclado,1,268 USD,2026.01.01,Jorge Romero
+Mouse, 2,802 USD,01-01-2026,Luis Fernández
+Teclado, 2,995 USD,01-01-2026,Pedro Gómez
+Mouse,1,740 USD,2026-01-01,Valeria Sosa
+Laptop,5,570 USD,2026.01.01,Valeria Sosa
+Monitor,cuatro,716 USD,2026-01-01,Andrés Benítez
+Teclado,cuatro,867 USD,2026-01-01,Lucía Sánchez
+Laptop,cuatro,520 USD,2026-01-01,Sara Ruiz
+Laptop,1,769 USD,01-01-2026,Valeria Sosa
+Monitor,3 ,514 USD,2026.01.01,Sara Ruiz
+Laptop,cuatro,204 USD,2026-01-01,Sara Ruiz
+Laptop,5,580 USD,01-01-2026,Pedro Gómez
+Monitor,5,970 USD,2026-01-01,Pedro Gómez
+Mouse, 2,754 USD,2026.01.01,Facundo Acosta
+Monitor,1,256 USD,01-01-2026,Andrés Benítez
+Monitor,5,294 USD,01-01-2026,Valeria Sosa
+Laptop,1,68 USD,2026.01.01,Luis Fernández
+Mouse, 2,818 USD,2026.01.01,Elena Torres
+Monitor,5,243 USD,2026-01-01,Sofía Giménez
+Laptop,1,361 USD,2026-01-01,Valeria Sosa
+Monitor, 2,639 USD,01-01-2026,Jorge Romero
+Monitor,1,294 USD,01-01-2026,Andrés Benítez
+Laptop,cuatro,317 USD,01-01-2026,Sara Ruiz
+Laptop,cuatro,863 USD,01-01-2026,Valeria Sosa
+Monitor,5,696 USD,2026-01-01,Andrés Benítez
+Laptop,cuatro,407 USD,2026.01.01,Elena Torres
+Mouse,3 ,220 USD,01-01-2026,Andrés Benítez
+Teclado, 2,782 USD,2026-01-01,Jorge Romero
+Mouse,3 ,759 USD,2026.01.01,Carlos López
+Teclado, 2,262 USD,01-01-2026,Valeria Sosa
+Teclado, 2,806 USD,2026.01.01,Facundo Acosta
+Monitor,1,745 USD,2026-01-01,Luis Fernández
+Laptop,1,261 USD,2026-01-01,Carlos López
+Laptop, 2,865 USD,2026-01-01,Ana Martínez
+Laptop,cuatro,134 USD,01-01-2026,Sofía Giménez
+Laptop,cuatro,570 USD,2026-01-01,Facundo Acosta
+Mouse,1,779 USD,2026.01.01,Sara Ruiz
+Monitor,5,641 USD,2026-01-01,Sofía Giménez
+Mouse,1,447 USD,01-01-2026,Elena Torres
+Monitor,3 ,217 USD,01-01-2026,Diego Díaz
+Mouse, 2,280 USD,01-01-2026,Ana Martínez
+Teclado,5,833 USD,2026-01-01,Facundo Acosta
+Mouse,cuatro,910 USD,2026.01.01,María García
+Teclado,1,354 USD,01-01-2026,Lucía Sánchez
+Monitor,5,521 USD,2026.01.01,Sofía Giménez
+Teclado,1,98 USD,2026.01.01,Sofía Giménez
+Teclado,5,201 USD,2026-01-01,Facundo Acosta
+Teclado,1,522 USD,2026-01-01,Lucía Sánchez
+Monitor,3 ,695 USD,2026.01.01,Elena Torres
+Laptop,cuatro,401 USD,01-01-2026,Juan Pérez
+Laptop,1,451 USD,2026-01-01,Lucía Sánchez
+Monitor, 2,829 USD,2026.01.01,Sofía Giménez
+Mouse,5,33 USD,2026.01.01,Andrés Benítez
+Laptop, 2,718 USD,2026.01.01,Facundo Acosta
+Teclado,3 ,718 USD,2026-01-01,Andrés Benítez
+Teclado,5,209 USD,2026-01-01,Sofía Giménez
+Mouse,cuatro,270 USD,2026.01.01,Valeria Sosa
+Monitor, 2,916 USD,2026.01.01,Lucía Sánchez
+Monitor,1,311 USD,2026.01.01,Sofía Giménez
+Laptop,1,466 USD,2026.01.01,Facundo Acosta
+Teclado, 2,944 USD,01-01-2026,María García
+Teclado,cuatro,30 USD,2026-01-01,Pedro Gómez
+Monitor,1,624 USD,2026.01.01,Sofía Giménez
+Teclado,1,941 USD,2026.01.01,Jorge Romero
+Teclado,3 ,78 USD,2026-01-01,Andrés Benítez
+Monitor,cuatro,258 USD,01-01-2026,Sofía Giménez
+Teclado, 2,660 USD,2026.01.01,Luis Fernández
+Monitor,cuatro,630 USD,2026.01.01,Sara Ruiz
+Teclado,cuatro,975 USD,01-01-2026,Lucía Sánchez
+Laptop, 2,76 USD,2026-01-01,Sofía Giménez
+Monitor,1,698 USD,2026-01-01,María García
+Teclado,3 ,81 USD,01-01-2026,Luis Fernández
+Teclado, 2,530 USD,01-01-2026,Jorge Romero
+Mouse,1,642 USD,2026-01-01,Juan Pérez
+Teclado,3 ,41 USD,2026.01.01,Ana Martínez
+Teclado,cuatro,247 USD,2026.01.01,Sofía Giménez
+Mouse,5,385 USD,01-01-2026,Pedro Gómez
+Monitor,3 ,673 USD,01-01-2026,Pedro Gómez
+Teclado,3 ,149 USD,01-01-2026,Andrés Benítez
+Laptop,3 ,824 USD,2026-01-01,Pedro Gómez
+Monitor,1,58 USD,2026-01-01,Facundo Acosta
+Monitor, 2,701 USD,2026.01.01,Andrés Benítez
+Mouse,cuatro,239 USD,01-01-2026,Andrés Benítez
+Mouse, 2,943 USD,2026-01-01,Facundo Acosta
+Teclado,cuatro,315 USD,2026-01-01,Carlos López
+Laptop,5,58 USD,01-01-2026,Valeria Sosa
+Teclado,5,473 USD,01-01-2026,Juan Pérez
+Laptop,3 ,830 USD,2026.01.01,Pedro Gómez
+Teclado,1,620 USD,01-01-2026,Pedro Gómez
+Monitor,cuatro,718 USD,2026.01.01,Ana Martínez
+Mouse,5,497 USD,2026-01-01,Jorge Romero
+Monitor,cuatro,872 USD,2026.01.01,Valeria Sosa
+Mouse,1,626 USD,2026-01-01,Carlos López
+Mouse,cuatro,477 USD,01-01-2026,Andrés Benítez
+Mouse,1,808 USD,2026-01-01,Ana Martínez
+Mouse,5,164 USD,2026-01-01,Valeria Sosa
+Laptop,1,320 USD,2026.01.01,Elena Torres
+Mouse, 2,86 USD,01-01-2026,Valeria Sosa
+Mouse,5,538 USD,2026.01.01,Pedro Gómez
+Laptop,3 ,552 USD,2026.01.01,María García
+Teclado,3 ,346 USD,2026-01-01,Sofía Giménez
+Monitor,3 ,890 USD,2026.01.01,Diego Díaz
+Teclado,cuatro,29 USD,2026.01.01,Facundo Acosta
+Monitor,5,397 USD,2026.01.01,Andrés Benítez
+Mouse,3 ,282 USD,2026-01-01,María García
+Mouse,5,245 USD,2026.01.01,Valeria Sosa
+Monitor,cuatro,138 USD,2026.01.01,Jorge Romero
+Mouse,3 ,765 USD,01-01-2026,Sara Ruiz
+Mouse,1,821 USD,01-01-2026,María García
+Laptop,3 ,232 USD,2026.01.01,Ana Martínez
+Teclado, 2,311 USD,2026-01-01,María García
+Mouse, 2,74 USD,2026.01.01,Sofía Giménez
+Mouse,cuatro,272 USD,2026-01-01,Pedro Gómez
+Monitor,5,586 USD,2026-01-01,Sofía Giménez
+Laptop,cuatro,48 USD,2026.01.01,Carlos López
+Teclado,5,82 USD,2026-01-01,Pedro Gómez
+Teclado,5,641 USD,2026.01.01,Valeria Sosa
+Monitor,3 ,171 USD,01-01-2026,Ana Martínez
+Teclado, 2,72 USD,2026.01.01,Lucía Sánchez
+Laptop, 2,793 USD,2026.01.01,Luis Fernández
+Laptop, 2,946 USD,2026.01.01,Facundo Acosta
+Teclado,cuatro,863 USD,01-01-2026,Ana Martínez
+Teclado,5,822 USD,01-01-2026,Carlos López
+Teclado,3 ,746 USD,01-01-2026,Sofía Giménez
+Mouse,cuatro,971 USD,2026-01-01,Lucía Sánchez
+Laptop,cuatro,450 USD,2026-01-01,Lucía Sánchez
+Teclado,1,906 USD,01-01-2026,Diego Díaz
+Monitor, 2,554 USD,2026.01.01,Andrés Benítez
+Laptop,cuatro,133 USD,2026-01-01,Lucía Sánchez
+Teclado,3 ,642 USD,2026.01.01,María García
+Laptop, 2,151 USD,2026-01-01,Andrés Benítez
+Mouse,1,583 USD,2026.01.01,Valeria Sosa
+Mouse,1,647 USD,2026-01-01,Luis Fernández
+Teclado,1,841 USD,2026.01.01,Sara Ruiz
+Mouse,cuatro,401 USD,2026.01.01,Lucía Sánchez
+Laptop,5,814 USD,01-01-2026,Diego Díaz
+Monitor,3 ,651 USD,2026-01-01,Carlos López
+Monitor,3 ,167 USD,2026.01.01,Elena Torres
+Monitor,1,449 USD,01-01-2026,Sara Ruiz
+Monitor, 2,321 USD,01-01-2026,Ana Martínez
+Mouse,cuatro,938 USD,2026-01-01,Andrés Benítez
+Mouse,5,644 USD,01-01-2026,Juan Pérez
+Monitor, 2,448 USD,2026-01-01,Lucía Sánchez
+Mouse,1,958 USD,01-01-2026,Andrés Benítez
+Monitor,1,123 USD,2026-01-01,Valeria Sosa
+Monitor,3 ,66 USD,2026-01-01,Facundo Acosta
+Laptop,cuatro,488 USD,01-01-2026,Juan Pérez
+Mouse,5,410 USD,2026-01-01,Andrés Benítez
+Teclado,1,800 USD,01-01-2026,Juan Pérez
+Mouse,3 ,530 USD,01-01-2026,Pedro Gómez
+Monitor,5,370 USD,2026-01-01,Lucía Sánchez
+Laptop,1,201 USD,01-01-2026,María García
+Laptop,cuatro,884 USD,2026.01.01,Lucía Sánchez
+Laptop,cuatro,311 USD,01-01-2026,Elena Torres
+Laptop,1,647 USD,2026-01-01,Pedro Gómez
+Mouse,3 ,67 USD,2026-01-01,Valeria Sosa
+Mouse, 2,954 USD,2026-01-01,Diego Díaz
+Teclado,3 ,256 USD,2026-01-01,Juan Pérez
+Laptop,5,198 USD,2026-01-01,Jorge Romero
+Laptop, 2,314 USD,01-01-2026,Luis Fernández
+Teclado, 2,322 USD,01-01-2026,Juan Pérez
+Monitor,5,696 USD,2026.01.01,Luis Fernández
+Monitor,3 ,960 USD,2026.01.01,Carlos López
+Monitor, 2,281 USD,2026.01.01,Facundo Acosta
+Laptop,5,24 USD,2026.01.01,Jorge Romero
+Mouse, 2,944 USD,2026.01.01,Lucía Sánchez
+Laptop,cuatro,878 USD,01-01-2026,María García
+Mouse,3 ,71 USD,2026.01.01,Pedro Gómez
+Laptop,1,515 USD,2026.01.01,Elena Torres
+Mouse,1,473 USD,2026.01.01,Pedro Gómez
+Mouse, 2,71 USD,01-01-2026,Diego Díaz
+Monitor,5,181 USD,2026-01-01,Diego Díaz
+Monitor,cuatro,770 USD,2026.01.01,Facundo Acosta
+Teclado,3 ,733 USD,2026-01-01,Lucía Sánchez
+Teclado,5,603 USD,01-01-2026,Jorge Romero
+Laptop,cuatro,726 USD,2026.01.01,Elena Torres
+Teclado,3 ,973 USD,2026.01.01,Sofía Giménez
+Mouse,1,237 USD,2026.01.01,Diego Díaz
+Teclado,5,107 USD,2026-01-01,Sofía Giménez
+Mouse,cuatro,716 USD,2026-01-01,Sofía Giménez
+Mouse,3 ,116 USD,2026-01-01,Carlos López
+Teclado,5,460 USD,2026.01.01,Diego Díaz
+Laptop,5,217 USD,2026.01.01,Juan Pérez
+Teclado, 2,314 USD,2026-01-01,Lucía Sánchez
+Mouse,cuatro,346 USD,01-01-2026,Sara Ruiz
+Teclado,3 ,169 USD,2026-01-01,Sofía Giménez
+Laptop,5,841 USD,2026-01-01,Sara Ruiz
+Laptop, 2,452 USD,01-01-2026,Valeria Sosa
+Monitor,cuatro,488 USD,2026-01-01,Andrés Benítez
+Monitor,cuatro,757 USD,2026-01-01,Facundo Acosta
+Laptop, 2,792 USD,2026.01.01,Elena Torres
+Mouse, 2,564 USD,01-01-2026,Juan Pérez
+Laptop,5,500 USD,2026.01.01,Juan Pérez
+Monitor,cuatro,96 USD,2026.01.01,Andrés Benítez
+Teclado,5,105 USD,2026.01.01,Ana Martínez
+Monitor,cuatro,221 USD,2026-01-01,Facundo Acosta
+Monitor,3 ,69 USD,2026-01-01,Diego Díaz
+Teclado,5,156 USD,01-01-2026,Elena Torres
+Monitor, 2,394 USD,2026-01-01,Pedro Gómez
+Monitor,1,917 USD,2026-01-01,Lucía Sánchez
+Mouse,5,661 USD,2026-01-01,Sara Ruiz
+Mouse,cuatro,214 USD,2026-01-01,Elena Torres
+Teclado,5,711 USD,2026-01-01,Jorge Romero
+Monitor,3 ,383 USD,2026.01.01,Facundo Acosta
+Monitor, 2,85 USD,2026.01.01,María García
+Laptop, 2,631 USD,2026-01-01,Sara Ruiz
+Laptop,3 ,836 USD,2026-01-01,Ana Martínez
+Mouse,cuatro,364 USD,2026.01.01,Elena Torres
+Mouse,3 ,446 USD,2026-01-01,Sofía Giménez
+Teclado,5,105 USD,2026.01.01,Sofía Giménez
+Monitor,cuatro,301 USD,2026.01.01,Juan Pérez
+Teclado,cuatro,852 USD,2026-01-01,Andrés Benítez
+Mouse,cuatro,462 USD,2026-01-01,Carlos López
+Laptop,1,183 USD,2026.01.01,Juan Pérez
+Laptop, 2,716 USD,2026.01.01,Andrés Benítez
+Monitor,5,369 USD,2026-01-01,Pedro Gómez
+Teclado, 2,572 USD,2026-01-01,Juan Pérez
+Laptop,cuatro,277 USD,01-01-2026,Jorge Romero
+Laptop,5,485 USD,2026.01.01,Carlos López
+Mouse,cuatro,785 USD,2026-01-01,Jorge Romero
+Mouse,1,212 USD,01-01-2026,Carlos López
+Monitor,cuatro,334 USD,2026.01.01,Carlos López
+Monitor,1,375 USD,2026-01-01,Facundo Acosta
+Teclado,3 ,122 USD,2026.01.01,Jorge Romero
+Laptop,5,713 USD,2026.01.01,Elena Torres
+Monitor,5,285 USD,2026.01.01,Juan Pérez
+Laptop,1,306 USD,01-01-2026,Pedro Gómez
+Laptop,5,986 USD,2026.01.01,Carlos López
+Laptop, 2,993 USD,2026.01.01,Diego Díaz
+Teclado,1,702 USD,2026.01.01,Jorge Romero
+Mouse,1,394 USD,2026-01-01,Carlos López
+Laptop,5,384 USD,2026-01-01,Facundo Acosta
+Mouse,cuatro,643 USD,01-01-2026,Pedro Gómez
+Mouse, 2,158 USD,01-01-2026,Facundo Acosta
+Mouse,1,725 USD,2026.01.01,Sofía Giménez
+Mouse,1,760 USD,2026.01.01,Carlos López
+Laptop,1,645 USD,2026-01-01,Luis Fernández
+Monitor,1,661 USD,2026-01-01,Ana Martínez
+Monitor, 2,825 USD,01-01-2026,Carlos López
+Mouse, 2,763 USD,2026.01.01,María García
+Laptop,3 ,846 USD,2026.01.01,Carlos López
+Monitor,3 ,282 USD,2026.01.01,Sofía Giménez
+Mouse, 2,288 USD,2026.01.01,Ana Martínez
+Teclado, 2,158 USD,2026-01-01,Diego Díaz
+Laptop,cuatro,545 USD,2026-01-01,Pedro Gómez
+Teclado,3 ,395 USD,01-01-2026,Facundo Acosta
+Monitor,5,538 USD,2026-01-01,Jorge Romero
+Laptop,cuatro,598 USD,01-01-2026,Juan Pérez
+Laptop,3 ,403 USD,2026-01-01,Diego Díaz
+Monitor,1,609 USD,2026-01-01,Pedro Gómez
+Laptop,3 ,874 USD,01-01-2026,Valeria Sosa
+Monitor,5,289 USD,2026-01-01,Diego Díaz
+Laptop,cuatro,95 USD,2026-01-01,Lucía Sánchez
+Monitor,3 ,925 USD,2026-01-01,Valeria Sosa
+Monitor,cuatro,870 USD,2026-01-01,Valeria Sosa
+Mouse,3 ,647 USD,2026-01-01,Andrés Benítez
+Laptop, 2,175 USD,2026-01-01,Valeria Sosa
+Monitor,1,437 USD,2026.01.01,Pedro Gómez
+Monitor,5,650 USD,2026-01-01,Ana Martínez
+Mouse,1,967 USD,2026.01.01,Lucía Sánchez
+Monitor, 2,108 USD,2026-01-01,Diego Díaz
+Monitor, 2,871 USD,2026.01.01,Facundo Acosta
+Mouse, 2,29 USD,2026-01-01,Ana Martínez
+Laptop, 2,967 USD,2026-01-01,Juan Pérez
+Teclado, 2,347 USD,2026.01.01,Pedro Gómez
+Mouse,cuatro,795 USD,2026.01.01,Valeria Sosa
+Laptop, 2,475 USD,2026-01-01,Valeria Sosa
+Monitor,5,17 USD,2026-01-01,Andrés Benítez
+Teclado,3 ,430 USD,2026.01.01,Pedro Gómez
+Mouse,5,227 USD,01-01-2026,Carlos López
+Mouse, 2,922 USD,2026.01.01,Jorge Romero
+Monitor,cuatro,189 USD,2026.01.01,Luis Fernández
+Laptop,1,705 USD,2026.01.01,Facundo Acosta
+Teclado,5,906 USD,01-01-2026,Sara Ruiz
+Laptop, 2,138 USD,01-01-2026,Carlos López
+Teclado,3 ,241 USD,01-01-2026,Carlos López
+Teclado,1,888 USD,01-01-2026,Luis Fernández
+Monitor, 2,12 USD,2026.01.01,María García
+Teclado, 2,974 USD,2026.01.01,Carlos López
+Teclado,1,889 USD,01-01-2026,María García
+Laptop,5,331 USD,2026-01-01,Facundo Acosta
+Teclado,5,516 USD,2026.01.01,Sofía Giménez
+Teclado,1,524 USD,01-01-2026,Elena Torres
+Teclado,1,750 USD,2026.01.01,Elena Torres
+Teclado,1,338 USD,01-01-2026,Valeria Sosa
+Mouse,1,534 USD,2026.01.01,Jorge Romero
+Laptop, 2,312 USD,2026.01.01,Lucía Sánchez
+Teclado,5,234 USD,01-01-2026,Facundo Acosta
+Monitor,3 ,106 USD,01-01-2026,Diego Díaz
+Laptop,cuatro,811 USD,2026.01.01,Valeria Sosa
+Mouse,cuatro,816 USD,2026-01-01,Ana Martínez
+Teclado,1,213 USD,01-01-2026,Ana Martínez
+Mouse,1,84 USD,2026-01-01,Sara Ruiz
+Monitor, 2,616 USD,2026-01-01,Andrés Benítez
+Laptop,3 ,387 USD,01-01-2026,Diego Díaz
+Teclado,5,865 USD,01-01-2026,Luis Fernández
+Monitor,1,92 USD,2026-01-01,Andrés Benítez
+Mouse,3 ,612 USD,01-01-2026,Luis Fernández
+Mouse, 2,218 USD,2026.01.01,Facundo Acosta
+Teclado,cuatro,432 USD,2026-01-01,Diego Díaz
+Laptop,5,569 USD,01-01-2026,María García
+Laptop,cuatro,919 USD,2026-01-01,Valeria Sosa
+Monitor,1,488 USD,01-01-2026,Andrés Benítez
+Laptop,3 ,189 USD,2026.01.01,Diego Díaz
+Teclado,5,507 USD,01-01-2026,Diego Díaz
+Teclado,3 ,317 USD,2026-01-01,Luis Fernández
+Monitor,1,800 USD,2026.01.01,Pedro Gómez
+Mouse,3 ,432 USD,2026.01.01,Diego Díaz
+Teclado,1,571 USD,2026.01.01,Valeria Sosa
+Teclado,cuatro,668 USD,01-01-2026,Andrés Benítez
+Mouse, 2,266 USD,01-01-2026,Elena Torres
+Teclado,cuatro,687 USD,2026-01-01,María García
+Teclado,3 ,750 USD,2026.01.01,Andrés Benítez
+Monitor,3 ,647 USD,01-01-2026,Jorge Romero
+Mouse,cuatro,394 USD,2026.01.01,Pedro Gómez
+Mouse,3 ,286 USD,2026-01-01,Valeria Sosa
+Laptop,1,178 USD,2026.01.01,Sara Ruiz
+Mouse,5,555 USD,2026.01.01,Andrés Benítez
+Mouse,cuatro,489 USD,2026-01-01,Lucía Sánchez
+Teclado,5,855 USD,01-01-2026,Carlos López
+Monitor,cuatro,808 USD,01-01-2026,Carlos López
+Teclado,1,770 USD,01-01-2026,María García
+Monitor,3 ,779 USD,2026-01-01,Elena Torres
+Laptop,5,574 USD,2026-01-01,Carlos López
+Laptop,cuatro,695 USD,2026.01.01,Diego Díaz
+Laptop,5,817 USD,2026-01-01,María García
+Monitor,cuatro,26 USD,2026.01.01,Juan Pérez
+Monitor,3 ,615 USD,01-01-2026,Jorge Romero
+Mouse, 2,381 USD,2026-01-01,Jorge Romero
+Monitor,cuatro,411 USD,01-01-2026,María García
+Mouse, 2,250 USD,2026.01.01,Lucía Sánchez
+Mouse,5,964 USD,01-01-2026,María García
+Teclado,5,854 USD,2026.01.01,Elena Torres
+Laptop,5,429 USD,01-01-2026,Sofía Giménez
+Teclado, 2,325 USD,2026.01.01,Valeria Sosa
+Monitor,5,520 USD,2026.01.01,Ana Martínez
+Laptop, 2,589 USD,2026.01.01,Carlos López
+Laptop,1,678 USD,2026.01.01,Carlos López
+Monitor, 2,667 USD,01-01-2026,Ana Martínez
+Monitor,5,905 USD,2026-01-01,Jorge Romero
+Teclado,1,284 USD,01-01-2026,Pedro Gómez
+Teclado,5,782 USD,2026-01-01,Juan Pérez
+Monitor,1,392 USD,2026-01-01,Pedro Gómez
+Laptop,cuatro,761 USD,2026-01-01,Elena Torres
+Teclado,1,391 USD,2026-01-01,Lucía Sánchez
+Mouse,1,216 USD,2026.01.01,Elena Torres
+Monitor, 2,640 USD,2026-01-01,Carlos López
+Monitor,3 ,640 USD,2026.01.01,Juan Pérez
+Teclado,5,108 USD,2026-01-01,Facundo Acosta
+Laptop,3 ,173 USD,2026.01.01,Jorge Romero
+Laptop,1,513 USD,2026-01-01,Sofía Giménez
+Teclado,cuatro,293 USD,2026.01.01,Elena Torres
+Monitor,3 ,723 USD,01-01-2026,Pedro Gómez
+Laptop,1,644 USD,2026-01-01,Lucía Sánchez
+Mouse,cuatro,415 USD,01-01-2026,Ana Martínez
+Teclado,3 ,432 USD,01-01-2026,Ana Martínez
+Laptop,cuatro,59 USD,2026.01.01,Facundo Acosta
+Mouse, 2,646 USD,01-01-2026,Diego Díaz
+Mouse,5,887 USD,2026-01-01,Facundo Acosta
+Monitor,3 ,178 USD,01-01-2026,Valeria Sosa
+Teclado,5,21 USD,2026.01.01,Sara Ruiz
+Laptop,1,774 USD,2026.01.01,María García
+Laptop,1,156 USD,01-01-2026,Ana Martínez
+Mouse,5,424 USD,01-01-2026,Andrés Benítez
+Mouse,cuatro,582 USD,2026.01.01,Pedro Gómez
+Mouse,1,364 USD,2026-01-01,Juan Pérez
+Mouse, 2,570 USD,01-01-2026,Facundo Acosta
+Monitor,cuatro,39 USD,2026-01-01,Diego Díaz
+Teclado,cuatro,493 USD,01-01-2026,Ana Martínez
+Mouse,3 ,706 USD,01-01-2026,Carlos López
+Laptop,cuatro,76 USD,01-01-2026,Elena Torres
+Mouse,5,905 USD,01-01-2026,Andrés Benítez
+Teclado,3 ,214 USD,01-01-2026,Luis Fernández
+Mouse,1,346 USD,01-01-2026,Pedro Gómez
+Mouse,3 ,88 USD,01-01-2026,Diego Díaz
+Laptop,cuatro,486 USD,01-01-2026,Andrés Benítez
+Teclado,1,958 USD,01-01-2026,Diego Díaz
+Laptop,5,256 USD,01-01-2026,Lucía Sánchez
+Laptop, 2,519 USD,2026.01.01,María García
+Teclado,3 ,610 USD,01-01-2026,Valeria Sosa
+Teclado, 2,682 USD,2026-01-01,Valeria Sosa
+Mouse, 2,606 USD,2026-01-01,Diego Díaz
+Teclado,1,443 USD,01-01-2026,Juan Pérez
+Mouse, 2,142 USD,2026.01.01,Diego Díaz
+Mouse,5,445 USD,2026-01-01,Diego Díaz
+Laptop,cuatro,416 USD,2026-01-01,Lucía Sánchez
+Laptop,cuatro,449 USD,2026.01.01,Juan Pérez
+Teclado,cuatro,395 USD,2026-01-01,Juan Pérez
+Laptop,3 ,114 USD,01-01-2026,María García
+Monitor,3 ,805 USD,01-01-2026,Ana Martínez
+Mouse,5,646 USD,2026-01-01,Andrés Benítez
+Monitor,3 ,614 USD,01-01-2026,Jorge Romero
+Monitor,1,867 USD,2026-01-01,Andrés Benítez
+Laptop,3 ,93 USD,01-01-2026,Carlos López
+Monitor,cuatro,420 USD,01-01-2026,Lucía Sánchez
+Teclado, 2,748 USD,01-01-2026,Juan Pérez
+Laptop,5,69 USD,01-01-2026,María García
+Laptop,cuatro,764 USD,2026.01.01,Carlos López
+Teclado,1,461 USD,01-01-2026,Ana Martínez
+Mouse,3 ,680 USD,2026-01-01,Elena Torres
+Laptop,cuatro,723 USD,2026.01.01,Ana Martínez
+Laptop,5,759 USD,01-01-2026,Luis Fernández
+Laptop,3 ,842 USD,01-01-2026,Lucía Sánchez
+Mouse, 2,321 USD,2026-01-01,Diego Díaz
+Teclado,cuatro,437 USD,2026.01.01,Elena Torres
+Teclado,1,470 USD,2026.01.01,Elena Torres
+Laptop,1,103 USD,01-01-2026,María García
+Laptop,1,842 USD,2026.01.01,Lucía Sánchez
+Teclado, 2,220 USD,2026-01-01,Facundo Acosta
+Monitor,5,498 USD,01-01-2026,Ana Martínez
+Teclado,cuatro,721 USD,01-01-2026,Lucía Sánchez
+Mouse,3 ,696 USD,01-01-2026,Valeria Sosa
+Monitor, 2,225 USD,2026-01-01,Sofía Giménez
+Laptop,5,952 USD,01-01-2026,Diego Díaz
+Laptop,cuatro,530 USD,01-01-2026,Elena Torres
+Monitor,5,658 USD,2026-01-01,Sara Ruiz
+Laptop,3 ,420 USD,01-01-2026,Elena Torres
+Laptop, 2,510 USD,2026-01-01,Elena Torres
+Mouse,3 ,68 USD,2026-01-01,Sofía Giménez
+Laptop,cuatro,187 USD,01-01-2026,Facundo Acosta
+Mouse,1,92 USD,2026.01.01,Elena Torres
+Teclado,5,763 USD,2026.01.01,Elena Torres
+Mouse, 2,643 USD,2026.01.01,Andrés Benítez
+Teclado,1,508 USD,01-01-2026,Pedro Gómez
+Teclado,cuatro,113 USD,2026-01-01,Andrés Benítez
+Mouse,3 ,443 USD,2026.01.01,María García
+Teclado,1,369 USD,01-01-2026,Jorge Romero
+Monitor,cuatro,554 USD,2026-01-01,Pedro Gómez
+Teclado,5,993 USD,2026-01-01,Sofía Giménez
+Teclado,1,681 USD,2026.01.01,Andrés Benítez
+Laptop,cuatro,292 USD,01-01-2026,Ana Martínez
+Monitor, 2,639 USD,2026.01.01,Luis Fernández
+Teclado,cuatro,175 USD,2026-01-01,María García
+Laptop,1,916 USD,2026-01-01,Luis Fernández
+Mouse,1,183 USD,2026-01-01,Diego Díaz
+Teclado, 2,554 USD,2026-01-01,Lucía Sánchez
+Mouse,1,445 USD,01-01-2026,Carlos López
+Teclado,3 ,579 USD,01-01-2026,Andrés Benítez
+Monitor,cuatro,604 USD,2026-01-01,Juan Pérez
+Monitor,1,265 USD,2026-01-01,María García
+Monitor,1,55 USD,01-01-2026,María García
+Laptop,5,65 USD,2026.01.01,Andrés Benítez
+Laptop,5,45 USD,2026.01.01,Luis Fernández
+Mouse,1,548 USD,2026.01.01,Facundo Acosta
+Laptop,cuatro,215 USD,2026.01.01,Diego Díaz
+Teclado, 2,610 USD,01-01-2026,Sofía Giménez
+Teclado, 2,622 USD,2026.01.01,Jorge Romero
+Teclado,3 ,576 USD,2026.01.01,Luis Fernández
+Teclado,3 ,93 USD,2026-01-01,Ana Martínez
+Laptop,1,342 USD,2026.01.01,Jorge Romero
+Laptop,3 ,289 USD,01-01-2026,Juan Pérez
+Teclado,3 ,440 USD,2026-01-01,Facundo Acosta
+Teclado,5,105 USD,01-01-2026,Pedro Gómez
+Monitor,1,359 USD,01-01-2026,Facundo Acosta
+Laptop,5,528 USD,2026.01.01,Sofía Giménez
+Mouse,1,177 USD,2026.01.01,Juan Pérez
+Laptop,cuatro,772 USD,2026.01.01,Sofía Giménez
+Teclado,5,733 USD,01-01-2026,Ana Martínez
+Monitor,3 ,817 USD,2026-01-01,Pedro Gómez
+Teclado, 2,610 USD,01-01-2026,Luis Fernández
+Mouse,5,449 USD,2026-01-01,Valeria Sosa
+Teclado,3 ,400 USD,2026-01-01,Diego Díaz
+Monitor,cuatro,776 USD,2026.01.01,Andrés Benítez
+Teclado,3 ,463 USD,01-01-2026,Luis Fernández
+Monitor,5,704 USD,01-01-2026,Ana Martínez
+Teclado,3 ,996 USD,2026.01.01,Elena Torres
+Monitor,3 ,387 USD,2026-01-01,Sofía Giménez
+Laptop,cuatro,884 USD,2026-01-01,Juan Pérez
+Laptop, 2,924 USD,2026.01.01,Elena Torres
+Mouse,5,437 USD,2026-01-01,Ana Martínez
+Monitor,cuatro,295 USD,2026-01-01,Jorge Romero
+Mouse,3 ,322 USD,2026.01.01,Lucía Sánchez
+Teclado,5,770 USD,2026-01-01,Jorge Romero
+Teclado,cuatro,212 USD,2026-01-01,Lucía Sánchez
+Teclado,3 ,255 USD,2026.01.01,Diego Díaz
+Monitor,1,846 USD,2026-01-01,Elena Torres
+Laptop,cuatro,913 USD,2026.01.01,Carlos López
+Mouse,3 ,772 USD,01-01-2026,Ana Martínez
+Monitor,3 ,386 USD,01-01-2026,Pedro Gómez
+Teclado,cuatro,413 USD,2026-01-01,Valeria Sosa
+Laptop,3 ,924 USD,2026.01.01,María García
+Monitor,cuatro,665 USD,01-01-2026,Lucía Sánchez
+Mouse,cuatro,114 USD,2026-01-01,Sara Ruiz
+Laptop,5,323 USD,01-01-2026,Valeria Sosa
+Teclado,cuatro,420 USD,01-01-2026,Luis Fernández
+Laptop,cuatro,560 USD,2026-01-01,Facundo Acosta
+Laptop,5,526 USD,2026.01.01,Carlos López
+Mouse,3 ,595 USD,2026-01-01,Elena Torres
+Monitor,1,662 USD,2026.01.01,Valeria Sosa
+Teclado,cuatro,566 USD,01-01-2026,Lucía Sánchez
+Monitor,cuatro,617 USD,2026-01-01,Elena Torres
+Laptop,cuatro,90 USD,2026-01-01,Diego Díaz
+Mouse, 2,948 USD,2026.01.01,Valeria Sosa
+Monitor, 2,841 USD,2026.01.01,Luis Fernández
+Laptop, 2,131 USD,2026-01-01,Ana Martínez
+Laptop,3 ,323 USD,01-01-2026,Andrés Benítez
+Teclado,1,299 USD,2026.01.01,Lucía Sánchez
+Mouse,3 ,995 USD,2026.01.01,Valeria Sosa
+Mouse,3 ,529 USD,01-01-2026,Jorge Romero
+Mouse,5,293 USD,2026.01.01,Diego Díaz
+Teclado,1,54 USD,2026.01.01,Carlos López
+Teclado, 2,912 USD,01-01-2026,Jorge Romero
+Laptop,5,434 USD,01-01-2026,Andrés Benítez
+Monitor,cuatro,645 USD,01-01-2026,Pedro Gómez
+Monitor,3 ,936 USD,2026.01.01,Elena Torres
+Laptop, 2,802 USD,2026-01-01,Ana Martínez
+Teclado,1,590 USD,2026.01.01,Pedro Gómez
+Teclado, 2,880 USD,2026-01-01,Carlos López
+Monitor,1,74 USD,2026-01-01,Juan Pérez
+Teclado, 2,938 USD,01-01-2026,Valeria Sosa
+Monitor,1,876 USD,2026-01-01,Diego Díaz
+Laptop, 2,861 USD,2026.01.01,Carlos López
+Monitor,cuatro,354 USD,2026-01-01,María García
+Teclado,3 ,234 USD,2026.01.01,Sofía Giménez
+Mouse,5,87 USD,2026-01-01,Sofía Giménez
+Monitor,3 ,789 USD,2026-01-01,María García
+Laptop,5,97 USD,2026-01-01,Facundo Acosta
+Teclado,1,228 USD,2026.01.01,Luis Fernández
+Mouse,5,386 USD,2026.01.01,Sofía Giménez
+Teclado, 2,290 USD,2026.01.01,Juan Pérez
+Mouse,5,847 USD,2026-01-01,Elena Torres
+Monitor,1,123 USD,01-01-2026,Jorge Romero
+Mouse,cuatro,106 USD,2026-01-01,Ana Martínez
+Laptop,5,561 USD,01-01-2026,Carlos López
+Mouse, 2,670 USD,2026.01.01,Elena Torres
+Monitor,5,343 USD,01-01-2026,Carlos López
+Mouse,cuatro,241 USD,01-01-2026,Andrés Benítez
+Mouse,1,307 USD,2026.01.01,Jorge Romero
+Teclado,3 ,502 USD,2026-01-01,Juan Pérez
+Monitor,1,818 USD,01-01-2026,María García
+Laptop, 2,706 USD,2026-01-01,Pedro Gómez
+Mouse,cuatro,921 USD,2026-01-01,Luis Fernández
+Monitor,5,591 USD,2026-01-01,Carlos López
+Laptop,1,276 USD,2026-01-01,Lucía Sánchez
+Mouse,5,453 USD,01-01-2026,Diego Díaz
+Laptop,1,265 USD,01-01-2026,Luis Fernández
+Mouse,5,13 USD,2026-01-01,Elena Torres
+Laptop,5,987 USD,2026.01.01,Luis Fernández
+Mouse,3 ,242 USD,2026.01.01,Juan Pérez
+Monitor,cuatro,540 USD,2026-01-01,Jorge Romero
+Teclado,5,655 USD,2026-01-01,Sofía Giménez
+Mouse,1,369 USD,2026.01.01,Pedro Gómez
+Laptop,1,569 USD,2026-01-01,Facundo Acosta
+Laptop, 2,170 USD,2026-01-01,Pedro Gómez
+Mouse,5,344 USD,2026-01-01,Juan Pérez
+Teclado,3 ,84 USD,2026.01.01,Carlos López
+Laptop,3 ,191 USD,01-01-2026,Lucía Sánchez
+Teclado,5,659 USD,2026.01.01,Juan Pérez
+Teclado,1,115 USD,2026.01.01,Valeria Sosa
+Laptop,cuatro,562 USD,2026.01.01,Sofía Giménez
+Monitor,cuatro,693 USD,01-01-2026,María García
+Teclado,1,839 USD,01-01-2026,Pedro Gómez
+Teclado, 2,633 USD,01-01-2026,Andrés Benítez
+Monitor,cuatro,572 USD,2026.01.01,Ana Martínez
+Mouse,cuatro,383 USD,01-01-2026,Carlos López
+Monitor,cuatro,818 USD,2026-01-01,Carlos López
+Laptop, 2,234 USD,2026.01.01,María García
+Teclado, 2,283 USD,2026-01-01,Elena Torres
+Teclado,1,992 USD,2026.01.01,Luis Fernández
+Monitor,5,145 USD,2026.01.01,María García
+Monitor, 2,733 USD,2026.01.01,Ana Martínez
+Monitor,1,496 USD,2026.01.01,Ana Martínez
+Mouse,5,347 USD,2026.01.01,Facundo Acosta
+Monitor,3 ,227 USD,01-01-2026,Facundo Acosta
+Mouse,cuatro,78 USD,01-01-2026,Pedro Gómez
+Monitor,1,802 USD,2026.01.01,Carlos López
+Laptop,1,480 USD,2026.01.01,Lucía Sánchez
+Mouse, 2,20 USD,01-01-2026,Valeria Sosa
+Laptop,5,220 USD,2026.01.01,Ana Martínez
+Mouse,3 ,932 USD,01-01-2026,Pedro Gómez
+Laptop,1,896 USD,2026-01-01,Pedro Gómez
+Laptop,1,734 USD,01-01-2026,Valeria Sosa
+Mouse,cuatro,650 USD,2026.01.01,Lucía Sánchez
+Laptop, 2,912 USD,2026.01.01,Juan Pérez
+Laptop,1,208 USD,2026.01.01,Jorge Romero
+Laptop,cuatro,858 USD,2026-01-01,Jorge Romero
+Teclado,1,686 USD,2026-01-01,Jorge Romero
+Mouse,1,39 USD,2026-01-01,Sofía Giménez
+Mouse,cuatro,996 USD,01-01-2026,Lucía Sánchez
+Laptop,3 ,71 USD,2026-01-01,Carlos López
+Monitor,5,255 USD,01-01-2026,Sofía Giménez
+Laptop,1,364 USD,01-01-2026,Lucía Sánchez
+Mouse,3 ,123 USD,01-01-2026,Ana Martínez
+Mouse,cuatro,936 USD,2026-01-01,Lucía Sánchez
+Teclado,5,940 USD,2026-01-01,Luis Fernández
+Monitor,cuatro,97 USD,01-01-2026,Elena Torres
+Teclado, 2,848 USD,01-01-2026,Elena Torres
+Monitor,1,233 USD,2026.01.01,Andrés Benítez
+Mouse,3 ,687 USD,2026-01-01,Andrés Benítez
+Monitor,3 ,156 USD,01-01-2026,Facundo Acosta
+Teclado,1,340 USD,2026.01.01,Facundo Acosta
+Teclado,3 ,198 USD,2026.01.01,Carlos López
+Laptop,5,264 USD,01-01-2026,Ana Martínez
+Teclado,cuatro,600 USD,2026.01.01,Ana Martínez
+Mouse, 2,475 USD,01-01-2026,Jorge Romero
+Laptop,5,588 USD,01-01-2026,Elena Torres
+Monitor,cuatro,489 USD,2026.01.01,Andrés Benítez
+Mouse,1,830 USD,2026-01-01,Valeria Sosa
+Monitor,3 ,397 USD,01-01-2026,Juan Pérez
+Teclado,1,959 USD,2026-01-01,Sofía Giménez
+Teclado,3 ,657 USD,01-01-2026,Facundo Acosta
+Laptop, 2,996 USD,01-01-2026,Luis Fernández
+Mouse,1,778 USD,2026-01-01,Jorge Romero
+Monitor,5,830 USD,01-01-2026,Sofía Giménez
+Monitor, 2,741 USD,2026-01-01,Sara Ruiz
+Teclado,5,221 USD,2026.01.01,Pedro Gómez
+Teclado,cuatro,639 USD,2026-01-01,Sofía Giménez
+Monitor, 2,893 USD,01-01-2026,Sara Ruiz
+Mouse,cuatro,184 USD,2026-01-01,Luis Fernández
+Laptop,cuatro,564 USD,2026.01.01,Ana Martínez
+Laptop,3 ,305 USD,2026.01.01,Valeria Sosa
+Monitor,3 ,581 USD,2026-01-01,Sara Ruiz
+Laptop,cuatro,464 USD,01-01-2026,Jorge Romero
+Mouse,1,932 USD,2026-01-01,Jorge Romero
+Teclado,cuatro,733 USD,01-01-2026,Valeria Sosa
+Mouse,cuatro,58 USD,01-01-2026,Valeria Sosa
+Teclado, 2,295 USD,2026-01-01,María García
+Monitor,cuatro,360 USD,2026.01.01,Luis Fernández
+Teclado,cuatro,615 USD,2026.01.01,Facundo Acosta
+Monitor,3 ,853 USD,01-01-2026,Diego Díaz
+Mouse,cuatro,14 USD,2026-01-01,Pedro Gómez
+Teclado,3 ,726 USD,2026.01.01,Luis Fernández
+Monitor,3 ,555 USD,2026.01.01,Andrés Benítez
+Mouse,3 ,859 USD,01-01-2026,Valeria Sosa
+Laptop,5,246 USD,2026-01-01,Andrés Benítez
+Monitor, 2,257 USD,2026-01-01,Ana Martínez
+Mouse,cuatro,704 USD,01-01-2026,Valeria Sosa
+Monitor,cuatro,856 USD,2026-01-01,Lucía Sánchez
+Monitor,1,232 USD,01-01-2026,Sofía Giménez
+Laptop,cuatro,616 USD,2026.01.01,Carlos López
+Laptop,cuatro,803 USD,01-01-2026,Ana Martínez
+Teclado,1,444 USD,2026-01-01,Pedro Gómez
+Teclado,1,838 USD,2026-01-01,Luis Fernández
+Monitor,cuatro,496 USD,2026.01.01,Luis Fernández
+Mouse,1,606 USD,2026.01.01,Luis Fernández
+Mouse,cuatro,698 USD,2026.01.01,Facundo Acosta
+Laptop,1,344 USD,2026-01-01,Lucía Sánchez
+Teclado,cuatro,800 USD,01-01-2026,Elena Torres
+Mouse, 2,128 USD,2026-01-01,Elena Torres
+Laptop,1,431 USD,2026-01-01,Diego Díaz
+Monitor,3 ,179 USD,2026.01.01,Facundo Acosta
+Laptop,cuatro,288 USD,2026.01.01,Elena Torres
+Laptop,5,17 USD,2026.01.01,María García
+Teclado,5,862 USD,2026-01-01,Luis Fernández
+Monitor,3 ,340 USD,2026-01-01,Sara Ruiz
+Laptop,3 ,848 USD,2026-01-01,Jorge Romero
+Teclado,3 ,840 USD,2026.01.01,Jorge Romero
+Mouse,cuatro,566 USD,01-01-2026,Jorge Romero
+Laptop,1,731 USD,01-01-2026,Elena Torres
+Laptop, 2,60 USD,2026.01.01,Sara Ruiz
+Laptop,5,506 USD,01-01-2026,Juan Pérez
+Mouse, 2,425 USD,2026.01.01,Sofía Giménez
+Monitor,5,971 USD,01-01-2026,Carlos López
+Laptop, 2,900 USD,2026-01-01,Carlos López
+Laptop,1,102 USD,01-01-2026,Jorge Romero
+Monitor, 2,528 USD,2026.01.01,Carlos López
+Mouse,cuatro,190 USD,2026-01-01,Lucía Sánchez
+Laptop,1,139 USD,01-01-2026,Facundo Acosta
+Monitor,1,487 USD,2026-01-01,Pedro Gómez
+Mouse,5,503 USD,01-01-2026,Facundo Acosta
+Laptop, 2,562 USD,01-01-2026,Elena Torres
+Monitor,5,115 USD,01-01-2026,Luis Fernández
+Teclado,1,585 USD,2026-01-01,Elena Torres
+Mouse,1,991 USD,2026-01-01,Juan Pérez
+Monitor,3 ,788 USD,2026-01-01,Lucía Sánchez
+Laptop,3 ,110 USD,2026.01.01,Ana Martínez
+Laptop,3 ,450 USD,01-01-2026,Sara Ruiz
+Laptop,cuatro,524 USD,2026-01-01,Pedro Gómez
+Teclado,cuatro,703 USD,01-01-2026,Sara Ruiz
+Teclado, 2,764 USD,01-01-2026,Andrés Benítez
+Teclado,1,424 USD,2026-01-01,Sofía Giménez
+Mouse,1,760 USD,2026.01.01,Pedro Gómez
+Teclado,1,858 USD,01-01-2026,Sara Ruiz
+Monitor,1,201 USD,2026.01.01,Jorge Romero
+Laptop,cuatro,174 USD,2026-01-01,Sofía Giménez
+Monitor,cuatro,48 USD,2026.01.01,María García
+Mouse,5,385 USD,2026.01.01,Valeria Sosa
+Mouse, 2,626 USD,2026-01-01,Luis Fernández
+Mouse,5,824 USD,01-01-2026,Andrés Benítez
+Monitor,3 ,910 USD,2026-01-01,Valeria Sosa
+Monitor,3 ,924 USD,2026.01.01,Facundo Acosta
+Mouse,3 ,798 USD,01-01-2026,Ana Martínez
+Teclado, 2,343 USD,2026-01-01,Ana Martínez
+Teclado,1,157 USD,01-01-2026,Juan Pérez
+Teclado,3 ,672 USD,2026-01-01,Diego Díaz
+Monitor, 2,660 USD,2026.01.01,Pedro Gómez
+Mouse,1,443 USD,01-01-2026,Valeria Sosa
+Mouse,1,941 USD,2026.01.01,Andrés Benítez
+Monitor, 2,884 USD,01-01-2026,Lucía Sánchez
+Mouse,cuatro,405 USD,2026.01.01,Sofía Giménez
+Teclado,cuatro,382 USD,01-01-2026,Diego Díaz
+Laptop, 2,246 USD,2026-01-01,Luis Fernández
+Mouse,cuatro,796 USD,2026.01.01,Sara Ruiz
+Mouse,3 ,309 USD,01-01-2026,Jorge Romero
+Laptop,1,737 USD,2026.01.01,Sofía Giménez
+Laptop, 2,449 USD,2026.01.01,Carlos López
+Monitor,cuatro,692 USD,01-01-2026,Elena Torres
+Monitor,cuatro,694 USD,2026.01.01,Luis Fernández
+Laptop, 2,676 USD,2026-01-01,Carlos López
+Monitor,5,101 USD,01-01-2026,Diego Díaz
+Teclado, 2,810 USD,01-01-2026,Valeria Sosa
+Mouse,5,134 USD,01-01-2026,Andrés Benítez
+Mouse,cuatro,600 USD,2026-01-01,Diego Díaz
+Mouse, 2,734 USD,2026-01-01,Pedro Gómez
+Teclado,cuatro,287 USD,2026.01.01,Luis Fernández
+Laptop,1,764 USD,2026-01-01,Jorge Romero
+Mouse,5,272 USD,2026-01-01,Sofía Giménez
+Monitor, 2,692 USD,01-01-2026,Sofía Giménez
+Mouse,3 ,130 USD,01-01-2026,Juan Pérez
+Teclado,3 ,982 USD,2026.01.01,Valeria Sosa
+Monitor, 2,148 USD,01-01-2026,Sara Ruiz
+Laptop,cuatro,362 USD,01-01-2026,Pedro Gómez
+Monitor, 2,957 USD,2026-01-01,María García
+Monitor, 2,879 USD,2026.01.01,Valeria Sosa
+Teclado,5,822 USD,01-01-2026,Valeria Sosa
+Teclado,1,539 USD,2026.01.01,Elena Torres
+Mouse,cuatro,325 USD,2026.01.01,Andrés Benítez
+Teclado, 2,110 USD,2026.01.01,Ana Martínez
+Laptop, 2,381 USD,2026-01-01,Carlos López
+Laptop,cuatro,866 USD,01-01-2026,Andrés Benítez
+Teclado,cuatro,643 USD,2026-01-01,Ana Martínez
+Laptop,cuatro,280 USD,2026-01-01,Luis Fernández
+Laptop,1,605 USD,01-01-2026,Elena Torres
+Teclado,5,113 USD,2026-01-01,Sara Ruiz
+Mouse, 2,790 USD,2026.01.01,Juan Pérez
+Laptop,1,280 USD,2026.01.01,María García
+Laptop,cuatro,379 USD,01-01-2026,Juan Pérez
+Teclado,cuatro,432 USD,2026.01.01,Elena Torres
+Monitor, 2,919 USD,2026.01.01,Pedro Gómez
+Monitor,cuatro,672 USD,01-01-2026,Valeria Sosa
+Laptop,5,855 USD,2026-01-01,Ana Martínez
+Mouse,1,35 USD,2026.01.01,María García
+Monitor,cuatro,748 USD,01-01-2026,Sara Ruiz
+Teclado,1,785 USD,01-01-2026,Diego Díaz
+Mouse, 2,220 USD,2026.01.01,Juan Pérez
+Teclado,cuatro,591 USD,2026.01.01,Jorge Romero
+Laptop,1,779 USD,2026-01-01,Sofía Giménez
+Teclado,cuatro,495 USD,2026.01.01,Diego Díaz
+Laptop,3 ,813 USD,2026.01.01,Diego Díaz
+Monitor, 2,160 USD,01-01-2026,Luis Fernández
+Mouse, 2,446 USD,2026-01-01,Lucía Sánchez
+Teclado, 2,859 USD,2026-01-01,Carlos López
+Teclado,cuatro,430 USD,2026-01-01,Luis Fernández
+Mouse,3 ,478 USD,2026-01-01,Jorge Romero
+Laptop,3 ,247 USD,2026-01-01,Sara Ruiz
+Monitor,cuatro,766 USD,01-01-2026,Sofía Giménez
+Monitor,3 ,614 USD,01-01-2026,Ana Martínez
+Mouse,5,951 USD,01-01-2026,Lucía Sánchez
+Teclado,5,389 USD,01-01-2026,Lucía Sánchez
+Mouse,cuatro,52 USD,2026-01-01,Carlos López
+Mouse,3 ,962 USD,01-01-2026,Luis Fernández
+Mouse,5,309 USD,2026.01.01,Facundo Acosta
+Teclado, 2,707 USD,2026.01.01,Facundo Acosta
+Teclado,5,841 USD,2026.01.01,Juan Pérez
+Mouse,cuatro,112 USD,01-01-2026,Diego Díaz
+Mouse,cuatro,332 USD,01-01-2026,Sara Ruiz
+Laptop,1,432 USD,2026.01.01,Sara Ruiz
+Mouse,1,428 USD,2026-01-01,Valeria Sosa
+Teclado,1,340 USD,2026.01.01,María García
+Laptop,cuatro,92 USD,01-01-2026,Jorge Romero
+Monitor,5,264 USD,01-01-2026,Lucía Sánchez
+Laptop,5,590 USD,01-01-2026,Diego Díaz
+Mouse,3 ,654 USD,2026.01.01,Ana Martínez
+Mouse, 2,229 USD,2026-01-01,Pedro Gómez
+Mouse, 2,443 USD,2026-01-01,Sofía Giménez
+Laptop, 2,959 USD,2026-01-01,Luis Fernández
+Teclado,1,195 USD,2026.01.01,Diego Díaz
+Monitor,5,381 USD,2026-01-01,Sara Ruiz
+Monitor, 2,667 USD,2026.01.01,Valeria Sosa
+Monitor,3 ,620 USD,2026.01.01,Valeria Sosa
+Monitor, 2,57 USD,2026.01.01,Elena Torres
+Monitor,3 ,152 USD,2026-01-01,Jorge Romero
+Monitor,5,400 USD,2026-01-01,Facundo Acosta
+Mouse, 2,772 USD,2026-01-01,Ana Martínez
+Monitor, 2,202 USD,01-01-2026,Pedro Gómez
+Monitor,1,264 USD,2026.01.01,Facundo Acosta
+Teclado,5,958 USD,2026-01-01,Pedro Gómez
+Teclado,cuatro,634 USD,01-01-2026,Elena Torres
+Laptop,5,198 USD,01-01-2026,Valeria Sosa
+Mouse, 2,730 USD,2026.01.01,Lucía Sánchez
+Teclado,5,607 USD,2026.01.01,Ana Martínez
+Monitor,cuatro,246 USD,2026-01-01,Diego Díaz
+Monitor,1,373 USD,2026.01.01,Sara Ruiz
+Monitor,3 ,556 USD,2026.01.01,Juan Pérez
+Mouse,3 ,915 USD,2026.01.01,Facundo Acosta
+Laptop,1,224 USD,01-01-2026,Jorge Romero
+Monitor,cuatro,441 USD,2026.01.01,Valeria Sosa
+Laptop, 2,971 USD,01-01-2026,Sofía Giménez
+Mouse,cuatro,367 USD,2026-01-01,Sara Ruiz
+Laptop, 2,448 USD,2026.01.01,Lucía Sánchez
+Laptop,3 ,341 USD,2026.01.01,Jorge Romero
+Teclado,3 ,99 USD,2026-01-01,Sara Ruiz
+Mouse,cuatro,154 USD,01-01-2026,Lucía Sánchez
+Monitor,1,545 USD,2026.01.01,Luis Fernández
+Mouse, 2,725 USD,01-01-2026,Jorge Romero
+Laptop,5,119 USD,01-01-2026,Ana Martínez
+Mouse,3 ,127 USD,2026.01.01,Facundo Acosta
+Mouse,5,802 USD,2026-01-01,Pedro Gómez
+Laptop, 2,346 USD,2026-01-01,Carlos López
+Mouse,1,349 USD,01-01-2026,Andrés Benítez
+Laptop, 2,79 USD,2026-01-01,Facundo Acosta
+Laptop,3 ,158 USD,01-01-2026,María García
+Teclado,5,314 USD,01-01-2026,Pedro Gómez
+Monitor,5,54 USD,2026-01-01,Valeria Sosa
+Laptop,5,443 USD,2026.01.01,Sofía Giménez
+Mouse,3 ,173 USD,2026-01-01,Facundo Acosta
+Laptop,5,990 USD,2026.01.01,María García
+Monitor,cuatro,970 USD,01-01-2026,Valeria Sosa
+Teclado,1,958 USD,2026.01.01,Luis Fernández
+Monitor,5,342 USD,2026-01-01,María García
+Monitor,cuatro,10 USD,2026-01-01,Juan Pérez
+Teclado,cuatro,147 USD,2026-01-01,Lucía Sánchez
+Monitor,5,445 USD,01-01-2026,Luis Fernández
+Teclado,cuatro,949 USD,2026.01.01,Luis Fernández
+Monitor,3 ,216 USD,2026-01-01,Elena Torres
+Teclado,1,40 USD,01-01-2026,Carlos López
+Laptop,3 ,783 USD,2026-01-01,Elena Torres
+Laptop,1,474 USD,2026-01-01,Sofía Giménez
+Teclado,3 ,899 USD,2026.01.01,Valeria Sosa
+Laptop, 2,682 USD,2026-01-01,Diego Díaz
+Teclado,cuatro,65 USD,2026.01.01,Elena Torres
+Laptop,cuatro,468 USD,01-01-2026,Elena Torres
+Laptop,3 ,229 USD,2026-01-01,Luis Fernández
+Monitor,5,621 USD,01-01-2026,Lucía Sánchez
+Laptop,1,843 USD,2026-01-01,Jorge Romero
+Teclado,cuatro,410 USD,01-01-2026,Elena Torres
+Monitor,cuatro,492 USD,2026.01.01,Ana Martínez
+Teclado,3 ,472 USD,2026.01.01,Diego Díaz
+Mouse,3 ,903 USD,2026-01-01,Elena Torres
+Monitor, 2,957 USD,2026.01.01,Sofía Giménez
+Laptop,5,634 USD,2026-01-01,Facundo Acosta
+Mouse, 2,884 USD,2026.01.01,Elena Torres
+Monitor,5,972 USD,2026.01.01,Elena Torres
+Teclado,1,129 USD,01-01-2026,Andrés Benítez
+Teclado, 2,888 USD,01-01-2026,Juan Pérez
+Teclado, 2,70 USD,01-01-2026,María García
+Teclado, 2,372 USD,2026-01-01,Diego Díaz
+Laptop, 2,256 USD,01-01-2026,Carlos López
+Laptop,cuatro,339 USD,2026-01-01,Diego Díaz
+Monitor,cuatro,417 USD,2026-01-01,Diego Díaz
+Teclado, 2,13 USD,01-01-2026,Sofía Giménez
+Laptop,cuatro,282 USD,2026.01.01,Sara Ruiz
+Teclado,cuatro,780 USD,2026-01-01,Sofía Giménez
+Teclado, 2,939 USD,01-01-2026,Facundo Acosta
+Mouse,3 ,582 USD,01-01-2026,Andrés Benítez
+Teclado, 2,980 USD,2026-01-01,Facundo Acosta
+Mouse,3 ,313 USD,01-01-2026,Facundo Acosta
+Teclado,3 ,368 USD,01-01-2026,María García
+Teclado, 2,787 USD,2026-01-01,María García
+Laptop,1,647 USD,2026-01-01,Ana Martínez
+Teclado,5,800 USD,2026.01.01,Luis Fernández
+Mouse,3 ,166 USD,01-01-2026,Valeria Sosa
+Monitor,5,426 USD,01-01-2026,Pedro Gómez
+Teclado,1,801 USD,2026.01.01,Elena Torres
+Teclado,1,61 USD,2026.01.01,Jorge Romero
+Mouse,1,736 USD,2026-01-01,Elena Torres
+Mouse,cuatro,692 USD,2026-01-01,Andrés Benítez
+Laptop,5,448 USD,2026.01.01,Luis Fernández
+Teclado,cuatro,155 USD,2026.01.01,Pedro Gómez
+Teclado, 2,134 USD,2026.01.01,Jorge Romero
+Monitor,3 ,405 USD,2026-01-01,Lucía Sánchez
+Laptop, 2,968 USD,2026-01-01,Lucía Sánchez
+Teclado,cuatro,483 USD,2026-01-01,Sara Ruiz
+Teclado,5,606 USD,01-01-2026,Facundo Acosta
+Teclado,1,186 USD,2026-01-01,Andrés Benítez
+Laptop, 2,723 USD,01-01-2026,Ana Martínez
+Laptop,3 ,758 USD,2026.01.01,Ana Martínez
+Monitor, 2,506 USD,01-01-2026,Carlos López
+Monitor,1,556 USD,01-01-2026,Andrés Benítez
+Mouse,3 ,573 USD,2026-01-01,Sara Ruiz
+Laptop,3 ,947 USD,2026-01-01,Juan Pérez
+Laptop,1,741 USD,2026.01.01,Ana Martínez
+Teclado,3 ,626 USD,01-01-2026,María García
+Monitor, 2,847 USD,2026-01-01,Pedro Gómez
+Laptop,cuatro,787 USD,01-01-2026,Andrés Benítez
+Teclado,5,804 USD,01-01-2026,Diego Díaz
+Laptop,1,646 USD,2026-01-01,María García
+Teclado,3 ,298 USD,01-01-2026,Jorge Romero
+Laptop,3 ,62 USD,01-01-2026,Sara Ruiz
+Monitor,cuatro,953 USD,2026.01.01,Diego Díaz
+Mouse,1,259 USD,2026-01-01,Sofía Giménez
+Laptop,cuatro,104 USD,2026.01.01,Juan Pérez
+Teclado,3 ,570 USD,01-01-2026,Jorge Romero
+Monitor, 2,986 USD,2026-01-01,Lucía Sánchez
+Mouse,3 ,880 USD,2026-01-01,Pedro Gómez
+Mouse,5,627 USD,2026-01-01,Juan Pérez
+Monitor,cuatro,275 USD,01-01-2026,Jorge Romero
+Laptop, 2,133 USD,2026-01-01,Facundo Acosta
+Monitor,cuatro,486 USD,2026-01-01,Elena Torres
+Mouse,1,912 USD,2026-01-01,Lucía Sánchez
+Teclado,1,461 USD,01-01-2026,Ana Martínez
+Laptop,3 ,480 USD,01-01-2026,Carlos López
+Teclado,3 ,788 USD,2026.01.01,Elena Torres
+Teclado,cuatro,493 USD,01-01-2026,Ana Martínez
+Mouse,1,626 USD,2026-01-01,Carlos López
+Monitor,1,633 USD,2026.01.01,María García
+Monitor,cuatro,769 USD,2026.01.01,Andrés Benítez
+Mouse, 2,143 USD,2026-01-01,Diego Díaz
+Mouse,cuatro,157 USD,2026-01-01,Sofía Giménez
+Monitor,5,550 USD,2026-01-01,Valeria Sosa
+Monitor,3 ,88 USD,01-01-2026,Jorge Romero
+Mouse,5,555 USD,2026.01.01,Andrés Benítez
+Monitor,5,970 USD,2026-01-01,Pedro Gómez
+Mouse,3 ,162 USD,2026.01.01,Lucía Sánchez
+Laptop, 2,114 USD,01-01-2026,Diego Díaz
+Monitor, 2,148 USD,01-01-2026,Elena Torres
+Teclado,3 ,29 USD,01-01-2026,Facundo Acosta
+Monitor,5,619 USD,2026-01-01,Lucía Sánchez
+Teclado,cuatro,656 USD,2026.01.01,Diego Díaz
+Teclado,1,958 USD,2026.01.01,Luis Fernández
+Mouse,3 ,469 USD,01-01-2026,Sofía Giménez
+Monitor,cuatro,48 USD,2026.01.01,María García
+Monitor, 2,385 USD,01-01-2026,Facundo Acosta
+Monitor,1,910 USD,2026-01-01,Facundo Acosta
+Laptop,5,198 USD,2026-01-01,Jorge Romero
+Teclado,cuatro,278 USD,2026.01.01,Juan Pérez
+Teclado,1,770 USD,01-01-2026,María García
+Mouse,5,951 USD,01-01-2026,Lucía Sánchez
+Laptop,5,355 USD,2026.01.01,Lucía Sánchez
+Laptop,3 ,320 USD,01-01-2026,María García
+Mouse, 2,661 USD,2026-01-01,Valeria Sosa
+Mouse,1,534 USD,2026.01.01,Jorge Romero
+Monitor,5,345 USD,2026.01.01,Andrés Benítez
+Laptop,3 ,968 USD,2026.01.01,Juan Pérez
+Teclado,3 ,303 USD,01-01-2026,Andrés Benítez
+Monitor,cuatro,275 USD,01-01-2026,Jorge Romero
+Monitor,1,838 USD,2026-01-01,Luis Fernández
+Monitor,5,649 USD,2026.01.01,Valeria Sosa
+Teclado,3 ,133 USD,2026.01.01,Elena Torres
+Monitor, 2,774 USD,2026-01-01,Jorge Romero
+Teclado,3 ,899 USD,2026.01.01,Valeria Sosa
+Laptop,3 ,302 USD,01-01-2026,Ana Martínez
+Monitor,cuatro,912 USD,01-01-2026,Jorge Romero
+Monitor, 2,512 USD,2026.01.01,Valeria Sosa
+Monitor,1,123 USD,2026-01-01,Valeria Sosa
+Monitor,5,390 USD,2026-01-01,Diego Díaz
+Mouse, 2,897 USD,2026.01.01,Andrés Benítez
+Monitor, 2,710 USD,2026.01.01,Ana Martínez
+Teclado,5,490 USD,2026-01-01,Sara Ruiz
+Mouse,3 ,288 USD,2026.01.01,Valeria Sosa
+Teclado, 2,719 USD,2026-01-01,Andrés Benítez
+Laptop,1,674 USD,2026.01.01,Diego Díaz
+Mouse,3 ,489 USD,01-01-2026,Luis Fernández
+Mouse, 2,670 USD,2026.01.01,Elena Torres
+Teclado,3 ,536 USD,01-01-2026,Juan Pérez
+Monitor,3 ,179 USD,2026.01.01,Facundo Acosta
+Monitor,3 ,889 USD,2026.01.01,Andrés Benítez
+Monitor,5,641 USD,2026-01-01,Sofía Giménez
+Mouse,5,802 USD,01-01-2026,Luis Fernández
+Monitor,cuatro,291 USD,01-01-2026,Elena Torres
+Laptop,5,337 USD,01-01-2026,Jorge Romero
+Teclado,cuatro,129 USD,2026.01.01,Diego Díaz
+Laptop,cuatro,796 USD,01-01-2026,Sara Ruiz
+Laptop, 2,487 USD,01-01-2026,Sara Ruiz
+Mouse,cuatro,184 USD,2026-01-01,Luis Fernández
+Mouse,cuatro,708 USD,2026.01.01,Facundo Acosta
+Mouse,5,724 USD,01-01-2026,Sofía Giménez
+Teclado,5,573 USD,2026.01.01,Luis Fernández
+Monitor,5,985 USD,2026.01.01,Ana Martínez
+Laptop,1,331 USD,2026-01-01,Carlos López
+Teclado,5,981 USD,2026.01.01,Sara Ruiz
+Laptop,3 ,142 USD,01-01-2026,Valeria Sosa
+Mouse,cuatro,14 USD,2026-01-01,Pedro Gómez
+Monitor,cuatro,489 USD,2026.01.01,Andrés Benítez
+Teclado, 2,17 USD,01-01-2026,Valeria Sosa
+Mouse,5,905 USD,01-01-2026,Andrés Benítez
+Monitor,3 ,514 USD,2026.01.01,Luis Fernández
+Monitor,3 ,129 USD,2026-01-01,Diego Díaz
+Teclado, 2,262 USD,01-01-2026,Valeria Sosa
+Monitor, 2,741 USD,2026-01-01,Sara Ruiz
+Teclado, 2,938 USD,01-01-2026,Ana Martínez
+Mouse,3 ,518 USD,2026.01.01,Sofía Giménez
+Monitor,3 ,96 USD,2026.01.01,Luis Fernández
+Teclado,3 ,692 USD,2026.01.01,Jorge Romero
+Teclado, 2,974 USD,2026.01.01,Carlos López
+Monitor,cuatro,455 USD,01-01-2026,Sofía Giménez
+Mouse,cuatro,966 USD,01-01-2026,Sofía Giménez
+Teclado,5,51 USD,2026.01.01,Juan Pérez
+Laptop,1,878 USD,2026-01-01,Elena Torres
+Teclado,5,993 USD,2026-01-01,Sofía Giménez
+Laptop,5,58 USD,01-01-2026,Valeria Sosa
+Teclado, 2,531 USD,2026.01.01,Valeria Sosa
+Teclado,cuatro,867 USD,2026-01-01,Lucía Sánchez
+Monitor,3 ,617 USD,2026.01.01,Elena Torres
+Teclado,1,579 USD,2026.01.01,Carlos López
+Monitor, 2,419 USD,2026-01-01,Sofía Giménez
+Monitor, 2,437 USD,2026-01-01,Andrés Benítez
+Teclado,5,501 USD,01-01-2026,Diego Díaz

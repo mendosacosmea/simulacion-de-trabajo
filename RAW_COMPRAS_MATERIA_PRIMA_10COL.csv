@@ -1,0 +1,1001 @@
+Fecha,Cod_Producto,Nombre_Material,Nombre_Proveedor,Cantidad,Unidad_Medida,Precio_Unitario,Metodo_Pago,Estado_Entrega,Prioridad
+2026-04-24,CP-181,Tornillos,PROV_A,400,kg,401 USD,Transferencia,En transito,Baja
+20/06/2026,,Plástico,,100,KG,356 USD,Efectivo,RECIBIDO,Urgente
+21/02/2026,CP-805,Aluminio,Prov_A,400,Lts,193 USD,,Cancelado,Alta
+2026.02.07,CP-347,Acero,PROV_B,100,Libras,409 USD,Tjta,En transito,Alta
+2026-01-02,CP-527,Plástico,prov_b,300 ,kg,27 USD,Tarjeta,En transito,Baja
+2026-02-09,CP-873,Aluminio,PROV_A,300 ,KG,221 USD,Tjta,En transito,Media
+2026.03.13,CP-510,Aluminio,PROV_A, 200,Libras,34 USD,Tarjeta,Cancelado,Urgente
+2026.03.11,CP-233,Aluminio,prov_b,300 ,unid,498 USD,Transferencia,RECIBIDO,Baja
+2026.01.02,CP-118,Plástico,PROV_B, 200,kg,95 USD,Tjta,RECIBIDO,Alta
+2026-05-21,CP-383,Aluminio,prov_b, 200,Libras,176 USD,Transf,RECIBIDO,Alta
+2026.03.30,CP-900,Plástico,prov_b,100,kg,58 USD,Transferencia,Recibido,Alta
+24/02/2026,CP-405,Tornillos,Prov_A,100,Libras,372 USD,Transf,Recibido,Baja
+2026.04.15,CP-165,Tornillos,Prov_A,100,unid,88 USD,Transf,En transito,Media
+21/03/2026,CP-261,Plástico,Proveedor A,400,unid,12 USD,Tarjeta,Recibido,Media
+2026-05-01,CP-771,Pintura,PROV_B,quinientos,kg,369 USD,Tjta,Cancelado,Alta
+2026-06-19,CP-157,Aluminio,Prov_A, 200,Lts,73 USD,Tjta,Cancelado,Urgente
+2026-03-31,CP-472,Tornillos,PROV_B,400,KG,227 USD,Tarjeta,,Baja
+2026-02-04,CP-702,Tornillos,Proveedor A,,kg,314 USD,Transf,Cancelado,Alta
+28/03/2026,CP-834,Pintura,PROV_B,100,KG,365 USD,Tarjeta,En transito,
+18/01/2026,CP-991,Pintura,prov_b,300 ,unid,490 USD,Tjta,En transito,Media
+2026.02.13,,Plástico,Proveedor A,100,kg,374 USD,Tjta,RECIBIDO,Alta
+28/06/2026,CP-428,Aluminio,Proveedor A,quinientos,kg,176 USD,Transferencia,Cancelado,Urgente
+2026-05-06,CP-559,Pintura,PROV_A, 200,unid,,Tjta,Recibido,
+2026-02-06,CP-556,Aluminio,PROV_A, 200,unid,131 USD,Tarjeta,Cancelado,Alta
+2026-03-22,CP-334,Tornillos,Proveedor A, 200,Libras,154 USD,Transferencia,En transito,Media
+2026-05-14,CP-459,Plástico,PROV_A,400,kg,485 USD,Efectivo,RECIBIDO,Baja
+2026-04-09,CP-956,Pintura,Prov_A,400,Libras,429 USD,Transf,RECIBIDO,Baja
+2026.06.02,CP-463,Pintura,PROV_A,400,,461 USD,Tarjeta,RECIBIDO,Media
+2026.01.22,CP-739,Aluminio,Proveedor A,400,Lts,475 USD,Efectivo,En transito,Alta
+2026.06.13,CP-685,Acero,PROV_B,quinientos,KG,143 USD,Tarjeta,En transito,Media
+2026.03.28,CP-103,Pintura,PROV_B,300 ,Libras,339 USD,Tarjeta,Cancelado,Media
+2026-03-05,CP-818,Acero,prov_b,400,unid,262 USD,Tarjeta,En transito,Media
+2026-02-26,,Pintura,prov_b,100,,336 USD,Transferencia,En transito,Baja
+2026-01-16,CP-344,Aluminio,Proveedor A,400,KG,125 USD,Efectivo,RECIBIDO,Media
+2026-04-13,CP-625,Tornillos,Prov_A,300 ,Lts,286 USD,Efectivo,Cancelado,
+04/05/2026,CP-543,Plástico,Proveedor A,300 ,unid,366 USD,Tjta,Recibido,Media
+17/04/2026,CP-792,Tornillos,PROV_B,quinientos,Libras,494 USD,Efectivo,RECIBIDO,Alta
+2026.01.08,CP-932,Plástico,PROV_A,300 ,Lts,491 USD,Transf,En transito,Alta
+2026.03.19,CP-645,Tornillos,prov_b,quinientos,kg,316 USD,Tjta,RECIBIDO,Alta
+2026.04.25,CP-421,Pintura,Prov_A,400,unid,28 USD,Transf,Cancelado,
+2026.01.08,CP-445,Acero,Proveedor A, 200,KG,106 USD,Transf,En transito,Urgente
+2026.02.09,CP-498,Plástico,prov_b,,unid,,Tjta,Recibido,Baja
+11/05/2026,CP-817,Pintura,Prov_A,quinientos,kg,326 USD,Efectivo,RECIBIDO,Alta
+2026-01-08,CP-215,Pintura,Proveedor A,100,kg,108 USD,Transf,Recibido,Alta
+10/01/2026,CP-143,Aluminio,Proveedor A, 200,kg,165 USD,Tarjeta,Recibido,Media
+2026.03.31,CP-549,Pintura,Prov_A,400,KG,50 USD,Transferencia,RECIBIDO,Alta
+06/04/2026,CP-783,Pintura,Prov_A, 200,Libras,219 USD,Transferencia,En transito,Alta
+2026.04.01,CP-971,Acero,PROV_B,,unid,338 USD,Tjta,Cancelado,Alta
+24/01/2026,CP-711,Tornillos,Prov_A, 200,Libras,40 USD,Transferencia,Recibido,Baja
+2026-05-09,CP-229,Acero,, 200,Lts,276 USD,Efectivo,Recibido,Alta
+12/01/2026,CP-381,Acero,Prov_A,300 ,KG,97 USD,Tarjeta,Cancelado,Urgente
+2026.04.11,CP-228,Plástico,PROV_A,quinientos,unid,422 USD,Efectivo,En transito,Alta
+26/02/2026,CP-404,Aluminio,Proveedor A,300 ,KG,277 USD,Tjta,RECIBIDO,Alta
+02/02/2026,CP-824,Plástico,Proveedor A,quinientos,KG,485 USD,Transferencia,En transito,Urgente
+24/01/2026,CP-367,Pintura,PROV_A, 200,unid,94 USD,Tjta,RECIBIDO,Baja
+28/03/2026,CP-418,Plástico,PROV_B,quinientos,KG,66 USD,Transf,Recibido,Urgente
+2026-04-09,CP-986,Pintura,prov_b,300 ,Lts,186 USD,Transf,Recibido,Alta
+2026-06-20,CP-645,Acero,Proveedor A,300 ,Lts,159 USD,Efectivo,RECIBIDO,Media
+2026-05-03,CP-460,Pintura,PROV_B,400,kg,477 USD,Transferencia,RECIBIDO,Media
+2026-02-02,CP-789,Tornillos,Prov_A,100,KG,422 USD,Transferencia,Recibido,Media
+2026.02.01,CP-215,Aluminio,PROV_A,300 ,KG,347 USD,Tjta,RECIBIDO,Baja
+07/06/2026,,Aluminio,Prov_A,400,unid,46 USD,Efectivo,En transito,Urgente
+,CP-800,,prov_b,100,kg,400 USD,Tjta,Cancelado,Urgente
+01/02/2026,CP-336,Acero,Proveedor A,400,unid,453 USD,Efectivo,Cancelado,Baja
+2026-04-29,CP-117,Aluminio,Proveedor A, 200,unid,342 USD,Efectivo,En transito,Alta
+2026.02.24,CP-471,Plástico,Proveedor A, 200,Lts,224 USD,Transf,En transito,Alta
+02/04/2026,CP-629,Plástico,PROV_A,quinientos,unid,408 USD,Efectivo,Recibido,Baja
+17/01/2026,CP-892,Plástico,PROV_B,quinientos,Libras,190 USD,Tjta,RECIBIDO,Alta
+13/02/2026,CP-315,Acero,prov_b,300 ,unid,459 USD,Tarjeta,RECIBIDO,Media
+12/01/2026,CP-164,Aluminio,Proveedor A, 200,Lts,459 USD,Tarjeta,,
+2026.04.14,CP-993,,Prov_A,,kg,287 USD,Tjta,Cancelado,Baja
+2026.04.04,CP-858,Tornillos,Proveedor A, 200,kg,420 USD,Transferencia,RECIBIDO,Media
+2026.06.27,CP-961,Aluminio,Prov_A,300 ,KG,75 USD,Efectivo,Cancelado,Media
+2026.01.22,CP-239,Aluminio,Prov_A,400,Libras,250 USD,Tjta,Cancelado,Urgente
+2026-03-26,CP-282,Tornillos,Proveedor A,quinientos,KG,80 USD,Transferencia,Cancelado,Baja
+2026.06.23,CP-198,Tornillos,prov_b,100,Lts,77 USD,Tarjeta,En transito,Urgente
+17/05/2026,CP-432,Acero,Proveedor A,quinientos,Lts,98 USD,Transferencia,RECIBIDO,Media
+22/03/2026,CP-317,Aluminio,PROV_B,300 ,Libras,367 USD,Efectivo,Recibido,Urgente
+2026.04.08,CP-161,Aluminio,PROV_B,quinientos,Lts,346 USD,Transf,Recibido,Alta
+09/05/2026,CP-517,Tornillos,Proveedor A,,Lts,292 USD,Tjta,En transito,Media
+2026.06.22,CP-679,Tornillos,Prov_A,quinientos,Libras,292 USD,Efectivo,Recibido,Baja
+2026.04.27,CP-433,Pintura,prov_b, 200,Lts,50 USD,Tarjeta,RECIBIDO,Media
+23/02/2026,CP-569,Pintura,Prov_A, 200,Lts,486 USD,Transferencia,RECIBIDO,Alta
+2026.02.26,CP-846,Pintura,Proveedor A, 200,Lts,374 USD,Efectivo,RECIBIDO,Alta
+15/02/2026,CP-368,Aluminio,PROV_A,400,Lts,,Transf,Cancelado,Urgente
+2026.06.11,CP-708,Aluminio,Prov_A,300 ,KG,151 USD,Tarjeta,En transito,Alta
+2026.04.04,CP-195,Tornillos,Prov_A,100,Libras,210 USD,Tjta,En transito,Media
+05/03/2026,,Tornillos,prov_b,100,unid,284 USD,Tarjeta,Cancelado,Urgente
+,CP-181,Pintura,prov_b,400,kg,310 USD,Efectivo,En transito,Baja
+2026.06.03,CP-184,Plástico,Prov_A,quinientos,KG,268 USD,Efectivo,RECIBIDO,Media
+2026.04.25,CP-925,Aluminio,prov_b,300 ,Lts,65 USD,Tarjeta,Cancelado,Alta
+2026-05-05,CP-352,Pintura,prov_b,100,kg,408 USD,Tjta,Cancelado,Baja
+2026.05.25,CP-788,,PROV_A,,unid,120 USD,Tjta,Recibido,Media
+2026-03-01,CP-522,Aluminio,PROV_A, 200,Lts,355 USD,Transf,Recibido,Urgente
+2026-06-20,CP-562,Plástico,Proveedor A,300 ,Lts,423 USD,Efectivo,En transito,
+2026-06-30,CP-696,Acero,prov_b,300 ,unid,36 USD,Efectivo,Recibido,Media
+2026-04-13,CP-173,Plástico,prov_b,300 ,Libras,457 USD,Tjta,Recibido,Media
+22/01/2026,CP-449,Plástico,PROV_A, 200,unid,89 USD,Efectivo,En transito,Urgente
+16/01/2026,CP-493,Acero,PROV_B,100,unid,279 USD,Transferencia,RECIBIDO,Baja
+2026.02.26,CP-283,Aluminio,Proveedor A,400,KG,336 USD,Transferencia,Recibido,Baja
+2026.06.26,CP-939,Plástico,PROV_B,quinientos,Lts,,Tjta,En transito,Urgente
+2026.04.14,CP-441,Tornillos,Proveedor A,100,Lts,204 USD,Efectivo,Recibido,Urgente
+2026-01-09,,Aluminio,prov_b,100,kg,255 USD,Efectivo,En transito,Alta
+2026-02-06,CP-631,Plástico,Prov_A, 200,kg,240 USD,Transf,Recibido,Baja
+2026-01-05,CP-166,Acero,Proveedor A,400,KG,59 USD,Transf,RECIBIDO,Urgente
+2026-02-16,CP-394,Tornillos,PROV_A,400,kg,224 USD,Transferencia,Cancelado,Baja
+2026-05-12,CP-944,Tornillos,PROV_A, 200,kg,99 USD,Transf,RECIBIDO,Media
+30/04/2026,CP-524,Acero,Prov_A, 200,kg,77 USD,Transferencia,Recibido,Urgente
+2026.04.24,CP-460,Plástico,prov_b,400,Lts,322 USD,Efectivo,En transito,Baja
+2026-04-13,CP-998,Tornillos,PROV_B,100,Lts,305 USD,Transf,Recibido,Alta
+2026-06-27,CP-199,Pintura,PROV_B,300 ,Libras,428 USD,Efectivo,RECIBIDO,Alta
+2026.01.21,CP-491,Plástico,Proveedor A, 200,KG,23 USD,Tarjeta,RECIBIDO,Baja
+2026.05.23,CP-195,Aluminio,,quinientos,Lts,361 USD,Transferencia,Cancelado,Alta
+2026-05-26,CP-286,,PROV_A,quinientos,Lts,449 USD,Transferencia,RECIBIDO,Media
+2026-03-24,CP-375,Tornillos,PROV_B,quinientos,KG,281 USD,Efectivo,Recibido,Media
+2026-06-20,CP-355,Aluminio,Proveedor A,100,Libras,105 USD,Transferencia,Recibido,Baja
+2026.06.13,CP-779,Acero,Prov_A,300 ,Libras,27 USD,Tarjeta,Cancelado,Media
+25/02/2026,CP-382,Aluminio,prov_b, 200,kg,67 USD,Tjta,En transito,Urgente
+2026-01-01,CP-697,Tornillos,Prov_A,400,KG,327 USD,Transf,Recibido,Media
+2026-04-22,CP-387,Pintura,Proveedor A,100,unid,347 USD,Tjta,En transito,Baja
+17/06/2026,CP-992,Pintura,PROV_B,300 ,kg,480 USD,Tarjeta,RECIBIDO,Urgente
+2026.04.23,CP-744,Tornillos,prov_b,quinientos,kg,338 USD,Tjta,Recibido,
+2026.05.08,CP-589,Aluminio,prov_b,400,kg,220 USD,Efectivo,RECIBIDO,Alta
+2026-03-06,CP-286,Aluminio,PROV_B,quinientos,Lts,293 USD,Tjta,RECIBIDO,Urgente
+2026-05-19,CP-931,Acero,PROV_A,300 ,unid,145 USD,Transferencia,Cancelado,Baja
+13/02/2026,CP-632,Tornillos,prov_b,300 ,kg,271 USD,,Recibido,Alta
+04/06/2026,CP-626,Aluminio,Prov_A, 200,Lts,293 USD,Transferencia,Cancelado,Urgente
+2026-02-19,CP-944,Plástico,Prov_A,100,Libras,242 USD,Transf,Cancelado,Alta
+13/05/2026,CP-625,Acero,Prov_A,100,KG,147 USD,Efectivo,Recibido,Media
+29/04/2026,CP-494,Aluminio,Prov_A,400,kg,217 USD,Tarjeta,Cancelado,Alta
+2026-01-19,CP-593,Tornillos,PROV_A,quinientos,unid,266 USD,Tarjeta,Cancelado,Media
+16/06/2026,CP-209,Tornillos,PROV_B,100,kg,177 USD,Tarjeta,RECIBIDO,Alta
+2026.05.14,CP-775,Tornillos,PROV_A,quinientos,KG,389 USD,Efectivo,RECIBIDO,
+2026-03-11,CP-914,Aluminio,PROV_B,300 ,Libras,493 USD,Tarjeta,Cancelado,Alta
+2026-03-22,CP-144,Acero,prov_b, 200,KG,273 USD,Transf,En transito,Urgente
+2026.01.21,CP-105,Tornillos,PROV_B,100,Lts,29 USD,Transf,Recibido,Alta
+2026.04.23,CP-569,Tornillos,prov_b, 200,KG,224 USD,Transf,En transito,Media
+22/03/2026,CP-753,Plástico,PROV_B,quinientos,Lts,370 USD,Efectivo,En transito,Baja
+2026-05-22,,Aluminio,,300 ,kg,486 USD,Efectivo,RECIBIDO,Alta
+2026-03-04,CP-491,,Prov_A, 200,Libras,261 USD,Tarjeta,Cancelado,Baja
+01/01/2026,CP-655,Pintura,Prov_A,quinientos,Libras,57 USD,Tarjeta,En transito,Urgente
+2026-04-23,CP-916,Acero,PROV_A,quinientos,Libras,241 USD,Efectivo,RECIBIDO,Baja
+2026-04-16,CP-565,Pintura,Proveedor A,400,Lts,282 USD,Tjta,Cancelado,Urgente
+2026.04.22,CP-817,Pintura,prov_b, 200,kg,355 USD,Tarjeta,Cancelado,Urgente
+,CP-704,Pintura,Prov_A,300 ,KG,335 USD,Tjta,En transito,Baja
+2026-01-04,CP-506,Pintura,PROV_A,300 ,unid,94 USD,Efectivo,RECIBIDO,Alta
+2026.03.09,CP-764,Aluminio,prov_b,quinientos,kg,417 USD,Transf,RECIBIDO,Media
+2026.05.06,CP-245,Tornillos,prov_b,100,Lts,93 USD,Tarjeta,RECIBIDO,Alta
+2026-02-09,CP-668,Aluminio,Prov_A,300 ,Libras,400 USD,Tarjeta,En transito,Urgente
+2026.03.24,CP-160,Pintura,,300 ,Lts,258 USD,Tjta,Cancelado,Baja
+2026-01-26,CP-357,Tornillos,prov_b,quinientos,unid,74 USD,Tjta,Cancelado,Baja
+23/02/2026,CP-891,Aluminio,prov_b, 200,Lts,407 USD,Efectivo,Cancelado,Baja
+14/04/2026,CP-589,Plástico,Prov_A,100,kg,420 USD,Tjta,Cancelado,Media
+22/03/2026,CP-824,Aluminio,,quinientos,kg,317 USD,Tarjeta,Recibido,Baja
+14/05/2026,CP-968,Pintura,prov_b,100,Lts,123 USD,Tarjeta,RECIBIDO,Baja
+2026-05-04,CP-891,Plástico,prov_b,quinientos,KG,338 USD,Tarjeta,,Media
+,,Pintura,PROV_A, 200,KG,65 USD,Tarjeta,RECIBIDO,Baja
+2026.03.27,,Pintura,PROV_A,100,Libras,61 USD,Tjta,En transito,Baja
+2026.03.29,CP-253,Tornillos,Prov_A,,Libras,475 USD,Tarjeta,Recibido,Baja
+2026-06-26,CP-760,Plástico,Prov_A,400,kg,227 USD,Tarjeta,Cancelado,Baja
+2026-04-19,CP-584,Plástico,prov_b,300 ,KG,234 USD,Tjta,En transito,Alta
+2026-02-13,CP-557,Plástico,prov_b, 200,Libras,349 USD,Transferencia,Cancelado,Baja
+2026.01.17,CP-322,Aluminio,PROV_A,quinientos,Lts,140 USD,Tjta,En transito,Media
+2026.05.03,CP-536,Pintura,Proveedor A,100,,328 USD,Transf,Cancelado,Alta
+2026-03-19,CP-657,Tornillos,prov_b,300 ,Lts,72 USD,Efectivo,Recibido,Urgente
+24/02/2026,CP-156,Tornillos,Proveedor A,100,unid,234 USD,Tarjeta,En transito,Baja
+2026-05-04,CP-245,Aluminio,Proveedor A,100,Lts,178 USD,Tarjeta,RECIBIDO,Media
+23/04/2026,CP-941,,PROV_B,100,Lts,468 USD,Efectivo,RECIBIDO,Alta
+2026.02.12,CP-937,Acero,Proveedor A,100,kg,497 USD,Tjta,Recibido,Alta
+2026-04-19,CP-818,Aluminio,Prov_A,quinientos,Lts,459 USD,Tjta,En transito,Media
+2026-04-12,CP-466,Tornillos,PROV_B, 200,unid,403 USD,Transf,En transito,Media
+03/03/2026,CP-313,Aluminio,prov_b,quinientos,unid,117 USD,Efectivo,Cancelado,Media
+2026-03-12,CP-439,Acero,prov_b,100,kg,62 USD,Transferencia,Cancelado,Alta
+2026-06-19,CP-146,Acero,PROV_A,400,kg,202 USD,Transf,Cancelado,Baja
+2026-01-08,CP-363,Aluminio,PROV_B,300 ,kg,62 USD,Efectivo,RECIBIDO,Alta
+20/02/2026,CP-269,Aluminio,Prov_A,100,Libras,308 USD,Tarjeta,Recibido,Baja
+24/05/2026,CP-110,Plástico,PROV_B, 200,kg,265 USD,Transf,En transito,Urgente
+13/03/2026,CP-764,Plástico,PROV_B,quinientos,KG,213 USD,Efectivo,En transito,Baja
+,CP-602,Plástico,prov_b,300 ,unid,274 USD,Transferencia,En transito,Media
+2026.06.07,CP-271,Acero,PROV_B,quinientos,Lts,,Efectivo,RECIBIDO,Alta
+,CP-629,Plástico,PROV_A,400,unid,110 USD,Tjta,Cancelado,Media
+2026.04.18,CP-743,Pintura,prov_b, 200,Libras,158 USD,Tjta,Recibido,Urgente
+2026-01-07,CP-946,Tornillos,PROV_A, 200,KG,130 USD,Tjta,En transito,Media
+04/01/2026,CP-162,Plástico,Prov_A,100,Lts,466 USD,Tarjeta,Cancelado,Media
+2026-01-03,CP-797,Acero,Proveedor A, 200,KG,378 USD,Tarjeta,RECIBIDO,Media
+2026-02-27,CP-329,Pintura,Prov_A,400,KG,41 USD,Transferencia,RECIBIDO,Urgente
+2026-06-05,CP-365,Aluminio,Prov_A,400,Lts,328 USD,Efectivo,En transito,Media
+2026.04.18,CP-407,Tornillos,PROV_B,400,Libras,140 USD,Transferencia,RECIBIDO,Urgente
+04/04/2026,CP-533,Acero,PROV_B,400,KG,351 USD,Efectivo,Recibido,Alta
+06/06/2026,CP-367,Tornillos,PROV_B,400,Libras,225 USD,Transf,Recibido,Urgente
+2026-06-24,CP-503,Aluminio,prov_b, 200,KG,106 USD,Tjta,RECIBIDO,Baja
+2026-04-04,CP-233,Tornillos,Proveedor A,300 ,KG,188 USD,Tjta,Cancelado,Media
+2026-01-26,CP-974,Tornillos,prov_b,300 ,Libras,312 USD,Transferencia,Cancelado,Urgente
+2026-05-12,CP-257,Aluminio,Proveedor A,400,unid,479 USD,Tarjeta,RECIBIDO,Baja
+16/03/2026,CP-352,Acero,Prov_A,300 ,Libras,127 USD,Efectivo,Recibido,Urgente
+2026-03-12,CP-898,Pintura,Proveedor A,100,Lts,495 USD,Transferencia,Cancelado,Media
+29/03/2026,CP-630,Aluminio,Proveedor A,100,kg,435 USD,Transferencia,En transito,Alta
+2026-03-27,CP-595,Pintura,PROV_A,,kg,423 USD,Transferencia,,Baja
+2026-02-17,CP-218,Plástico,Prov_A,400,unid,266 USD,Transferencia,Recibido,Media
+2026-01-20,CP-390,Tornillos,prov_b,100,Libras,58 USD,Transferencia,Recibido,Baja
+,CP-840,Acero,Proveedor A, 200,KG,258 USD,Transf,Cancelado,Media
+2026.03.17,CP-786,Aluminio,Prov_A,100,Libras,118 USD,Transf,En transito,Baja
+2026-03-07,,Pintura,,quinientos,unid,220 USD,Efectivo,Cancelado,Urgente
+25/04/2026,CP-361,Pintura,PROV_B,quinientos,Libras,107 USD,Tjta,Cancelado,Urgente
+2026-03-02,,Plástico,PROV_B,quinientos,unid,395 USD,Tjta,En transito,Media
+2026.05.16,CP-503,Acero,Prov_A, 200,unid,42 USD,Tarjeta,En transito,Media
+2026-04-19,CP-243,Acero,PROV_A, 200,kg,250 USD,Tarjeta,En transito,Alta
+2026.06.30,CP-577,Plástico,PROV_B,100,KG,348 USD,,Cancelado,Urgente
+11/02/2026,CP-573,Plástico,PROV_A,400,KG,440 USD,Transf,Recibido,Urgente
+2026-02-11,CP-841,Pintura,PROV_B,300 ,unid,27 USD,Transf,RECIBIDO,Urgente
+11/03/2026,CP-579,Plástico,Proveedor A,300 ,Libras,498 USD,Tarjeta,En transito,Alta
+2026-02-24,CP-679,Tornillos,Prov_A,100,unid,310 USD,Tjta,Cancelado,Baja
+28/03/2026,CP-355,Aluminio,prov_b,400,Lts,334 USD,Efectivo,RECIBIDO,Alta
+2026.06.02,CP-805,Plástico,PROV_B,400,unid,220 USD,Transferencia,Recibido,Baja
+27/04/2026,,Tornillos,PROV_A, 200,unid,95 USD,Transferencia,RECIBIDO,Alta
+2026-06-02,CP-306,Pintura,prov_b,quinientos,unid,221 USD,Tjta,Cancelado,Media
+26/02/2026,CP-828,Acero,prov_b,100,unid,130 USD,Tarjeta,Cancelado,Media
+25/06/2026,CP-666,Aluminio,PROV_B,100,KG,435 USD,Transf,Cancelado,Media
+03/01/2026,CP-990,Acero,Proveedor A,100,unid,340 USD,Tjta,RECIBIDO,Alta
+2026-03-19,CP-156,Pintura,PROV_B,400,Lts,225 USD,Transf,Cancelado,Urgente
+08/01/2026,CP-649,Pintura,prov_b,100,kg,237 USD,Transferencia,RECIBIDO,Baja
+2026.06.14,CP-475,Tornillos,Proveedor A, 200,kg,456 USD,,,Media
+2026-05-31,CP-790,,PROV_A,100,unid,268 USD,Tarjeta,Recibido,Media
+2026-04-02,CP-726,Acero,Proveedor A,300 ,unid,228 USD,Tarjeta,Recibido,Urgente
+2026-01-09,CP-584,Aluminio,Proveedor A, 200,kg,178 USD,Tarjeta,Recibido,Baja
+2026.03.19,CP-885,Acero,prov_b,quinientos,kg,318 USD,Transf,RECIBIDO,Urgente
+17/02/2026,,Pintura,PROV_B,400,KG,304 USD,Efectivo,En transito,Alta
+2026-01-02,CP-503,Pintura,PROV_B,300 ,KG,198 USD,Transferencia,Recibido,Baja
+2026.03.21,CP-400,Plástico,PROV_B,100,Libras,103 USD,Tjta,En transito,Baja
+2026-02-20,CP-938,Aluminio,PROV_A,300 ,,282 USD,Tarjeta,Recibido,Alta
+2026-03-28,CP-586,Pintura,PROV_B,300 ,Libras,205 USD,Tarjeta,Recibido,Baja
+2026-06-07,CP-727,Plástico,prov_b,300 ,unid,26 USD,Tjta,Recibido,Baja
+2026-02-14,CP-726,Plástico,,400,kg,202 USD,Transf,Cancelado,Baja
+21/04/2026,CP-969,Aluminio,Proveedor A,quinientos,kg,206 USD,Tjta,RECIBIDO,Baja
+2026-05-27,CP-277,Tornillos,PROV_B,100,Lts,53 USD,Transferencia,En transito,Media
+2026.05.07,CP-773,Aluminio,PROV_B,300 ,unid,296 USD,Transferencia,Recibido,Media
+2026.06.13,CP-484,Plástico,,quinientos,Lts,255 USD,Tjta,En transito,Baja
+06/01/2026,CP-943,Aluminio,Proveedor A,400,unid,211 USD,Tjta,Recibido,Media
+2026.06.16,CP-607,Plástico,PROV_B, 200,Libras,177 USD,Transf,RECIBIDO,Media
+2026.04.21,CP-444,Pintura,Proveedor A,quinientos,kg,270 USD,Transf,Cancelado,Media
+2026-01-15,CP-704,Pintura,Proveedor A,quinientos,kg,37 USD,Tarjeta,Cancelado,Urgente
+2026-03-26,CP-529,Plástico,PROV_B,300 ,KG,142 USD,Efectivo,Cancelado,Baja
+2026-06-09,CP-425,,,300 ,Lts,338 USD,Transferencia,Cancelado,Alta
+08/05/2026,CP-154,Pintura,Prov_A, 200,unid,445 USD,Tarjeta,Cancelado,Media
+2026.06.24,CP-577,Plástico,PROV_B,quinientos,Libras,147 USD,Tjta,RECIBIDO,Baja
+,CP-796,Plástico,prov_b,300 ,KG,20 USD,Transferencia,Cancelado,Urgente
+06/05/2026,CP-655,Plástico,Proveedor A,300 ,unid,222 USD,Transf,Recibido,Media
+2026.02.15,CP-766,Tornillos,Proveedor A,400,Libras,445 USD,Tarjeta,En transito,Media
+2026-04-17,CP-941,Acero,PROV_A, 200,kg,215 USD,,En transito,Baja
+2026.01.17,CP-695,Acero,PROV_B, 200,Libras,259 USD,Transferencia,Cancelado,Media
+2026-02-27,CP-993,Tornillos,Prov_A,100,Lts,419 USD,Efectivo,,Urgente
+27/06/2026,CP-234,Tornillos,PROV_A,quinientos,Libras,51 USD,Tjta,RECIBIDO,Baja
+2026-02-08,CP-789,Pintura,PROV_B,300 ,KG,426 USD,Tarjeta,En transito,Alta
+2026.06.29,CP-821,Plástico,Prov_A, 200,Lts,446 USD,Transf,RECIBIDO,Baja
+2026-02-21,CP-758,Aluminio,PROV_A,300 ,Libras,152 USD,,Cancelado,Baja
+20/06/2026,CP-455,Acero,PROV_B,quinientos,KG,,Efectivo,Cancelado,Alta
+18/03/2026,CP-769,Tornillos,PROV_B,400,Libras,379 USD,Tarjeta,Recibido,Baja
+2026-01-20,CP-875,Tornillos,PROV_B,100,Lts,297 USD,Transf,Recibido,Alta
+10/01/2026,CP-398,Tornillos,Proveedor A,quinientos,KG,248 USD,Transf,En transito,Alta
+2026-06-14,CP-709,Plástico,Proveedor A,100,KG,69 USD,Tarjeta,Recibido,Urgente
+25/01/2026,CP-384,Plástico,PROV_B,400,unid,192 USD,Transferencia,En transito,Alta
+03/04/2026,CP-879,Pintura,PROV_A,100,kg,407 USD,Transferencia,RECIBIDO,Alta
+2026.06.26,CP-578,Pintura,Proveedor A, 200,KG,321 USD,Transferencia,En transito,Alta
+13/04/2026,CP-484,Plástico,Proveedor A,400,Libras,,Tjta,RECIBIDO,Urgente
+2026-02-16,CP-568,Acero,PROV_A,400,KG,362 USD,Tarjeta,RECIBIDO,Media
+2026-06-08,CP-283,Aluminio,Proveedor A,400,unid,97 USD,Efectivo,Recibido,Media
+2026-04-30,,Pintura,Proveedor A,300 ,unid,175 USD,Efectivo,Recibido,Baja
+2026-06-27,CP-860,Acero,Proveedor A,quinientos,Libras,130 USD,Efectivo,En transito,Baja
+2026.03.19,CP-755,Tornillos,Proveedor A,300 ,kg,271 USD,Transf,En transito,Urgente
+2026-04-21,CP-679,Aluminio,prov_b,quinientos,kg,238 USD,Tarjeta,Cancelado,Media
+2026-03-23,CP-566,Aluminio,Prov_A,400,Libras,424 USD,Efectivo,RECIBIDO,Urgente
+2026.03.21,CP-313,Plástico,Prov_A,quinientos,Lts,56 USD,Tjta,RECIBIDO,Media
+2026-02-27,CP-678,Acero,prov_b,300 ,Libras,105 USD,Efectivo,En transito,Baja
+2026.05.12,CP-965,Tornillos,PROV_B,100,Lts,151 USD,Efectivo,Cancelado,Alta
+2026-06-29,CP-692,Pintura,PROV_A,400,KG,458 USD,Transf,En transito,Urgente
+03/04/2026,CP-141,Acero,Proveedor A,400,kg,171 USD,Tjta,Recibido,Media
+21/06/2026,CP-868,Aluminio,PROV_A,100,KG,214 USD,Efectivo,Recibido,Baja
+2026-05-30,CP-534,Pintura,Proveedor A,400,kg,98 USD,Transf,En transito,Urgente
+2026.02.22,CP-526,Pintura,prov_b,,Libras,376 USD,Tjta,En transito,
+2026.06.25,CP-703,Tornillos,PROV_A,100,unid,147 USD,Efectivo,En transito,Urgente
+2026-04-11,CP-476,Pintura,prov_b,quinientos,Libras,413 USD,,Cancelado,Media
+05/04/2026,CP-160,Tornillos,PROV_B,400,KG,234 USD,Tarjeta,En transito,Urgente
+17/03/2026,CP-532,Tornillos,Proveedor A,100,KG,172 USD,Transferencia,Cancelado,Urgente
+2026.04.11,CP-303,Pintura,Proveedor A,400,Libras,221 USD,Transferencia,RECIBIDO,Baja
+2026-01-16,CP-923,Aluminio,Proveedor A,400,kg,,Efectivo,Recibido,Alta
+2026.06.29,CP-627,Tornillos,Proveedor A,400,Libras,19 USD,Tjta,RECIBIDO,Media
+2026.05.31,CP-232,Aluminio,Proveedor A,100,kg,138 USD,Tarjeta,RECIBIDO,Baja
+2026-01-01,CP-568,Plástico,PROV_A,300 ,Libras,,Tjta,Recibido,Baja
+2026.04.09,CP-360,Aluminio,PROV_B,300 ,unid,161 USD,Tjta,Recibido,Alta
+17/05/2026,CP-654,Acero,PROV_B,400,Lts,422 USD,Transf,Cancelado,Baja
+03/05/2026,CP-754,Pintura,Proveedor A,400,Libras,,Tarjeta,RECIBIDO,Media
+2026-01-04,CP-363,Acero,Prov_A,quinientos,Libras,233 USD,Tjta,Cancelado,Urgente
+12/02/2026,CP-118,Acero,Proveedor A,400,Lts,299 USD,Tjta,En transito,
+2026.05.22,,Plástico,PROV_A,quinientos,unid,,Transf,RECIBIDO,Media
+07/05/2026,,Acero,,quinientos,Libras,445 USD,Efectivo,Recibido,Baja
+2026.01.03,CP-842,Plástico,Prov_A,300 ,Libras,167 USD,Transferencia,En transito,Urgente
+2026-05-19,CP-393,Pintura,Prov_A,400,,98 USD,Efectivo,En transito,Media
+2026-04-01,CP-238,Tornillos,prov_b,400,unid,143 USD,Efectivo,Cancelado,Baja
+2026-03-02,CP-461,Tornillos,Prov_A,100,unid,211 USD,Tjta,Recibido,Urgente
+2026-04-19,CP-144,Plástico,PROV_B,100,kg,477 USD,Transf,Recibido,Baja
+2026.02.23,CP-788,Acero,prov_b,100,unid,230 USD,Tarjeta,RECIBIDO,Urgente
+04/02/2026,CP-756,Plástico,Proveedor A,400,kg,410 USD,Efectivo,Cancelado,Alta
+21/02/2026,CP-710,Aluminio,PROV_B,,Libras,156 USD,Tarjeta,Recibido,Baja
+25/05/2026,CP-173,Tornillos,Proveedor A,,Lts,57 USD,,RECIBIDO,Baja
+2026.06.17,CP-889,Plástico,PROV_A, 200,Libras,136 USD,Transf,Recibido,Alta
+14/05/2026,CP-526,Aluminio,Proveedor A,300 ,Lts,77 USD,Tjta,RECIBIDO,Baja
+22/01/2026,CP-359,Aluminio,PROV_A, 200,Libras,322 USD,Transf,Recibido,Media
+2026.04.06,CP-986,Pintura,PROV_B,100,unid,313 USD,Efectivo,Cancelado,Urgente
+13/02/2026,CP-952,Aluminio,, 200,KG,60 USD,Transf,Recibido,Alta
+09/06/2026,CP-168,Tornillos,PROV_B,100,unid,319 USD,Tjta,Cancelado,Media
+2026.04.25,CP-746,Tornillos,,300 ,Libras,42 USD,Transf,RECIBIDO,Alta
+07/03/2026,CP-891,Tornillos,Prov_A, 200,KG,352 USD,Efectivo,Cancelado,
+2026.06.15,CP-832,Aluminio,PROV_B,100,kg,433 USD,Efectivo,,Media
+2026-06-11,CP-127,Acero,Prov_A,300 ,KG,454 USD,Efectivo,En transito,Baja
+2026-05-13,CP-622,Pintura,prov_b,400,KG,71 USD,Tarjeta,RECIBIDO,Media
+2026.06.11,CP-531,Plástico,prov_b, 200,KG,49 USD,Tarjeta,Cancelado,Baja
+2026.01.26,CP-158,Pintura,Proveedor A, 200,unid,72 USD,Efectivo,Cancelado,Urgente
+30/01/2026,CP-539,Tornillos,Prov_A,quinientos,KG,468 USD,Tjta,En transito,Media
+2026.01.08,CP-519,,Proveedor A,300 ,Libras,88 USD,Tarjeta,Recibido,Alta
+01/03/2026,CP-132,Pintura,prov_b,quinientos,kg,453 USD,Tjta,RECIBIDO,Urgente
+2026-03-04,CP-168,Acero,PROV_B,100,kg,,Transferencia,RECIBIDO,Alta
+21/05/2026,CP-776,Pintura,Prov_A,400,unid,300 USD,Transferencia,En transito,Alta
+2026-06-25,CP-464,Acero,prov_b,300 ,unid,409 USD,Transf,En transito,Media
+2026.02.10,CP-908,Pintura,Prov_A,quinientos,Lts,56 USD,Transf,RECIBIDO,Urgente
+2026.02.28,CP-191,Aluminio,prov_b, 200,,71 USD,Tjta,Recibido,Media
+2026-06-23,CP-636,Acero,PROV_A,400,Libras,462 USD,Efectivo,RECIBIDO,Alta
+12/04/2026,CP-657,Plástico,prov_b,quinientos,kg,300 USD,Transf,RECIBIDO,
+17/05/2026,CP-127,Aluminio,prov_b,quinientos,kg,227 USD,Transferencia,En transito,Baja
+2026-01-19,CP-155,Acero,Prov_A,300 ,unid,205 USD,Transf,RECIBIDO,Media
+16/05/2026,CP-492,Pintura,Prov_A, 200,KG,234 USD,Tjta,Recibido,Alta
+19/03/2026,CP-114,Aluminio,prov_b,quinientos,Lts,232 USD,Transferencia,En transito,Alta
+02/05/2026,CP-514,Pintura,PROV_B,quinientos,unid,482 USD,Efectivo,Recibido,Media
+2026-01-08,CP-660,Plástico,PROV_A,quinientos,Lts,91 USD,Tarjeta,Cancelado,Baja
+2026-04-12,CP-673,Aluminio,Prov_A,100,,91 USD,Transf,En transito,Urgente
+09/04/2026,CP-902,Tornillos,Proveedor A,quinientos,Lts,95 USD,Transferencia,Recibido,Alta
+2026-01-18,CP-255,Tornillos,PROV_B,300 ,Libras,368 USD,Tarjeta,Cancelado,Baja
+2026.06.16,CP-109,,PROV_B,100,Libras,485 USD,Efectivo,Cancelado,Baja
+2026-06-14,CP-342,Tornillos,Prov_A,100,KG,296 USD,Tjta,En transito,Alta
+24/03/2026,CP-134,Tornillos,PROV_A,300 ,kg,202 USD,Transferencia,Cancelado,Alta
+2026.05.09,CP-406,Tornillos,Proveedor A,300 ,kg,361 USD,Transferencia,En transito,Urgente
+14/01/2026,CP-529,Aluminio,Proveedor A, 200,KG,412 USD,Efectivo,Recibido,Alta
+2026.05.05,,Aluminio,Prov_A,quinientos,Lts,499 USD,Efectivo,Cancelado,Media
+27/04/2026,CP-726,Tornillos,PROV_B,400,Libras,219 USD,Transf,Cancelado,Media
+18/05/2026,,Plástico,, 200,Libras,203 USD,Efectivo,Cancelado,Baja
+2026.01.29,CP-396,Plástico,Proveedor A,400,KG,89 USD,Efectivo,En transito,Urgente
+2026-03-22,CP-855,Pintura,Prov_A,quinientos,Lts,143 USD,Tarjeta,RECIBIDO,Media
+2026-05-14,CP-236,Pintura,prov_b,,unid,44 USD,Transf,En transito,Media
+2026-04-10,CP-125,Aluminio,prov_b,,Libras,36 USD,Transf,RECIBIDO,Alta
+2026.02.05,CP-662,Plástico,PROV_B,quinientos,Lts,500 USD,Tarjeta,RECIBIDO,Media
+12/04/2026,CP-779,Tornillos,prov_b, 200,KG,30 USD,Transf,Recibido,Baja
+2026.01.08,CP-118,Tornillos,Prov_A, 200,kg,31 USD,Tarjeta,RECIBIDO,Baja
+06/05/2026,CP-227,Acero,Proveedor A,300 ,Libras,326 USD,Transferencia,Recibido,Baja
+2026.06.20,CP-170,Plástico,PROV_B,quinientos,kg,397 USD,Transf,Cancelado,Alta
+2026-05-15,CP-245,Aluminio,PROV_A,400,KG,253 USD,Efectivo,RECIBIDO,Alta
+2026.03.19,CP-950,Pintura,prov_b,100,Libras,90 USD,Efectivo,Cancelado,Urgente
+08/03/2026,CP-111,Acero,Proveedor A, 200,unid,250 USD,Efectivo,RECIBIDO,Alta
+2026.04.17,CP-346,Acero,Prov_A,300 ,KG,262 USD,Tjta,Cancelado,
+2026-06-03,CP-546,Plástico,PROV_B,100,KG,17 USD,Transferencia,Recibido,Media
+2026.02.27,CP-422,Aluminio,prov_b, 200,kg,303 USD,Tarjeta,En transito,Urgente
+15/03/2026,CP-902,Acero,PROV_A,300 ,KG,86 USD,Tarjeta,,Urgente
+2026-01-19,CP-613,Aluminio,PROV_B,100,Libras,446 USD,Tjta,RECIBIDO,Media
+2026-03-31,CP-955,Tornillos,prov_b,300 ,KG,237 USD,Transf,Recibido,Media
+13/02/2026,CP-504,Plástico,Prov_A,400,KG,152 USD,Transferencia,En transito,Media
+2026-03-11,CP-740,Acero,Proveedor A, 200,Libras,97 USD,Tarjeta,RECIBIDO,Baja
+2026-03-09,CP-137,Acero,PROV_A,300 ,Libras,179 USD,Efectivo,Cancelado,Alta
+13/04/2026,CP-373,Pintura,Proveedor A,,KG,175 USD,Tjta,Cancelado,Baja
+2026.06.29,CP-538,Tornillos,PROV_B,400,Lts,333 USD,Efectivo,En transito,Alta
+2026.01.14,CP-912,Plástico,prov_b,quinientos,KG,312 USD,Transferencia,En transito,Urgente
+2026-06-01,CP-507,Pintura,,400,kg,213 USD,Transferencia,Recibido,Alta
+04/04/2026,CP-827,Aluminio,prov_b,400,unid,277 USD,Transferencia,Cancelado,Urgente
+2026-02-03,CP-198,Plástico,prov_b,quinientos,,277 USD,Tarjeta,En transito,Media
+19/01/2026,CP-629,Tornillos,Prov_A,400,Lts,405 USD,Tjta,Cancelado,Urgente
+2026-06-22,CP-420,Acero,Prov_A,quinientos,Lts,301 USD,Transf,Cancelado,Alta
+2026.03.23,CP-445,,Prov_A,100,unid,68 USD,Tarjeta,En transito,Baja
+2026.03.27,CP-707,Pintura,Prov_A,quinientos,KG,242 USD,,Recibido,Urgente
+12/05/2026,CP-249,,Proveedor A,quinientos,kg,455 USD,Tarjeta,Recibido,Baja
+2026-04-19,CP-729,Plástico,PROV_B,400,Libras,383 USD,Tarjeta,Recibido,Baja
+2026.05.02,CP-222,Tornillos,PROV_A,100,KG,256 USD,Efectivo,En transito,Baja
+19/05/2026,CP-799,Tornillos,PROV_A,300 ,Lts,492 USD,Tarjeta,En transito,Urgente
+2026-03-20,CP-889,Pintura,PROV_B,100,kg,448 USD,Tarjeta,RECIBIDO,Baja
+25/03/2026,CP-157,Acero,Prov_A,400,kg,358 USD,Transferencia,Recibido,Media
+27/06/2026,CP-216,Tornillos,Proveedor A,quinientos,KG,48 USD,Transferencia,Recibido,Media
+13/04/2026,CP-229,Aluminio,PROV_A,300 ,unid,100 USD,Transferencia,RECIBIDO,Alta
+2026.05.28,CP-419,Pintura,PROV_A,300 ,KG,367 USD,Efectivo,RECIBIDO,Alta
+16/05/2026,CP-299,Plástico,Proveedor A,100,Libras,469 USD,Tjta,RECIBIDO,Baja
+,CP-519,Plástico,PROV_A, 200,KG,288 USD,Transferencia,Recibido,Media
+09/03/2026,CP-138,Plástico,PROV_B,400,unid,372 USD,Transf,RECIBIDO,Baja
+16/05/2026,CP-934,Aluminio,prov_b, 200,unid,412 USD,Efectivo,RECIBIDO,Alta
+2026-06-01,CP-242,Pintura,Prov_A, 200,kg,330 USD,Tarjeta,En transito,Baja
+17/06/2026,CP-971,Pintura,Proveedor A,400,Lts,71 USD,Efectivo,Recibido,Alta
+2026.04.14,CP-388,Aluminio,PROV_A,400,Lts,232 USD,Tarjeta,Cancelado,Urgente
+2026-02-27,CP-159,Tornillos,prov_b,300 ,unid,427 USD,Transf,Recibido,Media
+,CP-361,Acero,PROV_A, 200,Lts,30 USD,Tjta,RECIBIDO,Baja
+2026-02-07,CP-113,,Prov_A,400,kg,141 USD,Tarjeta,Recibido,Urgente
+2026-05-06,CP-161,Tornillos,Prov_A,quinientos,KG,290 USD,Transf,En transito,Alta
+14/04/2026,CP-591,Tornillos,Proveedor A,300 ,Lts,368 USD,Tarjeta,En transito,Media
+2026.04.24,CP-386,Tornillos,PROV_A,400,Lts,337 USD,Transf,Cancelado,Media
+2026.03.09,CP-703,Aluminio,prov_b,100,kg,399 USD,Transf,En transito,Urgente
+2026.03.11,CP-140,Acero,Proveedor A,quinientos,KG,278 USD,Tjta,En transito,Alta
+05/01/2026,CP-325,Plástico,Prov_A,100,Libras,204 USD,Efectivo,En transito,Urgente
+2026.04.21,CP-493,Acero,PROV_B, 200,Libras,398 USD,Efectivo,RECIBIDO,
+2026-01-11,CP-143,Tornillos,PROV_B,300 ,KG,20 USD,Transf,Cancelado,
+2026.01.05,CP-696,Acero,Proveedor A,100,kg,147 USD,Efectivo,En transito,Alta
+2026-03-06,CP-371,Tornillos,Prov_A, 200,kg,252 USD,Transferencia,RECIBIDO,Alta
+01/05/2026,CP-171,Pintura,Proveedor A, 200,KG,456 USD,Efectivo,Recibido,Urgente
+2026-03-20,CP-401,Aluminio,prov_b,quinientos,Lts,266 USD,Efectivo,Recibido,Media
+2026.04.05,CP-622,Aluminio,Proveedor A, 200,unid,223 USD,Efectivo,En transito,Baja
+2026.02.03,CP-171,Acero,prov_b, 200,KG,277 USD,Efectivo,Recibido,Baja
+2026.01.02,CP-174,Pintura,PROV_A,,Lts,85 USD,Efectivo,RECIBIDO,Media
+2026-05-03,CP-583,Plástico,PROV_A,400,KG,164 USD,Efectivo,RECIBIDO,Alta
+17/04/2026,CP-557,Plástico,PROV_A,300 ,KG,280 USD,Transferencia,Recibido,Media
+2026-04-04,CP-403,Tornillos,Prov_A,quinientos,kg,272 USD,Transf,En transito,Alta
+02/03/2026,CP-477,Pintura,Prov_A,100,Libras,407 USD,Tjta,Cancelado,Alta
+2026.02.03,CP-689,Acero,PROV_A,quinientos,Lts,21 USD,Efectivo,Recibido,Baja
+05/06/2026,CP-631,Aluminio,PROV_B,100,unid,28 USD,Transf,Cancelado,Baja
+2026-01-10,CP-232,Plástico,PROV_A,400,unid,20 USD,Transferencia,Cancelado,Alta
+2026.01.08,CP-591,Aluminio,Proveedor A,100,KG,162 USD,Transf,Recibido,Alta
+2026-03-17,CP-936,Plástico,Proveedor A,400,Lts,245 USD,Transf,RECIBIDO,Baja
+2026.06.13,CP-263,Aluminio,PROV_B,400,Lts,400 USD,Tjta,,Urgente
+13/05/2026,CP-887,Aluminio,prov_b,quinientos,Libras,418 USD,Transferencia,Cancelado,Urgente
+2026.06.11,CP-280,Tornillos,prov_b,400,,320 USD,Tarjeta,En transito,Media
+2026-01-29,CP-674,Pintura,PROV_A,300 ,KG,284 USD,Transferencia,RECIBIDO,Baja
+2026.06.16,CP-670,Pintura,Proveedor A,100,unid,25 USD,Transf,RECIBIDO,Alta
+2026.01.10,CP-595,Tornillos,prov_b,quinientos,Libras,336 USD,Efectivo,RECIBIDO,Alta
+28/03/2026,CP-641,Aluminio,prov_b,300 ,KG,471 USD,Transf,Cancelado,Media
+2026-04-19,CP-309,Plástico,PROV_A,100,Lts,14 USD,Transf,RECIBIDO,Media
+2026.02.05,CP-529,Tornillos,PROV_A,100,unid,77 USD,Transferencia,Recibido,Baja
+2026-04-10,CP-691,Plástico,Proveedor A,quinientos,unid,397 USD,Transferencia,RECIBIDO,Media
+2026.02.27,CP-509,Aluminio,Prov_A, 200,kg,421 USD,Tarjeta,RECIBIDO,Media
+20/05/2026,CP-402,,prov_b,100,Lts,436 USD,Efectivo,En transito,Urgente
+2026.03.06,CP-346,Tornillos,PROV_A,300 ,KG,379 USD,Tjta,Cancelado,Urgente
+2026-01-18,CP-186,Tornillos,prov_b,100,unid,353 USD,Transf,RECIBIDO,Urgente
+2026-05-17,CP-233,Acero,Proveedor A,,unid,210 USD,Tarjeta,Cancelado,Media
+12/06/2026,CP-282,Tornillos,,400,,293 USD,Transferencia,RECIBIDO,Alta
+07/05/2026,CP-235,Aluminio,PROV_B,400,kg,380 USD,Transferencia,En transito,Urgente
+2026.04.28,CP-238,Aluminio,prov_b, 200,Libras,39 USD,Transferencia,En transito,Media
+2026.05.02,CP-895,Tornillos,prov_b,100,Lts,,Efectivo,RECIBIDO,Media
+21/03/2026,CP-323,Acero,prov_b,100,Lts,259 USD,Efectivo,Recibido,Alta
+2026.05.20,CP-285,Acero,PROV_A,300 ,kg,22 USD,Tarjeta,,Media
+27/01/2026,CP-508,Acero,prov_b,quinientos,unid,309 USD,Efectivo,En transito,Media
+16/05/2026,CP-680,Aluminio,PROV_B,quinientos,Libras,94 USD,Transferencia,Cancelado,Urgente
+2026-05-09,CP-508,Plástico,Proveedor A,300 ,KG,112 USD,Tjta,En transito,Alta
+31/01/2026,CP-114,Pintura,PROV_B,100,Libras,24 USD,Efectivo,En transito,Alta
+2026.02.04,CP-637,Acero,Proveedor A, 200,Lts,,Transferencia,RECIBIDO,Alta
+2026.05.20,CP-397,Aluminio,prov_b,400,kg,179 USD,Tarjeta,Cancelado,Urgente
+2026-06-03,CP-212,Tornillos,Proveedor A,300 ,unid,80 USD,Tjta,Recibido,Media
+2026-05-02,CP-130,Plástico,PROV_A,100,KG,,Efectivo,RECIBIDO,Media
+2026.02.27,CP-482,Plástico,Proveedor A, 200,Libras,33 USD,Transf,En transito,Urgente
+18/06/2026,CP-692,Plástico,PROV_B,100,Libras,193 USD,Tjta,RECIBIDO,Alta
+07/03/2026,CP-792,Acero,Proveedor A,quinientos,Lts,309 USD,Tarjeta,En transito,Media
+13/06/2026,CP-382,Tornillos,Prov_A,300 ,unid,466 USD,Transf,Cancelado,Media
+2026-06-17,CP-208,Tornillos,Prov_A,100,,100 USD,Transferencia,Recibido,Urgente
+13/02/2026,CP-654,Plástico,PROV_B, 200,Libras,83 USD,Transf,En transito,Media
+2026-02-26,CP-330,Pintura,PROV_A,400,Libras,404 USD,Transferencia,RECIBIDO,Urgente
+2026-05-20,CP-809,Plástico,PROV_B,100,Lts,458 USD,Tjta,En transito,Media
+2026.01.26,CP-588,Plástico,prov_b, 200,Libras,364 USD,Transferencia,En transito,Baja
+2026-03-19,CP-601,Aluminio,Prov_A,quinientos,kg,220 USD,Transferencia,Recibido,Media
+2026.05.15,CP-781,Tornillos,Prov_A,400,kg,140 USD,Transf,En transito,Media
+23/01/2026,CP-318,Pintura,PROV_B,400,kg,306 USD,Transf,En transito,Alta
+30/01/2026,CP-980,Pintura,Prov_A,300 ,Libras,427 USD,Transf,RECIBIDO,Urgente
+2026.04.14,CP-376,Tornillos,,300 ,unid,324 USD,Transferencia,En transito,Urgente
+2026.03.13,CP-930,Acero,Prov_A,300 ,unid,231 USD,Efectivo,Cancelado,Alta
+02/01/2026,CP-183,Plástico,PROV_B,quinientos,KG,350 USD,Transf,Cancelado,Baja
+13/04/2026,CP-400,Tornillos,Proveedor A,,KG,170 USD,Tarjeta,En transito,Alta
+2026-05-10,CP-700,Acero,Proveedor A,quinientos,Lts,171 USD,Transf,En transito,
+2026.06.09,CP-868,Aluminio,prov_b,quinientos,unid,474 USD,Transf,En transito,Urgente
+2026-01-29,CP-461,Acero,PROV_B,400,unid,175 USD,Transf,En transito,Baja
+04/05/2026,CP-939,Acero,Prov_A, 200,unid,195 USD,Tarjeta,En transito,Urgente
+06/04/2026,CP-389,Acero,prov_b,400,unid,303 USD,Efectivo,Recibido,Baja
+2026-06-18,CP-706,Tornillos,PROV_B,quinientos,kg,111 USD,Transferencia,Recibido,Media
+2026-01-13,CP-342,Plástico,PROV_B,400,KG,486 USD,Efectivo,RECIBIDO,Alta
+2026-02-02,CP-845,Plástico,Proveedor A,400,Libras,174 USD,Transf,RECIBIDO,Urgente
+08/02/2026,CP-303,Acero,PROV_A,quinientos,Lts,420 USD,Transf,RECIBIDO,Baja
+2026.01.11,CP-893,Tornillos,PROV_A,400,Lts,255 USD,Transf,RECIBIDO,Urgente
+2026.05.05,,Tornillos,Proveedor A, 200,Libras,226 USD,Transferencia,Recibido,Alta
+2026.03.09,CP-401,Plástico,Proveedor A,100,unid,343 USD,Tjta,,Baja
+06/02/2026,CP-710,Tornillos,Prov_A,400,unid,495 USD,Transferencia,En transito,Baja
+12/03/2026,CP-363,Pintura,PROV_B,300 ,kg,,Transf,RECIBIDO,Baja
+2026-01-20,CP-163,Aluminio,Prov_A,300 ,KG,76 USD,Transf,Recibido,Media
+12/06/2026,CP-759,Acero,PROV_A, 200,KG,114 USD,Efectivo,En transito,Media
+2026.01.26,CP-613,Aluminio,prov_b,100,Lts,265 USD,Transf,En transito,Baja
+2026.06.10,CP-668,Pintura,PROV_A,100,kg,310 USD,Transferencia,Cancelado,Baja
+06/03/2026,CP-365,Aluminio,Proveedor A,100,KG,,Tarjeta,Cancelado,
+2026.01.26,CP-387,Pintura,prov_b,100,kg,498 USD,Tarjeta,Recibido,Media
+2026-06-26,CP-701,Aluminio,PROV_B,400,KG,237 USD,Tjta,RECIBIDO,Baja
+03/01/2026,CP-692,Aluminio,PROV_A,400,Lts,345 USD,Tarjeta,Recibido,Media
+05/04/2026,CP-516,Tornillos,prov_b,300 ,unid,245 USD,Transferencia,Recibido,Urgente
+2026-03-09,CP-946,Tornillos,PROV_B, 200,KG,208 USD,Tjta,Cancelado,Urgente
+17/02/2026,CP-534,Acero,PROV_B,quinientos,unid,222 USD,Transf,Recibido,Baja
+2026-03-09,CP-202,Tornillos,PROV_A,100,Libras,257 USD,Tjta,RECIBIDO,Alta
+10/06/2026,CP-357,Aluminio,Prov_A,quinientos,,263 USD,Tjta,Recibido,Baja
+31/03/2026,CP-435,Pintura,PROV_B,300 ,Libras,194 USD,Efectivo,Cancelado,Urgente
+2026-02-16,CP-638,Aluminio,prov_b,400,kg,475 USD,Transf,RECIBIDO,Urgente
+2026.06.06,CP-191,Acero,PROV_B,100,Libras,57 USD,Transf,RECIBIDO,Alta
+29/01/2026,CP-362,Acero,prov_b,300 ,unid,143 USD,Transferencia,Cancelado,Baja
+13/03/2026,CP-742,Acero,PROV_A, 200,Libras,117 USD,Tarjeta,Recibido,Alta
+27/01/2026,CP-468,Acero,Proveedor A, 200,Lts,414 USD,Transferencia,Recibido,Baja
+11/04/2026,CP-418,Pintura,PROV_A, 200,kg,434 USD,Tjta,RECIBIDO,Baja
+2026.01.19,,Tornillos,prov_b,300 ,unid,255 USD,Transf,Cancelado,Urgente
+08/02/2026,CP-786,Acero,Prov_A,100,Libras,281 USD,Transf,Cancelado,Urgente
+2026-06-22,CP-558,Tornillos,PROV_A, 200,kg,386 USD,Transferencia,RECIBIDO,Baja
+2026-06-06,CP-713,Tornillos,PROV_A,100,KG,275 USD,Transferencia,Recibido,Urgente
+2026.05.13,CP-938,Plástico,PROV_A, 200,KG,334 USD,Transferencia,Cancelado,Urgente
+2026-01-03,CP-265,Acero,PROV_A,300 ,kg,68 USD,,Cancelado,Baja
+2026.01.27,CP-636,Tornillos,PROV_A,quinientos,KG,241 USD,Transferencia,RECIBIDO,Alta
+2026-05-17,CP-574,Tornillos,Proveedor A,400,unid,276 USD,Tjta,Cancelado,Media
+18/01/2026,,Plástico,Proveedor A,100,Libras,376 USD,Efectivo,Recibido,Baja
+16/02/2026,CP-738,Acero,PROV_A, 200,Libras,328 USD,Tarjeta,En transito,Baja
+2026-01-23,CP-201,Plástico,PROV_B, 200,Lts,96 USD,Efectivo,RECIBIDO,Urgente
+28/02/2026,CP-258,Acero,prov_b,quinientos,KG,117 USD,Tarjeta,En transito,Urgente
+2026-01-22,CP-702,Acero,Proveedor A,400,Libras,89 USD,Efectivo,En transito,Alta
+04/04/2026,CP-895,Acero,PROV_B,100,kg,307 USD,Efectivo,En transito,Media
+2026.01.17,CP-151,Tornillos,Proveedor A,100,Libras,443 USD,Transferencia,Recibido,Baja
+2026-01-05,CP-763,Plástico,prov_b, 200,KG,349 USD,Tarjeta,RECIBIDO,Baja
+2026-06-18,CP-168,Acero,PROV_B,quinientos,kg,38 USD,Efectivo,Recibido,Alta
+2026.01.31,CP-713,Plástico,Proveedor A,100,KG,221 USD,Transferencia,Cancelado,Media
+2026-03-23,CP-837,Plástico,Proveedor A,300 ,KG,418 USD,Transferencia,,Urgente
+25/06/2026,CP-963,Acero,Prov_A,quinientos,Libras,363 USD,Efectivo,Recibido,Baja
+2026.01.01,CP-526,Tornillos,Prov_A,quinientos,KG,336 USD,Efectivo,RECIBIDO,Alta
+2026-02-12,CP-108,Aluminio,Prov_A,,Libras,308 USD,Transferencia,En transito,Media
+2026-01-31,CP-232,Acero,PROV_A,100,KG,464 USD,Transferencia,Recibido,Baja
+04/04/2026,CP-990,,Prov_A,400,Lts,88 USD,Transferencia,RECIBIDO,Media
+2026.04.10,CP-582,Tornillos,Proveedor A,quinientos,Libras,461 USD,Transf,RECIBIDO,Urgente
+,CP-408,Tornillos,prov_b,quinientos,kg,346 USD,Efectivo,En transito,Baja
+23/01/2026,CP-120,Pintura,prov_b,300 ,KG,467 USD,Efectivo,RECIBIDO,Baja
+2026.05.01,CP-703,Acero,Proveedor A,quinientos,Libras,249 USD,Transferencia,RECIBIDO,Alta
+2026-05-05,CP-162,Pintura,PROV_A, 200,unid,141 USD,Transf,Recibido,Urgente
+09/04/2026,CP-808,Plástico,Proveedor A,100,kg,152 USD,Efectivo,Cancelado,Media
+2026.04.22,CP-623,Aluminio,Prov_A,100,Lts,146 USD,Efectivo,Recibido,Urgente
+2026.03.23,CP-834,Tornillos,PROV_B,300 ,KG,432 USD,Transf,Recibido,
+2026.01.14,CP-378,Acero,prov_b, 200,unid,314 USD,Tjta,En transito,Media
+01/06/2026,CP-407,Aluminio,prov_b, 200,KG,141 USD,Tjta,RECIBIDO,Baja
+07/04/2026,CP-965,Tornillos,Proveedor A,quinientos,Lts,479 USD,Transferencia,Cancelado,
+,CP-769,Plástico,, 200,KG,134 USD,Tjta,RECIBIDO,Alta
+2026-05-21,CP-380,Pintura,PROV_A,300 ,kg,459 USD,Tarjeta,RECIBIDO,Urgente
+2026.03.09,CP-793,Tornillos,Proveedor A,100,unid,106 USD,Tarjeta,RECIBIDO,Media
+2026-06-04,CP-632,Tornillos,prov_b, 200,Libras,446 USD,Tarjeta,Cancelado,Alta
+13/05/2026,CP-583,Aluminio,prov_b,100,Libras,426 USD,Efectivo,En transito,Media
+2026.01.23,CP-792,Aluminio,prov_b,400,kg,227 USD,Efectivo,Cancelado,Alta
+2026.02.04,CP-163,Pintura,Prov_A,100,KG,424 USD,,Recibido,Baja
+2026-05-09,CP-626,Pintura,Prov_A,100,KG,93 USD,Transf,RECIBIDO,Alta
+26/06/2026,CP-446,Acero,prov_b,300 ,kg,347 USD,Transferencia,En transito,Urgente
+2026-06-08,CP-401,Tornillos,PROV_A,quinientos,kg,133 USD,Efectivo,En transito,Baja
+2026-01-04,CP-167,Aluminio,PROV_B,300 ,KG,,Transferencia,RECIBIDO,Alta
+18/06/2026,CP-505,Tornillos,PROV_A,100,unid,33 USD,Tjta,Cancelado,Baja
+2026-01-25,CP-547,Aluminio,Proveedor A,100,unid,179 USD,Transf,RECIBIDO,Urgente
+21/01/2026,CP-725,Acero,Prov_A, 200,KG,338 USD,Transferencia,Recibido,Baja
+23/06/2026,CP-198,,Prov_A, 200,Libras,416 USD,Tarjeta,RECIBIDO,Media
+2026-06-16,CP-732,Plástico,PROV_A,100,kg,198 USD,Transf,En transito,Urgente
+2026-06-25,CP-114,Plástico,Prov_A,100,Lts,170 USD,Tjta,Recibido,Urgente
+2026-04-25,CP-850,Plástico,Proveedor A, 200,Libras,90 USD,Tarjeta,En transito,Media
+13/05/2026,CP-621,Tornillos,PROV_A,100,KG,246 USD,Tarjeta,Recibido,Urgente
+2026.02.16,CP-739,Plástico,prov_b, 200,KG,179 USD,Efectivo,Recibido,Baja
+2026.01.16,CP-648,Acero,PROV_A,400,unid,354 USD,Efectivo,Cancelado,Baja
+2026.03.09,CP-846,Tornillos,, 200,unid,80 USD,Efectivo,Recibido,Alta
+2026-04-20,CP-436,Pintura,prov_b,400,KG,110 USD,,En transito,Urgente
+2026.04.01,CP-343,Tornillos,PROV_A,quinientos,Libras,28 USD,Efectivo,RECIBIDO,Alta
+06/02/2026,CP-570,Aluminio,prov_b,300 ,Libras,200 USD,Transferencia,Recibido,Urgente
+2026-06-16,CP-777,Acero,,400,unid,339 USD,Tjta,RECIBIDO,Urgente
+2026-05-24,CP-603,Tornillos,PROV_B,300 ,KG,246 USD,Transferencia,Cancelado,Baja
+2026.01.03,CP-545,Aluminio,prov_b,100,unid,38 USD,Efectivo,Recibido,Media
+2026.01.08,CP-566,Pintura,PROV_B,400,Lts,185 USD,Efectivo,Recibido,Urgente
+2026-02-07,CP-218,Plástico,PROV_B,300 ,unid,401 USD,Tarjeta,RECIBIDO,Alta
+,CP-339,Pintura,PROV_A,300 ,Lts,432 USD,Tjta,En transito,Alta
+2026-01-18,CP-772,Aluminio,PROV_A,quinientos,kg,59 USD,,En transito,Alta
+27/04/2026,CP-174,Tornillos,,100,Lts,393 USD,Tjta,RECIBIDO,Media
+2026-02-11,CP-890,Aluminio,prov_b,100,Lts,460 USD,Tarjeta,En transito,Alta
+17/03/2026,CP-629,Pintura,prov_b,300 ,kg,390 USD,Transferencia,Cancelado,Baja
+2026-04-10,CP-252,Plástico,prov_b,300 ,unid,338 USD,Transf,En transito,Baja
+2026.03.27,CP-203,Acero,Prov_A,100,KG,479 USD,Tjta,RECIBIDO,Alta
+2026.04.29,CP-789,Acero,PROV_A,400,unid,181 USD,Tarjeta,RECIBIDO,Alta
+09/01/2026,CP-260,Tornillos,PROV_B,quinientos,kg,41 USD,,Recibido,Media
+16/02/2026,CP-924,Aluminio,Prov_A, 200,unid,184 USD,Transf,En transito,Urgente
+2026-03-06,CP-370,Aluminio,PROV_A,400,unid,472 USD,Tarjeta,Cancelado,Baja
+2026-04-12,CP-194,Aluminio,Prov_A,100,Lts,215 USD,Tjta,En transito,Alta
+19/04/2026,CP-638,Pintura,PROV_B,quinientos,Lts,42 USD,Tarjeta,RECIBIDO,Alta
+2026.01.26,CP-750,Pintura,PROV_A,quinientos,,347 USD,Transf,En transito,Baja
+2026-03-09,CP-643,Plástico,PROV_B,400,Lts,414 USD,Tarjeta,Recibido,Urgente
+2026-01-09,CP-374,Aluminio,PROV_B, 200,unid,367 USD,,En transito,Baja
+2026.03.28,CP-582,Acero,prov_b, 200,,351 USD,Efectivo,RECIBIDO,Urgente
+07/01/2026,CP-966,Tornillos,PROV_A,100,unid,266 USD,Tarjeta,En transito,Alta
+28/06/2026,CP-694,Aluminio,PROV_B,100,KG,291 USD,Transf,En transito,Urgente
+10/03/2026,CP-774,Acero,Proveedor A,400,unid,56 USD,Transf,En transito,Media
+2026.04.29,,Pintura,Proveedor A,300 ,unid,175 USD,Efectivo,RECIBIDO,Baja
+2026.05.06,CP-528,Aluminio,PROV_A,quinientos,Libras,333 USD,Tarjeta,Recibido,Baja
+30/01/2026,CP-467,Plástico,PROV_A,300 ,unid,276 USD,Tarjeta,Recibido,Alta
+14/01/2026,CP-508,Pintura,prov_b, 200,kg,417 USD,Transferencia,RECIBIDO,Alta
+2026-04-28,CP-456,Aluminio,prov_b,quinientos,,370 USD,Tarjeta,RECIBIDO,Urgente
+2026.01.01,CP-959,,PROV_B,300 ,Lts,319 USD,,,Urgente
+14/04/2026,CP-754,Aluminio,PROV_B, 200,kg,297 USD,Tjta,RECIBIDO,
+2026.03.03,CP-744,Tornillos,prov_b,300 ,unid,357 USD,Efectivo,RECIBIDO,Urgente
+2026.06.03,CP-398,Plástico,Proveedor A,300 ,KG,48 USD,Tjta,En transito,Urgente
+08/06/2026,CP-325,Aluminio,PROV_A,100,kg,369 USD,Tjta,Cancelado,Baja
+2026.01.23,CP-802,Tornillos,PROV_B,quinientos,KG,495 USD,Tjta,Recibido,Urgente
+2026-05-14,CP-214,Acero,PROV_A,300 ,Libras,414 USD,Tarjeta,Recibido,Alta
+2026.05.28,CP-294,Acero,prov_b,400,Libras,122 USD,Tarjeta,Recibido,Media
+30/05/2026,CP-637,Aluminio,prov_b, 200,unid,433 USD,Tarjeta,Cancelado,Media
+18/05/2026,,Tornillos,PROV_A,300 ,unid,116 USD,Tarjeta,En transito,Urgente
+05/05/2026,CP-329,Tornillos,PROV_B,quinientos,KG,250 USD,Transferencia,,Media
+20/01/2026,CP-818,Pintura,Proveedor A,100,Libras,105 USD,Transf,Recibido,Baja
+14/06/2026,CP-250,Plástico,prov_b,quinientos,Libras,294 USD,Transferencia,En transito,Media
+2026.03.02,CP-797,Acero,Prov_A,100,Libras,161 USD,Transf,Recibido,Media
+2026-03-16,CP-263,Tornillos,prov_b, 200,unid,166 USD,Tjta,Cancelado,Baja
+18/02/2026,CP-120,Tornillos,PROV_A, 200,Lts,64 USD,Tarjeta,En transito,Urgente
+2026.05.22,CP-452,Acero,prov_b, 200,unid,202 USD,Tarjeta,Cancelado,Baja
+2026.01.11,CP-525,Pintura,,quinientos,KG,282 USD,Tarjeta,En transito,Media
+2026.05.04,CP-601,,PROV_B,quinientos,Libras,329 USD,Tarjeta,En transito,Urgente
+2026.02.27,CP-821,Acero,prov_b,400,KG,326 USD,Tarjeta,RECIBIDO,Baja
+2026-03-10,CP-337,Aluminio,PROV_B, 200,KG,408 USD,Tjta,Recibido,Media
+2026.05.27,CP-533,Pintura,Prov_A,300 ,KG,411 USD,Efectivo,Recibido,Alta
+2026-03-03,CP-384,Tornillos,PROV_A,quinientos,Lts,302 USD,Transf,RECIBIDO,Media
+,CP-681,Pintura,PROV_A,,KG,380 USD,Transferencia,En transito,Alta
+06/05/2026,CP-647,Tornillos,Proveedor A,quinientos,KG,249 USD,Efectivo,RECIBIDO,Urgente
+22/06/2026,CP-310,Aluminio,PROV_B,quinientos,KG,12 USD,Efectivo,Cancelado,Urgente
+2026-06-10,CP-125,Aluminio,PROV_B,quinientos,unid,289 USD,Tjta,Cancelado,Baja
+29/03/2026,CP-744,Tornillos,prov_b, 200,KG,61 USD,Tarjeta,Cancelado,Alta
+2026-06-16,CP-276,Tornillos,PROV_A,300 ,Libras,16 USD,Efectivo,Recibido,Urgente
+2026.01.01,CP-163,Aluminio,PROV_A,,kg,347 USD,Efectivo,En transito,Media
+23/03/2026,CP-244,Tornillos,Prov_A,quinientos,unid,279 USD,Tjta,Cancelado,Media
+23/01/2026,CP-739,Plástico,Proveedor A, 200,Libras,221 USD,Tarjeta,Recibido,Media
+03/01/2026,CP-239,Tornillos,Proveedor A,400,unid,143 USD,Tarjeta,Cancelado,Alta
+21/02/2026,CP-424,Pintura,prov_b, 200,kg,112 USD,Tarjeta,En transito,Media
+26/02/2026,CP-720,Tornillos,prov_b, 200,kg,180 USD,Transf,Cancelado,Urgente
+2026.06.08,,Acero,prov_b,300 ,Lts,196 USD,Efectivo,,Alta
+2026.02.03,CP-823,Aluminio,Proveedor A, 200,kg,429 USD,Tjta,RECIBIDO,Urgente
+25/01/2026,CP-462,Tornillos,PROV_A,100,unid,,Transferencia,Recibido,Baja
+2026-01-16,CP-477,Aluminio,prov_b,quinientos,KG,23 USD,Transf,Recibido,Media
+07/01/2026,CP-740,Acero,Prov_A,300 ,kg,145 USD,Transf,Cancelado,Media
+04/06/2026,CP-224,Acero,PROV_B,100,Lts,84 USD,Efectivo,RECIBIDO,Alta
+11/04/2026,CP-285,Acero,PROV_B, 200,Lts,19 USD,Transferencia,Recibido,Urgente
+2026-01-23,CP-328,Pintura,Prov_A,100,KG,320 USD,Transferencia,Recibido,Baja
+2026.06.29,CP-785,Tornillos,PROV_A,quinientos,kg,213 USD,Tjta,Recibido,Urgente
+2026-03-29,CP-645,Tornillos,Proveedor A,100,Libras,346 USD,Tarjeta,En transito,Media
+06/05/2026,CP-120,Aluminio,Proveedor A,quinientos,KG,29 USD,Transferencia,RECIBIDO,Baja
+2026-02-25,CP-615,Acero,prov_b,quinientos,Libras,61 USD,Transf,,Media
+2026-06-13,CP-818,Tornillos,PROV_B, 200,unid,313 USD,Transf,En transito,Baja
+25/03/2026,CP-427,Acero,PROV_B,300 ,Libras,224 USD,Efectivo,Cancelado,Media
+2026-03-03,CP-664,Acero,PROV_A,300 ,Libras,295 USD,,RECIBIDO,Urgente
+2026.04.28,CP-253,Plástico,PROV_A,100,KG,467 USD,Tarjeta,Recibido,Media
+,CP-201,Acero,PROV_B,300 ,KG,334 USD,Tjta,Recibido,Media
+2026.06.06,CP-649,Plástico,PROV_A, 200,Lts,25 USD,Transf,RECIBIDO,Alta
+29/04/2026,CP-181,Plástico,PROV_B, 200,KG,495 USD,Tjta,Cancelado,Alta
+2026.01.10,CP-384,Tornillos,Prov_A,quinientos,kg,447 USD,Transf,En transito,Alta
+02/04/2026,CP-947,Acero,Prov_A, 200,Libras,247 USD,Tjta,Cancelado,Urgente
+2026.04.21,CP-479,Aluminio,PROV_A, 200,,128 USD,Transf,RECIBIDO,Alta
+2026.03.10,CP-435,Tornillos,prov_b,100,Libras,115 USD,Transferencia,Recibido,Baja
+21/03/2026,CP-688,Tornillos,Proveedor A,400,KG,67 USD,Transf,En transito,Media
+2026-01-03,CP-894,Aluminio,PROV_A,100,KG,174 USD,Efectivo,Recibido,Media
+,CP-605,Plástico,PROV_B, 200,KG,277 USD,Tarjeta,Cancelado,Alta
+2026-01-16,CP-119,Acero,PROV_B,300 ,unid,181 USD,Tarjeta,RECIBIDO,Urgente
+2026-03-05,CP-943,Plástico,PROV_A,300 ,Lts,52 USD,Transferencia,Recibido,Urgente
+2026-05-05,CP-822,Tornillos,Prov_A,400,Libras,310 USD,Efectivo,Recibido,Media
+20/01/2026,CP-596,Plástico,PROV_B, 200,unid,263 USD,Tjta,Cancelado,Alta
+19/03/2026,CP-720,Aluminio,prov_b,quinientos,KG,428 USD,Efectivo,En transito,Alta
+31/03/2026,CP-740,Acero,prov_b, 200,unid,176 USD,Efectivo,RECIBIDO,Baja
+,CP-177,Aluminio,prov_b,400,Lts,366 USD,Tjta,Recibido,Alta
+2026-05-27,CP-980,Aluminio,Proveedor A, 200,kg,420 USD,Efectivo,Recibido,Urgente
+12/01/2026,CP-384,Pintura,PROV_B, 200,Libras,21 USD,Transf,,Alta
+29/01/2026,CP-644,Pintura,Proveedor A,300 ,unid,129 USD,Efectivo,Cancelado,Alta
+15/04/2026,CP-305,Pintura,Proveedor A,300 ,Lts,186 USD,Transferencia,Cancelado,Baja
+2026.01.19,CP-532,Pintura,Proveedor A, 200,KG,434 USD,Efectivo,RECIBIDO,Alta
+30/05/2026,CP-966,Aluminio,prov_b,300 ,kg,212 USD,Transf,Recibido,Baja
+2026.03.19,CP-138,Pintura,PROV_B,300 ,kg,330 USD,Transf,En transito,Urgente
+2026-02-25,CP-428,Aluminio,Proveedor A,400,Libras,49 USD,Transferencia,En transito,Media
+2026-06-21,CP-367,Tornillos,PROV_B,quinientos,Libras,483 USD,Transf,Cancelado,Baja
+2026.06.26,CP-615,Acero,Proveedor A,300 ,Libras,285 USD,Efectivo,RECIBIDO,Baja
+30/06/2026,CP-145,Plástico,PROV_B,300 ,Lts,295 USD,Transf,En transito,Media
+2026-03-07,CP-554,Acero,prov_b,300 ,unid,122 USD,Efectivo,Recibido,Baja
+06/05/2026,CP-578,Pintura,PROV_A,300 ,kg,313 USD,Tarjeta,En transito,Media
+20/01/2026,CP-631,Tornillos,prov_b,400,Libras,107 USD,Tjta,En transito,Baja
+2026.06.06,CP-535,Tornillos,PROV_A,quinientos,unid,478 USD,Transferencia,RECIBIDO,Baja
+19/06/2026,CP-686,Tornillos,PROV_B,quinientos,Lts,129 USD,Transferencia,Recibido,Alta
+2026.02.25,CP-793,Aluminio,Proveedor A, 200,Lts,400 USD,Transferencia,Recibido,Baja
+28/05/2026,CP-652,Plástico,prov_b,100,kg,122 USD,Transf,RECIBIDO,Urgente
+2026.04.12,CP-575,Plástico,Prov_A, 200,unid,387 USD,Transferencia,RECIBIDO,Baja
+2026.01.27,CP-144,Pintura,Prov_A, 200,Lts,475 USD,Tjta,RECIBIDO,Alta
+15/06/2026,CP-742,Aluminio,Proveedor A,300 ,unid,91 USD,Transferencia,En transito,Media
+2026.05.06,CP-513,Aluminio,,quinientos,unid,165 USD,Efectivo,Recibido,Alta
+2026.05.24,CP-839,Pintura,Prov_A, 200,Lts,403 USD,Transferencia,En transito,Urgente
+,CP-648,Aluminio,Prov_A,400,Lts,134 USD,Transferencia,Cancelado,Baja
+2026-01-28,CP-685,Tornillos,, 200,Libras,367 USD,Tarjeta,Recibido,Media
+2026-03-26,CP-300,Plástico,prov_b, 200,Lts,244 USD,Transf,RECIBIDO,Baja
+2026-03-17,CP-161,Aluminio,PROV_A,100,Libras,380 USD,Efectivo,En transito,Urgente
+2026-05-05,CP-547,Tornillos,Proveedor A,400,Lts,283 USD,Efectivo,RECIBIDO,Alta
+2026.01.11,CP-617,,Prov_A,300 ,KG,247 USD,Tjta,RECIBIDO,Baja
+,CP-931,Pintura,PROV_A, 200,Lts,348 USD,Tarjeta,RECIBIDO,Media
+13/05/2026,CP-585,Plástico,Prov_A, 200,kg,79 USD,Tarjeta,Recibido,Baja
+2026.02.10,CP-931,Acero,PROV_A,300 ,Lts,,Tjta,Cancelado,Alta
+29/01/2026,CP-141,Tornillos,Proveedor A,100,kg,482 USD,Tjta,RECIBIDO,Media
+2026.06.30,CP-659,Tornillos,PROV_A, 200,Lts,325 USD,Tarjeta,En transito,Baja
+04/02/2026,CP-956,Aluminio,PROV_B,quinientos,Lts,342 USD,Transf,En transito,Media
+2026-01-05,CP-255,Plástico,Prov_A,400,Libras,367 USD,Efectivo,RECIBIDO,Baja
+2026.02.16,CP-193,Aluminio,PROV_A, 200,unid,165 USD,Transf,Cancelado,Urgente
+2026.01.23,CP-340,Plástico,Prov_A,300 ,KG,425 USD,Tjta,Cancelado,Urgente
+06/03/2026,CP-640,Pintura,prov_b,300 ,unid,134 USD,Efectivo,En transito,Alta
+2026-05-05,CP-195,Plástico,Proveedor A,100,KG,244 USD,Transf,RECIBIDO,Alta
+2026.02.24,CP-129,Plástico,PROV_A,quinientos,KG,404 USD,Transferencia,Cancelado,Alta
+2026.02.05,,Aluminio,Proveedor A, 200,Libras,111 USD,Tjta,Cancelado,Baja
+2026.03.22,CP-992,Plástico,,,Lts,188 USD,Tarjeta,En transito,Baja
+28/01/2026,CP-583,Pintura,prov_b,400,Lts,82 USD,Tarjeta,Cancelado,Alta
+2026.04.08,CP-986,Pintura,PROV_B,quinientos,Libras,119 USD,Tjta,Cancelado,Media
+2026-05-10,CP-650,Tornillos,prov_b, 200,KG,,Tarjeta,Recibido,Baja
+10/02/2026,CP-356,Acero,PROV_B,100,KG,350 USD,Transferencia,RECIBIDO,Urgente
+2026-01-11,CP-355,Plástico,PROV_A,400,kg,63 USD,Transferencia,RECIBIDO,Urgente
+2026-04-03,CP-475,Plástico,PROV_A,quinientos,kg,371 USD,Tjta,Cancelado,Urgente
+21/01/2026,CP-751,Tornillos,prov_b,400,Lts,,Efectivo,Recibido,Media
+2026-04-05,CP-126,Acero,Proveedor A,400,KG,266 USD,,Cancelado,Media
+2026-05-05,CP-590,Aluminio,Prov_A,400,kg,420 USD,Tjta,,Baja
+2026.05.29,CP-343,Pintura,Proveedor A,quinientos,Lts,327 USD,Tarjeta,RECIBIDO,Media
+2026.01.01,CP-910,Aluminio,Proveedor A,quinientos,kg,302 USD,Transferencia,RECIBIDO,Baja
+2026.03.21,CP-794,Tornillos,PROV_A,quinientos,Libras,49 USD,Tarjeta,RECIBIDO,Baja
+2026-02-25,CP-947,Tornillos,Proveedor A,300 ,Lts,294 USD,Efectivo,Recibido,Urgente
+,CP-331,Tornillos,Proveedor A,300 ,KG,16 USD,Efectivo,RECIBIDO,Baja
+2026.06.02,CP-750,Aluminio,Proveedor A,400,Libras,463 USD,Tarjeta,Recibido,Alta
+2026-05-15,CP-714,Plástico,PROV_B, 200,kg,249 USD,Efectivo,RECIBIDO,Urgente
+2026-04-01,CP-121,Tornillos,PROV_B,quinientos,Libras,293 USD,Transf,Recibido,Urgente
+2026-01-09,CP-307,Plástico,PROV_B, 200,unid,220 USD,Efectivo,Cancelado,Baja
+2026.01.24,CP-366,Pintura,Proveedor A,300 ,unid,226 USD,Transf,RECIBIDO,Alta
+10/06/2026,CP-523,Plástico,Proveedor A,100,Libras,264 USD,Transf,Cancelado,Urgente
+19/03/2026,CP-825,Aluminio,Proveedor A,quinientos,kg,400 USD,Efectivo,Recibido,Baja
+2026-03-29,,Pintura,Proveedor A,quinientos,KG,373 USD,Efectivo,Cancelado,Alta
+2026-04-11,CP-764,Aluminio,PROV_B,100,Lts,477 USD,Transf,Cancelado,Alta
+2026.04.07,CP-620,Acero,PROV_A,quinientos,kg,194 USD,Transferencia,En transito,Media
+2026-03-29,CP-916,Aluminio,PROV_A,100,Lts,457 USD,Transf,En transito,Urgente
+2026.02.17,CP-303,Acero,PROV_B,quinientos,unid,468 USD,Efectivo,Cancelado,Baja
+15/05/2026,CP-913,Plástico,prov_b,quinientos,Libras,302 USD,Transferencia,Recibido,Media
+2026.04.26,CP-108,Pintura,PROV_A,300 ,Lts,391 USD,Tjta,En transito,Baja
+27/04/2026,CP-985,Acero,PROV_B,300 ,Lts,347 USD,Tarjeta,Recibido,Media
+13/02/2026,CP-895,Plástico,PROV_B, 200,Libras,469 USD,Transferencia,RECIBIDO,Alta
+2026-06-02,CP-420,Tornillos,prov_b,400,Libras,229 USD,Transferencia,En transito,Alta
+2026-05-13,CP-465,Plástico,prov_b,100,KG,428 USD,Transferencia,Recibido,Media
+2026-05-28,CP-892,Aluminio,Prov_A,100,Libras,74 USD,Transf,En transito,Baja
+2026.06.07,CP-105,Pintura,prov_b,quinientos,KG,334 USD,Transferencia,Recibido,Urgente
+23/05/2026,CP-820,Plástico,prov_b,400,Lts,70 USD,Tjta,En transito,Media
+2026-02-24,CP-749,Pintura,Prov_A,100,Lts,337 USD,Transf,Recibido,Urgente
+28/05/2026,CP-169,Pintura,PROV_B,100,Lts,352 USD,Tjta,En transito,Baja
+2026.05.25,CP-561,Pintura,Proveedor A,300 ,Libras,181 USD,Transf,Recibido,Alta
+09/01/2026,,Tornillos,Prov_A,,Libras,222 USD,Tarjeta,RECIBIDO,Baja
+2026-01-02,,Acero,Proveedor A,400,KG,180 USD,Tjta,En transito,Media
+2026-03-24,CP-563,Acero,PROV_B,300 ,unid,270 USD,Efectivo,Cancelado,Alta
+2026-06-19,CP-670,Tornillos,PROV_B,400,Libras,426 USD,Transferencia,RECIBIDO,Media
+2026.02.25,CP-950,Pintura,Prov_A, 200,kg,195 USD,Tjta,En transito,Media
+2026-03-25,CP-507,Pintura,PROV_A,300 ,Libras,76 USD,Transf,Cancelado,Baja
+2026.04.25,CP-647,Pintura,PROV_B,100,Lts,147 USD,Tarjeta,Cancelado,Alta
+2026.01.18,CP-840,Aluminio,prov_b,100,,154 USD,Tjta,RECIBIDO,Media
+26/02/2026,CP-126,Tornillos,PROV_A,400,Lts,40 USD,Tjta,Cancelado,Urgente
+2026-05-09,CP-176,Aluminio,Proveedor A,300 ,kg,339 USD,Tarjeta,RECIBIDO,Alta
+22/03/2026,CP-470,Pintura,PROV_B,quinientos,Libras,45 USD,Efectivo,RECIBIDO,Urgente
+2026-05-20,CP-807,Aluminio,prov_b,quinientos,Libras,315 USD,Transferencia,Cancelado,Media
+13/02/2026,CP-363,Plástico,Proveedor A,quinientos,,224 USD,Tarjeta,Recibido,Alta
+17/02/2026,CP-919,Acero,PROV_B,300 ,Lts,320 USD,Tarjeta,En transito,Baja
+2026.01.17,CP-217,Plástico,Prov_A,300 ,Libras,311 USD,Efectivo,Cancelado,Urgente
+2026-01-12,CP-983,Acero,PROV_B,100,KG,43 USD,Efectivo,Cancelado,Urgente
+24/02/2026,CP-819,Pintura,PROV_A,400,unid,266 USD,Tarjeta,Cancelado,Alta
+2026-06-08,CP-654,Plástico,Proveedor A,300 ,Lts,482 USD,Tarjeta,RECIBIDO,Media
+15/06/2026,CP-600,Plástico,prov_b,300 ,unid,229 USD,Tjta,Recibido,Media
+16/01/2026,CP-954,Aluminio,prov_b,300 ,unid,313 USD,Efectivo,En transito,Urgente
+2026-01-22,CP-132,Tornillos,prov_b,400,kg,350 USD,Transf,Recibido,Urgente
+17/03/2026,CP-502,Plástico,PROV_A,300 ,Lts,292 USD,Tarjeta,Cancelado,Urgente
+2026-05-09,CP-459,Acero,Proveedor A,300 ,unid,23 USD,Transf,Cancelado,Baja
+2026.03.30,CP-265,Aluminio,PROV_A, 200,kg,67 USD,Transf,En transito,Urgente
+2026.04.18,CP-171,Plástico,PROV_A,quinientos,Lts,249 USD,Transf,Cancelado,Urgente
+19/06/2026,CP-695,Tornillos,Prov_A, 200,Libras,48 USD,Tjta,Recibido,Alta
+26/04/2026,CP-259,Plástico,Prov_A, 200,unid,359 USD,,Cancelado,Baja
+2026-03-25,CP-130,Tornillos,Proveedor A,300 ,Libras,197 USD,Tarjeta,RECIBIDO,Alta
+10/04/2026,CP-807,,prov_b,quinientos,unid,357 USD,,Recibido,Baja
+06/05/2026,CP-902,Aluminio,PROV_A,quinientos,Libras,144 USD,Transferencia,Cancelado,Media
+,CP-591,Aluminio,prov_b, 200,Lts,25 USD,Tarjeta,En transito,Alta
+2026.04.12,CP-843,Plástico,PROV_A,100,Libras,188 USD,Tarjeta,RECIBIDO,Alta
+17/03/2026,CP-217,Plástico,PROV_B,quinientos,kg,382 USD,Tarjeta,RECIBIDO,Urgente
+2026-04-15,CP-822,Plástico,PROV_A,quinientos,KG,216 USD,Tjta,,
+2026.06.12,CP-739,Acero,PROV_B,400,unid,284 USD,Tarjeta,Cancelado,Media
+27/02/2026,CP-703,Tornillos,prov_b,100,KG,287 USD,Transf,Recibido,Baja
+01/03/2026,CP-323,Aluminio,Prov_A,,Lts,181 USD,Tjta,Cancelado,Media
+2026.06.13,CP-154,Aluminio,Proveedor A,100,unid,114 USD,Tarjeta,RECIBIDO,Alta
+02/06/2026,CP-641,Aluminio,Prov_A,100,Libras,56 USD,Transferencia,Recibido,Baja
+2026.02.18,CP-506,Acero,PROV_B,100,kg,307 USD,Transferencia,En transito,Baja
+2026.02.13,CP-807,Pintura,Proveedor A,100,KG,12 USD,Tarjeta,Cancelado,Baja
+18/03/2026,CP-619,Tornillos,PROV_B,400,KG,388 USD,Efectivo,Cancelado,Alta
+2026.04.14,CP-487,Pintura,prov_b, 200,Libras,471 USD,,RECIBIDO,Media
+2026.06.25,CP-782,Aluminio,Prov_A,400,unid,447 USD,Efectivo,Cancelado,Media
+2026.06.27,CP-268,Acero,Proveedor A,400,unid,23 USD,Transferencia,En transito,Alta
+2026.06.14,CP-951,Plástico,PROV_A,quinientos,KG,441 USD,Transf,Recibido,Alta
+2026.03.29,CP-941,Plástico,Proveedor A,quinientos,Lts,358 USD,Efectivo,En transito,Alta
+2026-06-26,CP-792,Pintura,Proveedor A,400,unid,180 USD,Tjta,En transito,Baja
+2026-04-03,CP-556,Aluminio,PROV_B,300 ,unid,113 USD,Transf,En transito,Urgente
+2026-04-29,CP-128,Pintura,Proveedor A,100,unid,286 USD,Transferencia,Cancelado,Urgente
+01/05/2026,CP-683,Aluminio,prov_b, 200,kg,220 USD,Tarjeta,RECIBIDO,Urgente
+2026.01.18,CP-712,Pintura,PROV_A,400,KG,307 USD,Transf,Cancelado,Alta
+2026.03.19,CP-514,Plástico,Proveedor A,300 ,kg,190 USD,Tarjeta,Recibido,Alta
+04/03/2026,CP-545,Acero,Proveedor A,,Libras,355 USD,,RECIBIDO,Urgente
+2026-05-13,CP-608,Tornillos,PROV_A,quinientos,Libras,86 USD,Tjta,Recibido,Urgente
+24/03/2026,CP-993,Tornillos,Prov_A,300 ,KG,286 USD,Transferencia,En transito,Media
+2026-06-19,CP-392,Pintura,PROV_B,400,Lts,412 USD,Efectivo,Cancelado,
+2026.02.20,CP-366,Plástico,Proveedor A,300 ,KG,316 USD,Transferencia,RECIBIDO,Alta
+16/05/2026,CP-531,Tornillos,PROV_A,100,kg,101 USD,Transferencia,Recibido,Urgente
+,CP-175,Plástico,Prov_A,quinientos,unid,116 USD,Tjta,Cancelado,Media
+23/04/2026,CP-280,Plástico,Prov_A,400,Lts,351 USD,Tarjeta,Recibido,Alta
+2026-06-06,CP-876,Acero,Prov_A,300 ,KG,121 USD,Tarjeta,Cancelado,Urgente
+2026.03.26,CP-197,Acero,Proveedor A,400,KG,291 USD,Tarjeta,Cancelado,Urgente
+01/04/2026,CP-254,Aluminio,PROV_A,300 ,Libras,248 USD,Tjta,Recibido,Media
+11/02/2026,CP-105,Plástico,Prov_A,quinientos,Libras,389 USD,Transferencia,En transito,Baja
+2026.02.12,CP-746,Acero,prov_b,,,388 USD,Transferencia,Cancelado,Urgente
+2026.01.20,CP-634,Tornillos,PROV_A, 200,Lts,105 USD,Tarjeta,RECIBIDO,Baja
+2026.06.21,CP-151,,Prov_A, 200,KG,224 USD,Efectivo,En transito,Alta
+2026-02-17,CP-909,Pintura,Prov_A, 200,Libras,475 USD,Tjta,En transito,Alta
+12/06/2026,CP-481,Aluminio,Proveedor A,400,KG,43 USD,Tjta,RECIBIDO,Urgente
+01/04/2026,CP-390,Tornillos,Proveedor A,300 ,KG,373 USD,Efectivo,Cancelado,Alta
+15/06/2026,CP-178,Pintura,Prov_A,400,kg,338 USD,Tjta,Recibido,Media
+14/06/2026,CP-260,Plástico,PROV_B,300 ,Lts,313 USD,Efectivo,En transito,Urgente
+26/05/2026,CP-811,Pintura,PROV_A,400,kg,269 USD,Transf,RECIBIDO,Baja
+2026.01.12,CP-770,Plástico,PROV_B,400,kg,289 USD,Transf,Recibido,Baja
+2026.02.04,CP-557,Acero,Proveedor A,quinientos,Lts,122 USD,Transf,Recibido,Alta
+2026-05-02,CP-706,Plástico,prov_b,quinientos,kg,50 USD,Transf,En transito,Baja
+,CP-362,Tornillos,Proveedor A,400,Libras,107 USD,Transf,En transito,Media
+2026-05-24,CP-469,Tornillos,PROV_B,400,Lts,398 USD,Tjta,RECIBIDO,Alta
+07/01/2026,CP-977,Plástico,prov_b,quinientos,Lts,373 USD,Tarjeta,Recibido,Alta
+23/03/2026,CP-984,Pintura,PROV_B,100,KG,89 USD,Tarjeta,En transito,Alta
+04/04/2026,CP-415,Acero,PROV_B, 200,Libras,56 USD,Tjta,Cancelado,Alta
+25/03/2026,CP-720,Tornillos,Proveedor A,100,Libras,320 USD,Efectivo,En transito,Alta
+2026.05.20,CP-991,Tornillos,, 200,kg,171 USD,Tjta,En transito,Urgente
+23/05/2026,CP-939,Aluminio,prov_b,quinientos,unid,41 USD,,En transito,Urgente
+2026-03-20,CP-249,Aluminio,Prov_A,quinientos,unid,488 USD,Efectivo,RECIBIDO,Media
+2026-03-15,CP-276,Pintura,PROV_A,400,kg,226 USD,Transf,En transito,Urgente
+26/04/2026,CP-753,Aluminio,Proveedor A,quinientos,Libras,199 USD,Efectivo,Recibido,Media
+2026-05-18,CP-198,Aluminio,Prov_A,quinientos,unid,492 USD,Transferencia,Cancelado,Alta
+2026.01.06,CP-203,Pintura,PROV_B,100,unid,226 USD,Transferencia,Cancelado,Alta
+2026.03.31,CP-703,Pintura,prov_b,100,kg,251 USD,Efectivo,Cancelado,Alta
+21/01/2026,CP-266,Acero,PROV_A,100,,184 USD,Tjta,RECIBIDO,Media
+2026-03-26,CP-524,Tornillos,Prov_A,quinientos,Libras,203 USD,Tarjeta,Recibido,Urgente
+2026.02.11,CP-478,Acero,prov_b,100,unid,428 USD,,Cancelado,Urgente
+2026-05-02,CP-234,Aluminio,PROV_B,quinientos,Lts,198 USD,Transferencia,Cancelado,Alta
+2026-04-28,CP-379,Tornillos,PROV_B,100,Libras,152 USD,Tjta,Cancelado,Urgente
+2026.02.26,CP-875,Pintura,prov_b,quinientos,KG,111 USD,Transf,En transito,Baja
+2026-06-18,CP-633,Tornillos,PROV_B,300 ,Lts,223 USD,Efectivo,RECIBIDO,Urgente
+2026-01-23,CP-400,Plástico,PROV_B,300 ,Libras,24 USD,Transf,En transito,Baja
+2026-03-10,CP-575,Tornillos,PROV_B,quinientos,Libras,137 USD,Efectivo,En transito,Media
+27/06/2026,CP-420,Acero,Proveedor A, 200,Lts,53 USD,Transf,Cancelado,Media
+2026-04-10,CP-314,Aluminio,Prov_A,300 ,unid,498 USD,Tarjeta,RECIBIDO,Media
+2026.04.01,CP-131,Acero,prov_b,300 ,Libras,115 USD,Transf,Cancelado,Urgente
+2026-03-10,CP-234,Tornillos,Proveedor A,400,KG,495 USD,Efectivo,RECIBIDO,Baja
+2026-02-15,CP-106,Acero,PROV_B, 200,kg,26 USD,Transf,Cancelado,Alta
+2026-01-06,CP-160,Acero,Proveedor A,quinientos,KG,227 USD,Transferencia,Cancelado,Baja
+13/06/2026,CP-476,Pintura,prov_b, 200,Lts,172 USD,Tarjeta,RECIBIDO,Urgente
+27/01/2026,CP-516,Plástico,Prov_A,quinientos,Lts,184 USD,Transf,En transito,Media
+2026.01.10,CP-486,Aluminio,PROV_A, 200,KG,397 USD,Transferencia,Cancelado,Urgente
+23/06/2026,CP-799,Plástico,PROV_A,,unid,389 USD,Efectivo,En transito,Media
+2026-06-01,CP-842,Tornillos,prov_b,100,KG,89 USD,Tarjeta,Recibido,Baja
+22/04/2026,CP-405,Aluminio,PROV_A,100,kg,441 USD,Efectivo,Recibido,Urgente
+09/03/2026,CP-360,Acero,Proveedor A, 200,Lts,446 USD,Transferencia,RECIBIDO,Alta
+2026.06.30,CP-806,Tornillos,prov_b, 200,Libras,78 USD,Transf,En transito,
+2026-04-19,CP-942,Plástico,Proveedor A,300 ,kg,96 USD,Tarjeta,Recibido,Baja
+10/06/2026,CP-573,Acero,Proveedor A,300 ,kg,276 USD,Efectivo,RECIBIDO,Media
+2026.01.15,CP-817,Acero,Proveedor A,400,KG,433 USD,Efectivo,Recibido,Alta
+2026.06.11,CP-967,Pintura,Prov_A,300 ,kg,108 USD,Tarjeta,Cancelado,Alta
+2026-06-22,,Plástico,PROV_A,100,Lts,440 USD,Efectivo,En transito,Alta
+02/02/2026,CP-698,Acero,PROV_B, 200,Libras,223 USD,Efectivo,Cancelado,Alta
+2026.02.02,CP-409,Acero,Prov_A, 200,,245 USD,Tjta,En transito,Baja
+12/06/2026,CP-502,Aluminio,prov_b,300 ,kg,77 USD,Efectivo,RECIBIDO,Alta
+05/03/2026,CP-287,Aluminio,PROV_B,400,KG,86 USD,Tarjeta,RECIBIDO,Baja
+,CP-951,Acero,Proveedor A,300 ,kg,355 USD,Tjta,RECIBIDO,Media
+13/02/2026,CP-553,Acero,PROV_B,300 ,Libras,147 USD,Transferencia,Cancelado,Urgente
+23/04/2026,CP-278,Aluminio,Prov_A, 200,kg,457 USD,Efectivo,En transito,
+2026-03-01,CP-447,Plástico,Prov_A,100,Libras,86 USD,Tarjeta,Cancelado,Media
+2026.03.12,CP-850,Pintura,Prov_A,quinientos,Lts,352 USD,Tjta,Cancelado,Baja
+2026-04-12,CP-299,,PROV_B,400,Lts,,Transferencia,RECIBIDO,Media
+2026.02.07,CP-966,Pintura,Prov_A,100,Lts,247 USD,Efectivo,En transito,Media
+2026-03-12,CP-252,Aluminio,PROV_A, 200,KG,325 USD,Tarjeta,Cancelado,Baja
+2026-06-07,CP-783,,Prov_A,quinientos,kg,494 USD,Tjta,Cancelado,Media
+2026.01.20,CP-320,Acero,Proveedor A,300 ,Lts,322 USD,Transf,En transito,Urgente
+2026-03-20,CP-784,Aluminio,PROV_B,400,unid,290 USD,Tarjeta,Recibido,Urgente
+2026.06.24,CP-310,Plástico,Prov_A,400,unid,304 USD,Tjta,Recibido,Urgente
+2026-06-08,CP-923,Pintura,PROV_A, 200,kg,285 USD,Transf,Recibido,Urgente
+2026.03.07,CP-900,Aluminio,Proveedor A,100,kg,445 USD,Efectivo,En transito,Alta
+23/05/2026,CP-533,Plástico,PROV_A,100,kg,221 USD,,En transito,Baja
+2026-01-10,CP-309,Aluminio,Prov_A, 200,Lts,,Tarjeta,Recibido,Alta
+2026-06-10,CP-412,Acero,Proveedor A,quinientos,Libras,418 USD,Tjta,Recibido,Urgente
+2026-04-11,CP-524,Aluminio,Prov_A,400,KG,98 USD,Efectivo,Recibido,Urgente
+2026-02-05,CP-894,Aluminio,prov_b,300 ,unid,98 USD,Transf,En transito,Alta
+2026.06.23,CP-504,Aluminio,Prov_A,400,KG,171 USD,,RECIBIDO,Alta
+02/06/2026,CP-762,Acero,PROV_B,300 ,kg,364 USD,Transf,En transito,Alta
+2026-01-24,CP-843,Plástico,PROV_B,300 ,unid,462 USD,Transf,RECIBIDO,Baja
+2026.06.27,CP-633,Aluminio,prov_b,400,unid,310 USD,Transferencia,Cancelado,Alta
+12/02/2026,CP-590,Acero,PROV_A,100,Lts,409 USD,Transferencia,RECIBIDO,Alta
+27/01/2026,CP-532,Plástico,PROV_B,quinientos,Lts,270 USD,Tjta,Recibido,Alta
+2026-01-27,CP-215,Tornillos,prov_b,300 ,,327 USD,Transf,Cancelado,Baja
+2026.02.19,CP-199,Plástico,Proveedor A, 200,kg,146 USD,Transferencia,RECIBIDO,Baja
+24/05/2026,CP-313,Plástico,PROV_B,300 ,Lts,360 USD,,Cancelado,
+2026.04.16,CP-626,Plástico,,400,KG,39 USD,Tarjeta,RECIBIDO,Media
+15/01/2026,CP-263,Tornillos,PROV_B,300 ,Lts,23 USD,Tarjeta,RECIBIDO,Media
+2026-03-20,CP-936,Plástico,prov_b, 200,Libras,306 USD,Efectivo,Cancelado,Urgente
+01/05/2026,CP-670,,PROV_A,100,kg,21 USD,Transf,RECIBIDO,Baja
+2026-04-21,CP-875,Aluminio,PROV_B,100,Lts,150 USD,Tarjeta,En transito,Baja
+2026.06.16,CP-165,Tornillos,prov_b,quinientos,Libras,251 USD,Transferencia,Recibido,Baja
+11/05/2026,CP-497,,PROV_B, 200,,186 USD,Efectivo,Recibido,Baja
+2026.05.20,CP-617,Pintura,Prov_A, 200,unid,328 USD,Tjta,Recibido,Alta
+2026.05.29,CP-545,Acero,Proveedor A,quinientos,unid,61 USD,Transferencia,En transito,Media
+2026-04-07,CP-137,Acero,Proveedor A,quinientos,KG,192 USD,Transferencia,,Alta
+02/04/2026,CP-916,Pintura,Proveedor A,quinientos,kg,206 USD,Transferencia,Recibido,Media
+2026.05.22,CP-214,Pintura,PROV_A,100,unid,173 USD,Efectivo,Cancelado,Baja
+2026.01.30,CP-962,Plástico,Prov_A, 200,Libras,379 USD,Tjta,Recibido,Urgente
+2026-04-25,CP-825,Plástico,prov_b,quinientos,unid,144 USD,Tarjeta,Cancelado,Media
+,CP-297,Pintura,Prov_A, 200,unid,246 USD,Tarjeta,Cancelado,Alta
+03/06/2026,CP-508,,PROV_B,400,unid,451 USD,Tarjeta,Cancelado,Urgente
+2026-01-24,CP-737,Aluminio,prov_b,400,Lts,308 USD,Tjta,Recibido,Baja
+2026.06.01,CP-219,Aluminio,prov_b, 200,KG,69 USD,Tjta,Recibido,Baja
+2026-01-03,CP-592,Acero,PROV_B,quinientos,Libras,356 USD,Transferencia,RECIBIDO,Baja
+2026-03-19,CP-224,Tornillos,prov_b, 200,KG,299 USD,Efectivo,En transito,Media
+2026.03.09,CP-724,Acero,PROV_A,400,Libras,342 USD,Tjta,En transito,Alta
+30/06/2026,CP-829,Acero,Prov_A,400,Lts,120 USD,Transferencia,En transito,Alta
+2026.06.12,CP-691,Plástico,Proveedor A,100,Libras,166 USD,Efectivo,Cancelado,Urgente
+18/05/2026,CP-762,Acero,prov_b,100,kg,199 USD,Efectivo,En transito,Urgente
+2026.04.07,CP-198,Tornillos,,300 ,KG,445 USD,Tjta,Recibido,Media
+2026.01.27,CP-977,Acero,prov_b,quinientos,Libras,357 USD,Tarjeta,Cancelado,Media
+2026.01.02,CP-885,Pintura,PROV_A,,Libras,342 USD,Transferencia,,Urgente
+2026-05-08,CP-423,Pintura,PROV_A,100,Lts,327 USD,Tjta,,Media
+2026-04-23,CP-694,Plástico,prov_b,300 ,kg,223 USD,Tarjeta,En transito,Baja
+2026-03-02,CP-539,Tornillos,Prov_A,quinientos,kg,316 USD,Transferencia,Recibido,
+2026.02.27,CP-487,Aluminio,PROV_A,quinientos,Lts,45 USD,Efectivo,Recibido,Baja
+2026.05.01,CP-620,Tornillos,PROV_A,400,unid,143 USD,Transf,Recibido,Alta
+2026-04-08,CP-320,,PROV_A,quinientos,,377 USD,Tjta,Recibido,Urgente
+2026.03.24,CP-706,Aluminio,PROV_A,300 ,Libras,449 USD,Tarjeta,En transito,Urgente
+02/02/2026,CP-877,Pintura,PROV_A,quinientos,unid,371 USD,Transferencia,Recibido,Urgente
+2026.01.13,CP-215,Tornillos,PROV_B, 200,Libras,495 USD,,En transito,Baja
+2026-03-05,CP-450,Acero,prov_b,,,205 USD,Tjta,En transito,Alta
+01/04/2026,CP-386,Pintura,Prov_A,300 ,unid,211 USD,Tjta,Recibido,Baja
+18/02/2026,CP-601,Aluminio,PROV_B,300 ,KG,148 USD,Efectivo,Cancelado,Baja
+2026.06.02,CP-317,Pintura,PROV_B,quinientos,Libras,235 USD,Transferencia,En transito,Baja
+12/05/2026,CP-377,Acero,PROV_B, 200,unid,106 USD,Efectivo,En transito,Media
+2026.02.12,CP-418,Tornillos,Proveedor A,100,unid,101 USD,Transf,RECIBIDO,Media
+2026.03.04,CP-623,Acero,,300 ,kg,155 USD,Tjta,Cancelado,Baja
+2026-06-20,CP-463,Plástico,PROV_B, 200,kg,258 USD,Transf,Recibido,Baja
+20/04/2026,CP-515,Plástico,Proveedor A, 200,KG,120 USD,Transf,Recibido,Urgente
+2026.04.16,CP-645,Tornillos,PROV_A,400,,291 USD,Transf,En transito,
+06/01/2026,CP-329,,Prov_A,400,,308 USD,Transferencia,En transito,Urgente
+2026-01-06,CP-754,Aluminio,PROV_B,,Libras,62 USD,Tjta,Cancelado,Alta
+20/05/2026,CP-452,Acero,Prov_A,300 ,Lts,469 USD,Transferencia,RECIBIDO,Media
+2026-05-19,CP-802,Aluminio,prov_b,400,KG,,Tarjeta,,Media
+2026.02.16,CP-896,Pintura,PROV_B,300 ,unid,,Tarjeta,En transito,Baja
+19/05/2026,CP-218,Acero,prov_b,quinientos,Lts,172 USD,Transferencia,Cancelado,Alta
+,CP-266,Aluminio,prov_b,quinientos,Lts,317 USD,Efectivo,RECIBIDO,Media
+13/02/2026,CP-174,Acero,Prov_A,300 ,Lts,,Transf,Recibido,Media
+2026-01-31,CP-144,Acero,Prov_A,100,kg,153 USD,Efectivo,Recibido,Alta
+2026-05-06,CP-564,Aluminio,PROV_B,quinientos,Libras,18 USD,Tjta,Recibido,Baja
+2026.04.21,CP-574,Plástico,PROV_B,400,Lts,449 USD,Transf,RECIBIDO,Urgente
+,CP-924,Acero,Proveedor A,100,Libras,481 USD,Tjta,Cancelado,Alta
+2026-06-07,CP-627,Pintura,Proveedor A, 200,Libras,308 USD,Tarjeta,En transito,Media
+03/04/2026,CP-836,Pintura,PROV_B,100,KG,139 USD,Tarjeta,En transito,Alta
+2026-04-18,CP-195,Tornillos,PROV_A,300 ,KG,292 USD,Tjta,Cancelado,Alta
+2026.04.12,CP-694,Acero,Proveedor A,300 ,KG,332 USD,Transf,Recibido,Alta
+20/06/2026,CP-751,Tornillos,Proveedor A,300 ,Lts,52 USD,Efectivo,,Urgente
+2026.03.27,CP-927,Aluminio,,100,Lts,254 USD,Transferencia,RECIBIDO,Urgente
+2026-06-26,CP-144,Plástico,PROV_A,400,Lts,357 USD,Transferencia,Cancelado,Alta
+14/03/2026,CP-596,Pintura,Proveedor A,quinientos,KG,271 USD,Efectivo,RECIBIDO,Alta
+05/02/2026,CP-182,Aluminio,Proveedor A,,kg,461 USD,Efectivo,Cancelado,Alta
+2026-04-22,CP-916,Tornillos,Proveedor A,100,kg,63 USD,Transf,Cancelado,Baja
+2026-04-24,CP-765,Tornillos,Prov_A,400,Libras,342 USD,,Cancelado,Baja
+2026-06-17,CP-656,Acero,PROV_A,quinientos,Lts,,Tarjeta,Recibido,Media
+2026-02-01,CP-674,Plástico,Proveedor A,300 ,unid,364 USD,Transf,,Media
+,CP-797,Acero,PROV_B, 200,KG,320 USD,Efectivo,En transito,
+2026.01.15,CP-709,,PROV_A,300 ,unid,,Transf,En transito,Urgente
+,CP-918,Pintura,Prov_A,300 ,Lts,482 USD,Efectivo,En transito,Baja
+2026.02.12,CP-709,Acero,prov_b, 200,kg,21 USD,Tarjeta,RECIBIDO,Urgente
+2026-05-30,CP-143,Plástico,Prov_A,400,kg,240 USD,Tjta,En transito,Alta
+05/05/2026,CP-415,Acero,prov_b, 200,kg,364 USD,Transferencia,Cancelado,Baja
+11/03/2026,CP-906,Plástico,PROV_A,100,unid,371 USD,Transferencia,En transito,Alta
+2026-02-15,CP-609,Tornillos,prov_b, 200,Lts,93 USD,Transferencia,,Media
+2026.02.06,CP-122,Aluminio,prov_b,300 ,Libras,24 USD,Transferencia,Recibido,Alta
+2026-05-02,CP-816,Pintura,PROV_A, 200,KG,197 USD,Transferencia,RECIBIDO,Media
+2026.04.22,CP-587,Acero,PROV_B, 200,kg,242 USD,Tarjeta,,Baja
+10/04/2026,CP-954,Tornillos,prov_b,quinientos,Lts,12 USD,Tarjeta,Recibido,Alta
+2026-02-24,CP-113,Tornillos,Prov_A,quinientos,KG,161 USD,Transferencia,En transito,Urgente
+2026-01-13,CP-593,Pintura,Prov_A,quinientos,Lts,427 USD,Transf,Cancelado,Baja
+2026.03.06,CP-647,Aluminio,prov_b,300 ,Libras,435 USD,Tarjeta,Cancelado,Urgente
+2026.01.14,CP-222,Plástico,Prov_A, 200,KG,101 USD,Transferencia,Cancelado,Alta
+30/04/2026,CP-884,Tornillos,Prov_A,100,kg,144 USD,Transf,,Baja
+2026-05-05,CP-240,Plástico,Proveedor A,quinientos,unid,381 USD,Efectivo,Cancelado,Alta
+2026-06-21,,,Proveedor A,300 ,Lts,253 USD,Tarjeta,RECIBIDO,Alta
+31/05/2026,CP-975,Aluminio,prov_b,100,kg,466 USD,Tarjeta,Cancelado,Baja
+2026.02.04,CP-463,Tornillos,Proveedor A,400,Libras,237 USD,Efectivo,RECIBIDO,Urgente
+17/03/2026,CP-573,Aluminio,PROV_B,100,KG,372 USD,Transferencia,RECIBIDO,Alta
+2026-01-15,CP-501,Pintura,prov_b,100,Lts,98 USD,Tarjeta,Recibido,Urgente
+09/03/2026,CP-131,Aluminio,Proveedor A,100,,347 USD,Tarjeta,En transito,Baja
+2026.01.18,CP-530,Aluminio,prov_b,100,Libras,231 USD,Transf,RECIBIDO,Baja
+15/01/2026,CP-899,Pintura,Prov_A,100,unid,492 USD,Transf,En transito,Baja
+2026.03.20,CP-392,Acero,Prov_A,300 ,KG,75 USD,Transf,En transito,Baja
+2026-05-27,CP-243,Pintura,prov_b,300 ,unid,165 USD,Transf,Cancelado,Baja
+02/05/2026,CP-690,Tornillos,prov_b,400,Libras,79 USD,Transferencia,,
+23/02/2026,CP-995,Acero,PROV_A,400,Libras,383 USD,Tarjeta,RECIBIDO,Urgente
+2026.05.29,CP-634,Tornillos,Prov_A,300 ,,68 USD,Efectivo,En transito,Baja
+16/06/2026,CP-918,Pintura,PROV_A,400,unid,497 USD,Tarjeta,En transito,Baja
+2026-02-22,CP-286,Plástico,PROV_B,100,kg,93 USD,Tarjeta,Recibido,Urgente
+2026-02-18,CP-958,Tornillos,Prov_A,400,Lts,65 USD,Transferencia,RECIBIDO,Baja
+14/04/2026,CP-198,Pintura,prov_b,quinientos,kg,493 USD,Tjta,Cancelado,Baja
+,CP-959,Tornillos,PROV_B,300 ,Libras,350 USD,Transf,RECIBIDO,Baja
+2026.02.13,CP-652,Acero,PROV_B,100,,,Transf,En transito,Baja
+26/05/2026,CP-350,Tornillos,prov_b,300 ,unid,336 USD,Transferencia,RECIBIDO,Urgente
+24/06/2026,CP-367,Acero,PROV_A, 200,Libras,135 USD,Tarjeta,En transito,Urgente
+2026-06-24,CP-971,Aluminio,PROV_A,quinientos,unid,459 USD,Tarjeta,,Urgente
+07/06/2026,CP-349,Aluminio,prov_b,300 ,Lts,219 USD,,Cancelado,
